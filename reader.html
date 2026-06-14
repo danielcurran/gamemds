@@ -342,7 +342,7 @@ a:hover { text-decoration: underline; color: #f5e88a; }
 </div>
 
 <script type="module">
-import { marked } from 'https://cdn.jsdelivr.net/npm/marked@14.1.4/lib/marked.esm.js';
+import { marked } from './marked.js';
 
 const $ = id => document.getElementById(id);
 let tocData = [], flatSections = [], currentIdx = -1, sidebarOpen = false;
@@ -350,8 +350,20 @@ let tocData = [], flatSections = [], currentIdx = -1, sidebarOpen = false;
 function toggleSidebar() { sidebarOpen = !sidebarOpen; $('sidebar').classList.toggle('show', sidebarOpen); }
 
 async function loadToc() {
-  const res = await fetch('guide/toc.json');
-  tocData = await res.json();
+  try {
+    const res = await fetch('guide/toc.json');
+    if (!res.ok) throw new Error(`Server returned ${res.status}`);
+    tocData = await res.json();
+  } catch (err) {
+    console.warn('faqmd: failed to load TOC', err.message);
+    const msg = err.message.includes('fetch') || err.message.includes('NetworkError')
+      ? 'Network error — check your connection.'
+      : err.message.includes('returned')
+        ? 'Server error — the guide may be temporarily unavailable.'
+        : err.message;
+    $('content').innerHTML = `<p style="color:var(--ff-muted);text-align:center;padding:60px">Failed to load guide.</p><p style="color:var(--ff-muted);text-align:center;font-size:0.85rem">${msg}</p>`;
+    return;
+  }
   function flatten(nodes, depth) {
     for (const n of nodes) {
       flatSections.push({...n, depth});
@@ -366,6 +378,10 @@ async function loadToc() {
 }
 
 function renderToc(nodes) {
+  if (!nodes || nodes.length === 0) {
+    $('toc').innerHTML = '<p style="padding:20px;color:var(--ff-muted);font-size:0.85rem;text-align:center">Guide not available.</p>';
+    return;
+  }
   $('toc').innerHTML = buildTocHtml(nodes);
 }
 
@@ -401,7 +417,11 @@ async function loadSection(idx) {
     $('content').scrollTop = 0;
     location.hash = '#' + s.num;
   } catch(e) {
-    $('content').innerHTML = '<p>Error loading section.</p><p style="color:var(--ff-muted);font-size:0.8rem">' + e.message + '</p>';
+    console.warn('faqmd: failed to load section', s?.file, e.message);
+    const msg = e.message.includes('fetch') ? 'Network error — check your connection.'
+      : e.message.includes('404') ? 'Section file not found.'
+      : e.message;
+    $('content').innerHTML = `<p style="color:var(--ff-muted);text-align:center;padding:60px">Error loading section.</p><p style="color:var(--ff-muted);text-align:center;font-size:0.85rem">${msg}</p>`;
   }
 }
 
@@ -473,6 +493,10 @@ $('search-input').addEventListener('input', function() {
 });
 
 $('menu-btn').addEventListener('click', toggleSidebar);
+
+$('main').addEventListener('click', e => {
+  if (sidebarOpen && !e.target.closest('#sidebar')) toggleSidebar();
+});
 $('prev-btn').addEventListener('click', goPrev);
 $('next-btn').addEventListener('click', goNext);
 $('prev-btn2').addEventListener('click', goPrev);
