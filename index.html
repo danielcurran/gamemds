@@ -110,30 +110,6 @@ h1 {
   color: var(--ff-muted);
 }
 
-.links {
-  display: flex;
-  gap: 16px;
-  flex-wrap: wrap;
-  margin-top: 4px;
-}
-.link-btn {
-  display: inline-block;
-  padding: 8px 20px;
-  border: 1px solid var(--ff-border);
-  border-radius: 4px;
-  background: var(--ff-blue);
-  color: var(--ff-gold);
-  font-family: var(--ff-font);
-  font-size: 0.9rem;
-  letter-spacing: 0.3px;
-  transition: all 0.15s;
-}
-.link-btn:hover {
-  background: #3f4791;
-  border-color: var(--ff-gold);
-  text-decoration: none;
-}
-
 footer {
   text-align: center;
   padding: 20px 24px 32px;
@@ -160,9 +136,9 @@ footer a:hover { color: var(--ff-gold); }
   <div class="window">
     <h2>Walkthroughs</h2>
 
-    <a class="guide-card" href="reader.html">
-      <span class="guide-title">Phantasy Star IV</span>
-      <span class="guide-meta">Guide and Walkthrough by Seb Holt (Sir Pobalot) — 173 sections</span>
+    <a class="guide-card" href="reader.html" data-title="Phantasy Star IV" data-author="Seb Holt (Sir Pobalot)" data-desc="Guide and Walkthrough">
+      <span class="guide-title"></span>
+      <span class="guide-meta"></span>
     </a>
   </div>
 
@@ -176,16 +152,35 @@ footer a:hover { color: var(--ff-gold); }
     </p>
   </div>
 
-  <div class="links">
-    <a class="link-btn" href="https://github.com/danielcurran/faqmd">GitHub</a>
-    <a class="link-btn" href="reader.html">Open Reader</a>
-  </div>
-</main>
-
 <footer>
   FF6 CSS by <a href="https://github.com/cafeTechne/Final-Fantasy-CSS" target="_blank" rel="noopener">cafeTechne/Final-Fantasy-CSS</a>
   &middot; <a href="https://github.com/danielcurran/faqmd" target="_blank" rel="noopener">faqmd on GitHub</a>
 </footer>
+
+<script>
+(async () => {
+  const card = document.querySelector('.guide-card');
+  if (!card) return;
+  card.querySelector('.guide-title').textContent = card.dataset.title;
+
+  try {
+    const res = await fetch('guide/toc.json');
+    if (!res.ok) return;
+    const toc = await res.json();
+    function countSections(nodes) {
+      let n = 0;
+      for (const node of nodes) {
+        if (node.file) n++;
+        if (node.children) n += countSections(node.children);
+      }
+      return n;
+    }
+    const sections = countSections(toc);
+    card.querySelector('.guide-meta').textContent =
+      card.dataset.desc + ' by ' + card.dataset.author + ' — ' + sections + ' sections';
+  } catch {}
+})();
+</script>
 
 </body>
 </html>
