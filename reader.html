@@ -492,10 +492,13 @@ $('search-input').addEventListener('input', function() {
   });
 });
 
-$('menu-btn').addEventListener('click', toggleSidebar);
+$('menu-btn').addEventListener('click', e => {
+  e.stopPropagation();
+  toggleSidebar();
+});
 
 $('main').addEventListener('click', e => {
-  if (sidebarOpen && !e.target.closest('#sidebar') && e.target.id !== 'menu-btn') toggleSidebar();
+  if (sidebarOpen && !e.target.closest('#sidebar') && !e.target.closest('#menu-btn')) toggleSidebar();
 });
 $('prev-btn').addEventListener('click', goPrev);
 $('next-btn').addEventListener('click', goNext);
