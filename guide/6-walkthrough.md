@@ -1,3 +1,6 @@
+<a id="s5"></a>
+# 5. Setting the Scene
+
 <a id="s6"></a>
 
 # 6. Walkthrough

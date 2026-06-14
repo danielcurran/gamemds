@@ -2,7 +2,7 @@
 
 # 9. Character Statistics
 
-The following lists detail the statistics and required EXP for each character, based upon their current Level. For the moment, these lists only show the statistics up to the last Level that requires less than a million EXP, but I will add the remaining entries once I have obtained them all. Chaz - Initial Technique: RES Skill 1 Skill 2 Skill 3 Skill 4 Skill 5 EARTH CROSSCUT AIRSLASH RAYBLADE EXPLODE
+**Skill 1 Skill 2 Skill 3 Skill 4 Skill 5 EARTH CROSSCUT AIRSLASH RAYBLADE EXPLODE**
 
 
 
@@ -67,7 +67,7 @@ The following lists detail the statistics and required EXP for each character, 
 
 
 
-Alys - Initial Techniques: FOI,SHIFT,SANER Skill 1 Skill 2 Skill 3 VORTEX MOONSHAD DEATH
+**Skill 1 Skill 2 Skill 3 VORTEX MOONSHAD DEATH**
 
 
 
@@ -122,7 +122,7 @@ Alys - Initial Techniques: FOI,SHIFT,SANER Skill 1 Skill 2 Skill 3 VORTEX MOON
 
 
 
-Hahn - Initial Techniques: RES,GELUN Skill 1 Skill 2 Skill 3 VISION ASTRAL ELIMINAT
+**Skill 1 Skill 2 Skill 3 VISION ASTRAL ELIMINAT**
 
 
 
@@ -186,7 +186,7 @@ Hahn - Initial Techniques: RES,GELUN Skill 1 Skill 2 Skill 3 VISION ASTRAL ELI
 
 
 
-Rune - Initial Techniques: FOI,WAT,GRA,AROWS,HINAS,RYUKA Skill 1 Skill 2 Skill 3 Skill 4 Skill 5 Skill 6 Skill 7 FLAELI HEWN DIEM TANDLE EFESS NEGATIS LEGEON
+**Skill 1 Skill 2 Skill 3 Skill 4 Skill 5 Skill 6 Skill 7 FLAELI HEWN DIEM TANDLE EFESS NEGATIS LEGEON**
 
 
 
@@ -230,7 +230,7 @@ Rune - Initial Techniques: FOI,WAT,GRA,AROWS,HINAS,RYUKA Skill 1 Skill 2 Skill 
 
 
 
-Gryz - Initial Technique: BROSE Skill 1 Skill 2 Skill 3 CRASH WAR CRY SWEEPING
+**Skill 1 Skill 2 Skill 3 CRASH WAR CRY SWEEPING**
 
 
 
@@ -292,7 +292,7 @@ Gryz - Initial Technique: BROSE Skill 1 Skill 2 Skill 3 CRASH WAR CRY SWEEPING
 
 
 
-Rika - Initial Technique: RES Skill 1 Skill 2 Skill 3 Skill 4 ILLUSION DBLSLASH ELIMINAT DISRUPT
+**Skill 1 Skill 2 Skill 3 Skill 4 ILLUSION DBLSLASH ELIMINAT DISRUPT**
 
 
 
@@ -361,7 +361,7 @@ Rika - Initial Technique: RES Skill 1 Skill 2 Skill 3 Skill 4 ILLUSION DBLSLAS
 
 
 
-Demi - Skill 1 Skill 2 Skill 3 Skill 4 Skill 5 Skill 6* RECOVER STASISBM SPARK BARRIER MEDIC PW PHONON
+**Demi - Skill 1 Skill 2 Skill 3 Skill 4 Skill 5 Skill 6* RECOVER STASISBM SPARK BARRIER MEDIC PW PHONON**
 
 
 
@@ -413,7 +413,7 @@ Demi - Skill 1 Skill 2 Skill 3 Skill 4 Skill 5 Skill 6* RECOVER STASISBM SPARK 
 
 
 
-Wren - Skill 1 Skill 2 Skill 3 Skill 4 Skill 5* Skill 6* Skill 7* RECOVER FLARE SPARK BARRIER HIJAMMER BURSTROC POSIBOLT
+**Wren - Skill 1 Skill 2 Skill 3 Skill 4 Skill 5* Skill 6* Skill 7* RECOVER FLARE SPARK BARRIER HIJAMMER BURSTROC POSIBOLT**
 
 
 
@@ -456,7 +456,7 @@ Wren - Skill 1 Skill 2 Skill 3 Skill 4 Skill 5* Skill 6* Skill 7* RECOVER FLARE
 
 
 
-Raja - Initial Techniques: RES,ANTI,RIMPA,SAR,AROWS,RIMIT,GIRES,SEALS,REVER Skill 1 Skill 2 Skill 3 Skill 4 Skill 5 BLESSING HOLYWORD ATARAXIA MIRACLE ST. FIRE
+**Skill 1 Skill 2 Skill 3 Skill 4 Skill 5 BLESSING HOLYWORD ATARAXIA MIRACLE ST. FIRE**
 
 
 
@@ -492,7 +492,7 @@ Raja - Initial Techniques: RES,ANTI,RIMPA,SAR,AROWS,RIMIT,GIRES,SEALS,REVER Ski
 
 
 
-Kyra - Initial Techniques: RES,FOI,ANTI,RIMPA,GIRES,GIFOI,GRA Skill 1 Skill 2 Skill 3 Skill 4 Skill 5 Skill 6 Skill 7 MEDICE FLAELI TELELE HEWN WARLA BINDWA TANDLE
+**Skill 1 Skill 2 Skill 3 Skill 4 Skill 5 Skill 6 Skill 7 MEDICE FLAELI TELELE HEWN WARLA BINDWA TANDLE**
 
 
 
@@ -528,7 +528,7 @@ Kyra - Initial Techniques: RES,FOI,ANTI,RIMPA,GIRES,GIFOI,GRA Skill 1 Skill 2 S
 
 
 
-Seth - Skill 1 Skill 2 Skill 3 Skill 4 SHADOW CORRSION MINDBLST DTHSPELL
+**Seth - Skill 1 Skill 2 Skill 3 Skill 4 SHADOW CORRSION MINDBLST DTHSPELL**
 
 
 
@@ -553,4 +553,4 @@ Seth - Skill 1 Skill 2 Skill 3 Skill 4 SHADOW CORRSION MINDBLST DTHSPELL
 
 
 
-* Skills marked with asterisks are learned by the android installing them. The numbers given for the stock of the Skill only apply once the Skill has been acquired. 10. Techniques CTCNQ
+**10. Techniques CTCNQ**

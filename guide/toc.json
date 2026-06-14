@@ -2,20 +2,20 @@
   {
     "num": "1",
     "title": "1. Introduction",
-    "file": "1.1-foreword.md",
+    "file": "3.2.1-on-foot.md",
     "depth": 0,
     "children": [
       {
         "num": "1.1",
         "title": "1.1. Foreword",
-        "file": "1.1-foreword.md",
+        "file": "3.2.1-on-foot.md",
         "depth": 1,
         "children": []
       },
       {
         "num": "1.2",
         "title": "1.2. Version History",
-        "file": "1.2-version-history.md",
+        "file": "3.2.1-on-foot.md",
         "depth": 1,
         "children": []
       }
@@ -24,20 +24,20 @@
   {
     "num": "2",
     "title": "2. Controls",
-    "file": "2-controls.md",
+    "file": "3.2.1-on-foot.md",
     "depth": 0,
     "children": []
   },
   {
     "num": "3",
     "title": "3. Game Mechanics",
-    "file": "3.1-the-field.md",
+    "file": "3.2.1-on-foot.md",
     "depth": 0,
     "children": [
       {
         "num": "3.1",
         "title": "3.1. The Field",
-        "file": "3.1-the-field.md",
+        "file": "3.2.1-on-foot.md",
         "depth": 1,
         "children": []
       },
@@ -57,7 +57,7 @@
           {
             "num": "3.2.2",
             "title": "3.2.2. In a Vehicle",
-            "file": "3.2.2-in-a-vehicle.md",
+            "file": "3.3.3-party-menu.md",
             "depth": 2,
             "children": []
           }
@@ -66,20 +66,20 @@
       {
         "num": "3.3",
         "title": "3.3. Menus",
-        "file": "3.3.1-title-menu.md",
+        "file": "3.3.3-party-menu.md",
         "depth": 1,
         "children": [
           {
             "num": "3.3.1",
             "title": "3.3.1. Title Menu",
-            "file": "3.3.1-title-menu.md",
+            "file": "3.3.3-party-menu.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "3.3.2",
             "title": "3.3.2. System Menu",
-            "file": "3.3.2-system-menu.md",
+            "file": "3.3.3-party-menu.md",
             "depth": 2,
             "children": []
           },
@@ -104,7 +104,7 @@
   {
     "num": "5",
     "title": "5. Setting the Scene",
-    "file": "5-setting-the-scene.md",
+    "file": "6-walkthrough.md",
     "depth": 0,
     "children": []
   },
@@ -144,7 +144,7 @@
           {
             "num": "6.1.4",
             "title": "6.1.4. Valley of Stone",
-            "file": "6.1.4-valley-of-stone.md",
+            "file": "6.1.5-rune-in-the-ruin.md",
             "depth": 2,
             "children": []
           },
@@ -165,7 +165,7 @@
           {
             "num": "6.1.7",
             "title": "6.1.7. Finding a Hidden Village",
-            "file": "6.1.7-finding-a-hidden-village.md",
+            "file": "6.1.8-meeting-the-natives.md",
             "depth": 2,
             "children": []
           },
@@ -250,7 +250,7 @@
           {
             "num": "6.2.7",
             "title": "6.2.7. A Tectonic Diversion",
-            "file": "6.2.7-a-tectonic-diversion.md",
+            "file": "6.2.8-the-furthest-point-east.md",
             "depth": 2,
             "children": []
           },
@@ -271,7 +271,7 @@
           {
             "num": "6.2.10",
             "title": "6.2.10. Dearly Departed",
-            "file": "6.2.10-dearly-departed.md",
+            "file": "6.2.11-an-act-of-nurves.md",
             "depth": 2,
             "children": []
           },
@@ -285,7 +285,7 @@
           {
             "num": "6.2.12",
             "title": "6.2.12. Upward Mobility",
-            "file": "6.2.12-upward-mobility.md",
+            "file": "6.2.13-artificial-satellite.md",
             "depth": 2,
             "children": []
           },
@@ -335,7 +335,7 @@
           {
             "num": "6.3.5",
             "title": "6.3.5. Crushed Ice and Musk Cats",
-            "file": "6.3.5-crushed-ice-and-musk-cats.md",
+            "file": "6.3.6-food-fit-for-a-penguin.md",
             "depth": 2,
             "children": []
           },
@@ -370,7 +370,7 @@
           {
             "num": "6.3.10",
             "title": "6.3.10. A Surprising Revelation",
-            "file": "6.3.10-a-surprising-revelation.md",
+            "file": "6.4.1-dezolis-largest-town.md",
             "depth": 2,
             "children": []
           }
@@ -392,14 +392,14 @@
           {
             "num": "6.4.2",
             "title": "6.4.2. Factory for Firearms",
-            "file": "6.4.2-factory-for-firearms.md",
+            "file": "6.4.4-castle-in-the-skies.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "6.4.3",
             "title": "6.4.3. Theft in the Temple",
-            "file": "6.4.3-theft-in-the-temple.md",
+            "file": "6.4.4-castle-in-the-skies.md",
             "depth": 2,
             "children": []
           },
@@ -427,7 +427,7 @@
           {
             "num": "6.4.7",
             "title": "6.4.7. Slash and Burn",
-            "file": "6.4.7-slash-and-burn.md",
+            "file": "6.4.8-a-living-tower.md",
             "depth": 2,
             "children": []
           },
@@ -448,7 +448,7 @@
           {
             "num": "6.4.10",
             "title": "6.4.10. Return to Motavia",
-            "file": "6.4.10-return-to-motavia.md",
+            "file": "6.5.1-trip-to-the-temple.md",
             "depth": 2,
             "children": []
           }
@@ -477,7 +477,7 @@
           {
             "num": "6.5.3",
             "title": "6.5.3. The Fourth Planet",
-            "file": "6.5.3-the-fourth-planet.md",
+            "file": "6.5.4-proving-your-strength.md",
             "depth": 2,
             "children": []
           },
@@ -498,21 +498,21 @@
           {
             "num": "6.5.6",
             "title": "6.5.6. Genesis of Algo",
-            "file": "6.5.6-genesis-of-algo.md",
+            "file": "6.5.9-final-preparations.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "6.5.7",
             "title": "6.5.7. Sword of the Espers",
-            "file": "6.5.7-sword-of-the-espers.md",
+            "file": "6.5.9-final-preparations.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "6.5.8",
             "title": "6.5.8. Holey Disaster",
-            "file": "6.5.8-holey-disaster.md",
+            "file": "6.5.9-final-preparations.md",
             "depth": 2,
             "children": []
           },
@@ -533,7 +533,7 @@
           {
             "num": "6.5.11",
             "title": "6.5.11. The Cycle is Broken",
-            "file": "6.5.11-the-cycle-is-broken.md",
+            "file": "6.6-walkthrough-summary.md",
             "depth": 2,
             "children": []
           }
@@ -551,33 +551,33 @@
   {
     "num": "7",
     "title": "7. Side Quests",
-    "file": "7.1.1-the-ranch-owner.md",
+    "file": "7.1.4-fissure-of-fear.md",
     "depth": 0,
     "children": [
       {
         "num": "7.1",
         "title": "7.1. The Hunters' Guild",
-        "file": "7.1.1-the-ranch-owner.md",
+        "file": "7.1.4-fissure-of-fear.md",
         "depth": 1,
         "children": [
           {
             "num": "7.1.1",
             "title": "7.1.1. The Ranch Owner",
-            "file": "7.1.1-the-ranch-owner.md",
+            "file": "7.1.4-fissure-of-fear.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "7.1.2",
             "title": "7.1.2. Tinkerbell's Dog",
-            "file": "7.1.2-tinkerbells-dog.md",
+            "file": "7.1.4-fissure-of-fear.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "7.1.3",
             "title": "7.1.3. Missing Student",
-            "file": "7.1.3-missing-student.md",
+            "file": "7.1.4-fissure-of-fear.md",
             "depth": 2,
             "children": []
           },
@@ -591,14 +591,14 @@
           {
             "num": "7.1.5",
             "title": "7.1.5. Stain in Life",
-            "file": "7.1.5-stain-in-life.md",
+            "file": "7.1.7-man-with-twist.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "7.1.6",
             "title": "7.1.6. Dying Boy",
-            "file": "7.1.6-dying-boy.md",
+            "file": "7.1.7-man-with-twist.md",
             "depth": 2,
             "children": []
           },
@@ -737,7 +737,7 @@
   {
     "num": "10",
     "title": "10. Techniques",
-    "file": "10-techniques.md",
+    "file": "10.1-by-character.md",
     "depth": 0,
     "children": [
       {
@@ -773,7 +773,7 @@
   {
     "num": "11",
     "title": "11. Skills",
-    "file": "11-skills.md",
+    "file": "11.1-by-character.md",
     "depth": 0,
     "children": [
       {
@@ -829,90 +829,90 @@
       {
         "num": "12.2",
         "title": "12.2. Elemental and Status Types",
-        "file": "12.2.1-fire.md",
+        "file": "13.1-expendables.md",
         "depth": 1,
         "children": [
           {
             "num": "12.2.1",
             "title": "12.2.1. Fire",
-            "file": "12.2.1-fire.md",
+            "file": "13.1-expendables.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "12.2.2",
             "title": "12.2.2. Water",
-            "file": "12.2.4-force.md",
+            "file": "13.1-expendables.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "12.2.3",
             "title": "12.2.3. Energy",
-            "file": "12.2.4-force.md",
+            "file": "13.1-expendables.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "12.2.4",
             "title": "12.2.4. Force",
-            "file": "12.2.4-force.md",
+            "file": "13.1-expendables.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "12.2.5",
             "title": "12.2.5. Gravity",
-            "file": "12.2.7-radiation.md",
+            "file": "13.1-expendables.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "12.2.6",
             "title": "12.2.6. Electric",
-            "file": "12.2.7-radiation.md",
+            "file": "13.1-expendables.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "12.2.7",
             "title": "12.2.7. Radiation",
-            "file": "12.2.7-radiation.md",
+            "file": "13.1-expendables.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "12.2.8",
             "title": "12.2.8. Light",
-            "file": "12.2.8-light.md",
+            "file": "13.1-expendables.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "12.2.9",
             "title": "12.2.9. Death",
-            "file": "12.2.9-death.md",
+            "file": "13.1-expendables.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "12.2.10",
             "title": "12.2.10. Destroy",
-            "file": "13-items.md",
+            "file": "13.1-expendables.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "12.2.11",
             "title": "12.2.11. Cleanse",
-            "file": "13-items.md",
+            "file": "13.1-expendables.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "12.2.12",
             "title": "12.2.12. EMP",
-            "file": "13-items.md",
+            "file": "13.1-expendables.md",
             "depth": 2,
             "children": []
           }
@@ -923,7 +923,7 @@
   {
     "num": "13",
     "title": "13. Items",
-    "file": "13-items.md",
+    "file": "13.1-expendables.md",
     "depth": 0,
     "children": [
       {
@@ -936,7 +936,7 @@
       {
         "num": "13.2",
         "title": "13.2. Weapons",
-        "file": "13.2-weapons.md",
+        "file": "13.2.1-list.md",
         "depth": 1,
         "children": [
           {
@@ -1007,7 +1007,7 @@
       {
         "num": "13.4",
         "title": "13.4. Head Protection",
-        "file": "13.4-head-protection.md",
+        "file": "13.4.1-list.md",
         "depth": 1,
         "children": [
           {
@@ -1043,7 +1043,7 @@
       {
         "num": "13.5",
         "title": "13.5. Body Protection",
-        "file": "13.5-body-protection.md",
+        "file": "13.5.1-list.md",
         "depth": 1,
         "children": [
           {
@@ -1086,27 +1086,27 @@
       {
         "num": "13.6",
         "title": "13.6. Vehicles",
-        "file": "13.6-vehicles.md",
+        "file": "13.7-special.md",
         "depth": 1,
         "children": [
           {
             "num": "13.6.1",
             "title": "13.6.1. Land Rover",
-            "file": "13.6.1-land-rover.md",
+            "file": "13.7-special.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "13.6.2",
             "title": "13.6.2. Ice Digger",
-            "file": "13.6.2-ice-digger.md",
+            "file": "13.7-special.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "13.6.3",
             "title": "13.6.3. Hydrofoil",
-            "file": "13.6.3-hydrofoil.md",
+            "file": "13.7-special.md",
             "depth": 2,
             "children": []
           }
@@ -1165,21 +1165,21 @@
           {
             "num": "14.2.2",
             "title": "14.2.2. Machines",
-            "file": "14.2.2-machines.md",
+            "file": "14.3-bestiary.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "14.2.3",
             "title": "14.2.3. Darkspawn",
-            "file": "14.2.3-darkspawn.md",
+            "file": "14.3-bestiary.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "14.2.4",
             "title": "14.2.4. Evil Beings",
-            "file": "14.2.4-evil-beings.md",
+            "file": "14.3-bestiary.md",
             "depth": 2,
             "children": []
           },
@@ -1204,26 +1204,26 @@
   {
     "num": "15",
     "title": "15. Boss Strategies",
-    "file": "15.1.1-igglanova-1.md",
+    "file": "16.5-towns-and-villages.md",
     "depth": 0,
     "children": [
       {
         "num": "15.1",
         "title": "15.1. Act I",
-        "file": "15.1.1-igglanova-1.md",
+        "file": "16.5-towns-and-villages.md",
         "depth": 1,
         "children": [
           {
             "num": "15.1.1",
             "title": "15.1.1. Igglanova 1",
-            "file": "15.1.1-igglanova-1.md",
+            "file": "16.5-towns-and-villages.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "15.1.2",
             "title": "15.1.2. Igglanova 2",
-            "file": "15.1.2-igglanova-2.md",
+            "file": "16.5-towns-and-villages.md",
             "depth": 2,
             "children": []
           }
@@ -1232,41 +1232,41 @@
       {
         "num": "15.2",
         "title": "15.2. Act II",
-        "file": "15.2.1-juza.md",
+        "file": "16.5-towns-and-villages.md",
         "depth": 1,
         "children": [
           {
             "num": "15.2.1",
             "title": "15.2.1. Juza",
-            "file": "15.2.1-juza.md",
+            "file": "16.5-towns-and-villages.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "15.2.2",
             "title": "15.2.2. Zio 1",
-            "file": "15.2.2-zio-1.md",
+            "file": "16.5-towns-and-villages.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "15.2.3",
             "title": "15.2.3. Gy-Laguiah 1",
-            "file": "15.2.3-gy-laguiah-1.md",
+            "file": "16.5-towns-and-villages.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "15.2.4",
             "title": "15.2.4. Zio 2",
-            "file": "15.2.4-zio-2.md",
+            "file": "16.5-towns-and-villages.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "15.2.5",
             "title": "15.2.5. ChaosSorcr",
-            "file": "15.2.5-chaossorcr.md",
+            "file": "16.5-towns-and-villages.md",
             "depth": 2,
             "children": []
           }
@@ -1275,34 +1275,34 @@
       {
         "num": "15.3",
         "title": "15.3. Act III",
-        "file": "15.3.1-dark-force-1.md",
+        "file": "16.5-towns-and-villages.md",
         "depth": 1,
         "children": [
           {
             "num": "15.3.1",
             "title": "15.3.1. Dark Force 1",
-            "file": "15.3.1-dark-force-1.md",
+            "file": "16.5-towns-and-villages.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "15.3.2",
             "title": "15.3.2. Gy-Laguiah 2",
-            "file": "15.3.2-gy-laguiah-2.md",
+            "file": "16.5-towns-and-villages.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "15.3.3",
             "title": "15.3.3. D-Elm-Lars",
-            "file": "15.3.4-carnivorous-trees.md",
+            "file": "16.5-towns-and-villages.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "15.3.4",
             "title": "15.3.4. Carnivorous Trees",
-            "file": "15.3.4-carnivorous-trees.md",
+            "file": "16.5-towns-and-villages.md",
             "depth": 2,
             "children": []
           }
@@ -1311,27 +1311,27 @@
       {
         "num": "15.4",
         "title": "15.4. Act IV",
-        "file": "15.4.1-xe-a-thouls.md",
+        "file": "16.5-towns-and-villages.md",
         "depth": 1,
         "children": [
           {
             "num": "15.4.1",
             "title": "15.4.1. Xe-A-Thouls",
-            "file": "15.4.1-xe-a-thouls.md",
+            "file": "16.5-towns-and-villages.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "15.4.2",
             "title": "15.4.2. Lashiec",
-            "file": "15.4.2-lashiec.md",
+            "file": "16.5-towns-and-villages.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "15.4.3",
             "title": "15.4.3. Dark Force 2",
-            "file": "15.4.3-dark-force-2.md",
+            "file": "16.5-towns-and-villages.md",
             "depth": 2,
             "children": []
           }
@@ -1340,34 +1340,34 @@
       {
         "num": "15.5",
         "title": "15.5. Act V",
-        "file": "15.5.1-dark-force-3.md",
+        "file": "16.5-towns-and-villages.md",
         "depth": 1,
         "children": [
           {
             "num": "15.5.1",
             "title": "15.5.1. Dark Force 3",
-            "file": "15.5.1-dark-force-3.md",
+            "file": "16.5-towns-and-villages.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "15.5.2",
             "title": "15.5.2. De-Vars",
-            "file": "15.5.2-de-vars.md",
+            "file": "16.5-towns-and-villages.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "15.5.3",
             "title": "15.5.3. Sa-Lews",
-            "file": "15.5.3-sa-lews.md",
+            "file": "16.5-towns-and-villages.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "15.5.4",
             "title": "15.5.4. Profound Darkness",
-            "file": "15.5.4-profound-darkness.md",
+            "file": "16.5-towns-and-villages.md",
             "depth": 2,
             "children": []
           }
@@ -1376,27 +1376,27 @@
       {
         "num": "15.6",
         "title": "15.6. Side Missions",
-        "file": "15.6.1-fract-ooze.md",
+        "file": "16.5-towns-and-villages.md",
         "depth": 1,
         "children": [
           {
             "num": "15.6.1",
             "title": "15.6.1. Fract Ooze",
-            "file": "15.6.1-fract-ooze.md",
+            "file": "16.5-towns-and-villages.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "15.6.3",
             "title": "15.6.3. Dominators",
-            "file": "16.1-algo.md",
+            "file": "16.5-towns-and-villages.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "15.6.4",
             "title": "15.6.4. Alys",
-            "file": "16.1-algo.md",
+            "file": "16.5-towns-and-villages.md",
             "depth": 2,
             "children": []
           }
@@ -1407,34 +1407,34 @@
   {
     "num": "16",
     "title": "16. Geography",
-    "file": "16.1-algo.md",
+    "file": "16.5-towns-and-villages.md",
     "depth": 0,
     "children": [
       {
         "num": "16.1",
         "title": "16.1. Algo",
-        "file": "16.1-algo.md",
+        "file": "16.5-towns-and-villages.md",
         "depth": 1,
         "children": []
       },
       {
         "num": "16.2",
         "title": "16.2. Motavia",
-        "file": "16.2-motavia.md",
+        "file": "16.5-towns-and-villages.md",
         "depth": 1,
         "children": []
       },
       {
         "num": "16.3",
         "title": "16.3. Dezolis",
-        "file": "16.3-dezolis.md",
+        "file": "16.5-towns-and-villages.md",
         "depth": 1,
         "children": []
       },
       {
         "num": "16.4",
         "title": "16.4. Rykros",
-        "file": "16.4-rykros.md",
+        "file": "16.5-towns-and-villages.md",
         "depth": 1,
         "children": []
       },
@@ -1448,7 +1448,7 @@
       {
         "num": "16.6",
         "title": "16.6. Special Locations",
-        "file": "16.6-special-locations.md",
+        "file": "16.7-dungeons.md",
         "depth": 1,
         "children": []
       },
@@ -1464,7 +1464,7 @@
   {
     "num": "17",
     "title": "17. Party Conversation",
-    "file": "17-party-conversation.md",
+    "file": "18-sound-test.md",
     "depth": 0,
     "children": []
   },
@@ -1478,14 +1478,14 @@
   {
     "num": "19",
     "title": "19. Acknowledgements",
-    "file": "19-acknowledgements.md",
+    "file": null,
     "depth": 0,
     "children": []
   },
   {
     "num": "20",
     "title": "20. Contact Information",
-    "file": "20-contact-information.md",
+    "file": null,
     "depth": 0,
     "children": []
   }
