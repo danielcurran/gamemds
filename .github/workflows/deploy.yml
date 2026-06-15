@@ -27,8 +27,9 @@ jobs:
           sleep 30
           for i in 1 2 3 4 5; do
             echo "Attempt $i..."
-            curl -fsSL --retry 3 https://gamemds.org/ | grep -q "gamemds" && \
-            curl -fsSL --retry 3 https://gamemds.org/reader.html | grep -q "Loading guide" && \
+            # -k is used while the gamemds.org custom-domain certificate is still provisioning
+            curl -fsSLk --retry 3 https://gamemds.org/ | grep -q "gamemds" && \
+            curl -fsSLk --retry 3 https://gamemds.org/reader.html | grep -q "Loading guide" && \
             echo "Smoke test passed" && exit 0
             sleep 30
           done
