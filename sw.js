@@ -6,15 +6,15 @@ const STATIC_ASSETS = [
   '/',
   '/index.html',
   '/reader.html',
+  '/404.html',
   '/marked.js',
+  '/guides.json',
   '/assets/css/index.css',
   '/assets/css/reader.css',
   '/assets/js/index.js',
   '/assets/js/reader.js',
   '/assets/fonts/final_fantasy_36_font.woff',
-  '/assets/fonts/final_fantasy_36_font.ttf',
-  '/guide/toc.json',
-  '/guide/meta.json'
+  '/assets/fonts/final_fantasy_36_font.ttf'
 ];
 
 self.addEventListener('install', event => {
@@ -42,17 +42,10 @@ self.addEventListener('fetch', event => {
   // Only handle same-origin GET requests
   if (request.method !== 'GET' || url.origin !== self.location.origin) return;
 
-  // For guide section files, cache dynamically on first fetch
-  if (url.pathname.startsWith('/guide/')) {
-    event.respondWith(cacheFirst(request));
-    return;
-  }
-
-  // For static assets, cache first
-  event.respondWith(cacheFirst(request));
+  event.respondWith(cacheFirst(request, url));
 });
 
-async function cacheFirst(request) {
+async function cacheFirst(request, url) {
   const cache = await caches.open(CACHE_NAME);
   const cached = await cache.match(request);
   if (cached) return cached;

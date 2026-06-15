@@ -49,6 +49,16 @@ assert('index.html exists', () => fileExists(path.join(ROOT, 'index.html')));
 assert('reader.html exists', () => fileExists(path.join(ROOT, 'reader.html')));
 assert('404.html exists', () => fileExists(path.join(ROOT, '404.html')));
 assert('service worker exists', () => fileExists(path.join(ROOT, 'sw.js')));
+assert('guides.json exists and is valid', () => {
+  fileExists(path.join(ROOT, 'guides.json'));
+  const guides = JSON.parse(fs.readFileSync(path.join(ROOT, 'guides.json'), 'utf8'));
+  if (!Array.isArray(guides) || guides.length === 0) throw new Error('guides.json must be a non-empty array');
+  for (const g of guides) {
+    if (typeof g.slug !== 'string' || !g.slug) throw new Error('guide missing slug');
+    if (typeof g.title !== 'string' || !g.title) throw new Error('guide missing title');
+    if (typeof g.path !== 'string' || !g.path) throw new Error('guide missing path');
+  }
+});
 assert('CNAME exists', () => fileExists(path.join(ROOT, 'CNAME')));
 assert('CNAME contains gamemds.org', () => {
   const cname = fs.readFileSync(path.join(ROOT, 'CNAME'), 'utf8').trim();
@@ -145,6 +155,7 @@ assert('index.html references required external assets', () => {
   const html = fs.readFileSync(path.join(ROOT, 'index.html'), 'utf8');
   if (!html.includes('assets/css/index.css')) throw new Error('missing index.css link');
   if (!html.includes('assets/js/index.js')) throw new Error('missing index.js script');
+  if (!html.includes('id="guide-list"')) throw new Error('missing guide-list container');
   if (!html.includes('Content-Security-Policy')) throw new Error('missing CSP');
 });
 

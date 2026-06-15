@@ -4,22 +4,47 @@ import { marked } from '../../marked.js';
 marked.use({ renderer: { html: () => '' } });
 
 const $ = id => document.getElementById(id);
+let guides = [], activeGuide = null, guideBase = 'guide';
 let tocData = [], flatSections = [], currentIdx = -1, sidebarOpen = false;
 let guideMeta = {};
 
 function toggleSidebar() { sidebarOpen = !sidebarOpen; $('sidebar').classList.toggle('show', sidebarOpen); }
 
+function getQueryParam(name) {
+  const params = new URLSearchParams(location.search);
+  return params.get(name);
+}
+
+async function loadGuides() {
+  try {
+    const res = await fetch('guides.json');
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    guides = await res.json();
+  } catch (err) {
+    console.warn('faqmd: failed to load guides.json', err.message);
+    guides = [];
+  }
+  if (!Array.isArray(guides) || guides.length === 0) {
+    // Legacy fallback: single guide in guide/
+    guides = [{ slug: 'default', title: 'Guide', path: 'guide' }];
+  }
+
+  const requested = getQueryParam('game');
+  activeGuide = guides.find(g => g.slug === requested) || guides[0];
+  guideBase = activeGuide.path || activeGuide.slug;
+}
+
 async function loadMeta() {
   try {
-    const res = await fetch('guide/meta.json');
+    const res = await fetch(guideBase + '/meta.json');
     if (!res.ok) throw new Error('HTTP ' + res.status);
     guideMeta = await res.json();
   } catch (err) {
-    console.warn('faqmd: failed to load guide/meta.json', err.message);
+    console.warn('faqmd: failed to load ' + guideBase + '/meta.json', err.message);
     guideMeta = {
-      title: 'Guide',
-      subtitle: 'Walkthrough',
-      author: 'Unknown Author',
+      title: activeGuide.title || 'Guide',
+      subtitle: activeGuide.subtitle || 'Walkthrough',
+      author: activeGuide.author || 'Unknown Author',
       attributionHtml: 'Converted with <a href="https://github.com/danielcurran/faqmd" target="_blank" rel="noopener">faqmd</a>'
     };
   }
@@ -37,7 +62,7 @@ async function loadMeta() {
 
 async function loadToc() {
   try {
-    const res = await fetch('guide/toc.json');
+    const res = await fetch(guideBase + '/toc.json');
     if (!res.ok) throw new Error(`Server returned ${res.status}`);
     tocData = await res.json();
   } catch (err) {
@@ -93,7 +118,7 @@ async function loadSection(idx) {
   if (!s.file) return;
   $('content').innerHTML = '<div id="loading">Loading...</div>';
   try {
-    const res = await fetch('guide/' + s.file);
+    const res = await fetch(guideBase + '/' + s.file);
     if (!res.ok) throw new Error('HTTP ' + res.status);
     let md = await res.text();
     $('content').innerHTML = await marked.parse(md);
@@ -215,7 +240,7 @@ $('content').addEventListener('click', e => {
   }
 });
 
-loadMeta().then(() => loadToc());
+loadGuides().then(() => loadMeta()).then(() => loadToc());
 
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker.register('/sw.js').catch(err => console.warn('SW registration failed', err));

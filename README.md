@@ -17,8 +17,10 @@ walkthroughs lives in the separate **[faqmd](https://github.com/danielcurran/faq
 
 | Path | Purpose |
 |---|---|
-| `guide/` | Walkthrough section files — `index.md` (Table of Contents) + per-section `.md` + `toc.json` |
-| `reader.html` | Walkthrough viewer app — renders `guide/` sections with sidebar navigation and search |
+| `guides.json` | Manifest of available walkthroughs |
+| `guide/` | Walkthrough section files for the default/legacy guide |
+| `guides/<slug>/` | Walkthrough section files for additional games |
+| `reader.html` | Walkthrough viewer app — renders guide sections with sidebar navigation and search |
 | `index.html` | Landing page at [gamemds.org](https://gamemds.org) |
 | `marked.js` | Vendored markdown parsing library (loaded locally, not from CDN) |
 | `CNAME` | Custom domain — `gamemds.org` |
@@ -53,10 +55,9 @@ the content at [gamemds.org](https://gamemds.org).
    ```bash
    node scripts/split-guide.js walkthrough.md guide/
    ```
-5. Copy the generated `guide/` directory into this repo, replacing the existing one
-6. Update `reader.html` with the new game title and author
-7. Update `index.html` guide-card `data-*` attributes with the new game name and author. The section count loads dynamically from `guide/toc.json`.
-8. Commit and push — the site auto-deploys
+5. Copy the generated `guide/` directory into this repo under `guides/<slug>/` (or replace `guide/` for the legacy/default guide)
+6. Add the new guide to `guides.json` with `slug`, `title`, `subtitle`, `author`, `desc`, and `path`
+7. Commit and push — the site auto-deploys
 
 ## Related
 
