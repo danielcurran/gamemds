@@ -375,7 +375,3 @@ On the top floor of Anger Tower (MUMBL)
 
 
 Chaz: 'What! Where is this?... Where is everybody!?'
-
-
-
-18. Sound Test CSDTS

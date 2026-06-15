@@ -44,7 +44,7 @@
       {
         "num": "3.2",
         "title": "Battle",
-        "file": "3.2.1-on-foot.md",
+        "file": "3.2-battle.md",
         "depth": 1,
         "children": [
           {
@@ -630,7 +630,7 @@
   {
     "num": "8",
     "title": "Cast of Characters",
-    "file": "8.1.1-chaz-ashley.md",
+    "file": "8-cast-of-characters.md",
     "depth": 0,
     "children": [
       {
@@ -829,7 +829,7 @@
       {
         "num": "12.2",
         "title": "Elemental and Status Types",
-        "file": "12.2.1-fire.md",
+        "file": "12.2-elemental-and-status-types.md",
         "depth": 1,
         "children": [
           {
@@ -842,14 +842,14 @@
           {
             "num": "12.2.2",
             "title": "Water",
-            "file": "12.2.4-force.md",
+            "file": "12.2.2-water.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "12.2.3",
             "title": "Energy",
-            "file": "12.2.4-force.md",
+            "file": "12.2.3-energy.md",
             "depth": 2,
             "children": []
           },
@@ -863,14 +863,14 @@
           {
             "num": "12.2.5",
             "title": "Gravity",
-            "file": "12.2.7-radiation.md",
+            "file": "12.2.5-gravity.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "12.2.6",
             "title": "Electric",
-            "file": "12.2.7-radiation.md",
+            "file": "12.2.6-electric.md",
             "depth": 2,
             "children": []
           },
@@ -898,21 +898,21 @@
           {
             "num": "12.2.10",
             "title": "Destroy",
-            "file": "13-items.md",
+            "file": "12.2.10-destroy.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "12.2.11",
             "title": "Cleanse",
-            "file": "13-items.md",
+            "file": "12.2.11-cleanse.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "12.2.12",
             "title": "EMP",
-            "file": "13-items.md",
+            "file": "12.2.12-emp.md",
             "depth": 2,
             "children": []
           }
@@ -1124,7 +1124,7 @@
   {
     "num": "14",
     "title": "Enemies",
-    "file": "14.1.1-on-foot.md",
+    "file": "14-enemies.md",
     "depth": 0,
     "children": [
       {
@@ -1143,7 +1143,7 @@
           {
             "num": "14.1.2",
             "title": "In a Vehicle",
-            "file": "14.2.1-biomonsters.md",
+            "file": "14.1.2-in-a-vehicle.md",
             "depth": 2,
             "children": []
           }
@@ -1186,7 +1186,7 @@
           {
             "num": "14.2.5",
             "title": "Unique",
-            "file": "14.3-bestiary.md",
+            "file": "14.2.5-unique.md",
             "depth": 2,
             "children": []
           }
@@ -1204,7 +1204,7 @@
   {
     "num": "15",
     "title": "Boss Strategies",
-    "file": "15.1.1-igglanova-1.md",
+    "file": "15-boss-strategies.md",
     "depth": 0,
     "children": [
       {
@@ -1389,14 +1389,14 @@
           {
             "num": "15.6.3",
             "title": "Dominators",
-            "file": "16.1-algo.md",
+            "file": "15.6.3-dominators.md",
             "depth": 2,
             "children": []
           },
           {
             "num": "15.6.4",
             "title": "Alys",
-            "file": "16.1-algo.md",
+            "file": "15.6.4-alys.md",
             "depth": 2,
             "children": []
           }

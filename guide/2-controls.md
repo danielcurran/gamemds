@@ -35,7 +35,3 @@ Battle:
 
 
 START - No function A,C - Select option B - Cancel choice D-Pad - Scroll options
-
-
-
-3. Game Mechanics CGMCN

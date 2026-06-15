@@ -111,7 +111,3 @@ Immunity - Some enemies have particular immunities to certain forms of damage, a
 
 
 Critical - A critical attack can be inflicted by characters and enemies, and the chance of landing one is determined by the attacker's and the defender's Dexterity. They are random, and deal around 1.5 times as much damage as a regular attack. Very useful if scored by a character, but possibly devastating if landed by an enemy, critical attacks can sometimes tip the balance of combat in either side's favour.
-
-
-
-5. Setting the Scene CSTTS

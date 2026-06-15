@@ -6,6 +6,8 @@ The following lists detail the statistics and required EXP for each character, b
 
 
 
+<!-- MIXED -->
+
 Chaz - Initial Technique: RES Skill 1 Skill 2 Skill 3 Skill 4 Skill 5 EARTH CROSSCUT AIRSLASH RAYBLADE EXPLODE
 
 
@@ -71,6 +73,8 @@ Chaz - Initial Technique: RES Skill 1 Skill 2 Skill 3 Skill 4 Skill 5 EARTH CROS
 
 
 
+<!-- MIXED -->
+
 Alys - Initial Techniques: FOI,SHIFT,SANER Skill 1 Skill 2 Skill 3 VORTEX MOONSHAD DEATH
 
 
@@ -125,6 +129,8 @@ Alys - Initial Techniques: FOI,SHIFT,SANER Skill 1 Skill 2 Skill 3 VORTEX MOONSH
 ```
 
 
+
+<!-- MIXED -->
 
 Hahn - Initial Techniques: RES,GELUN Skill 1 Skill 2 Skill 3 VISION ASTRAL ELIMINAT
 
@@ -190,6 +196,8 @@ Hahn - Initial Techniques: RES,GELUN Skill 1 Skill 2 Skill 3 VISION ASTRAL ELIMI
 
 
 
+<!-- MIXED -->
+
 Rune - Initial Techniques: FOI,WAT,GRA,AROWS,HINAS,RYUKA Skill 1 Skill 2 Skill 3 Skill 4 Skill 5 Skill 6 Skill 7 FLAELI HEWN DIEM TANDLE EFESS NEGATIS LEGEON
 
 
@@ -233,6 +241,8 @@ Rune - Initial Techniques: FOI,WAT,GRA,AROWS,HINAS,RYUKA Skill 1 Skill 2 Skill 3
 ```
 
 
+
+<!-- MIXED -->
 
 Gryz - Initial Technique: BROSE Skill 1 Skill 2 Skill 3 CRASH WAR CRY SWEEPING
 
@@ -296,6 +306,8 @@ Gryz - Initial Technique: BROSE Skill 1 Skill 2 Skill 3 CRASH WAR CRY SWEEPING
 
 
 
+<!-- MIXED -->
+
 Rika - Initial Technique: RES Skill 1 Skill 2 Skill 3 Skill 4 ILLUSION DBLSLASH ELIMINAT DISRUPT
 
 
@@ -343,6 +355,8 @@ Rika - Initial Technique: RES Skill 1 Skill 2 Skill 3 Skill 4 ILLUSION DBLSLASH 
 
 
 
+<!-- MIXED -->
+
 <!-- MODERNIZE:unknown -->
 
 ```
@@ -371,6 +385,8 @@ Rika - Initial Technique: RES Skill 1 Skill 2 Skill 3 Skill 4 ILLUSION DBLSLASH 
 ```
 
 
+
+<!-- MIXED -->
 
 Demi - Skill 1 Skill 2 Skill 3 Skill 4 Skill 5 Skill 6* RECOVER STASISBM SPARK BARRIER MEDIC PW PHONON
 
@@ -424,6 +440,8 @@ Demi - Skill 1 Skill 2 Skill 3 Skill 4 Skill 5 Skill 6* RECOVER STASISBM SPARK B
 
 
 
+<!-- MIXED -->
+
 Wren - Skill 1 Skill 2 Skill 3 Skill 4 Skill 5* Skill 6* Skill 7* RECOVER FLARE SPARK BARRIER HIJAMMER BURSTROC POSIBOLT
 
 
@@ -467,6 +485,8 @@ Wren - Skill 1 Skill 2 Skill 3 Skill 4 Skill 5* Skill 6* Skill 7* RECOVER FLARE 
 
 
 
+<!-- MIXED -->
+
 Raja - Initial Techniques: RES,ANTI,RIMPA,SAR,AROWS,RIMIT,GIRES,SEALS,REVER Skill 1 Skill 2 Skill 3 Skill 4 Skill 5 BLESSING HOLYWORD ATARAXIA MIRACLE ST. FIRE
 
 
@@ -502,6 +522,8 @@ Raja - Initial Techniques: RES,ANTI,RIMPA,SAR,AROWS,RIMIT,GIRES,SEALS,REVER Skil
 ```
 
 
+
+<!-- MIXED -->
 
 Kyra - Initial Techniques: RES,FOI,ANTI,RIMPA,GIRES,GIFOI,GRA Skill 1 Skill 2 Skill 3 Skill 4 Skill 5 Skill 6 Skill 7 MEDICE FLAELI TELELE HEWN WARLA BINDWA TANDLE
 
@@ -539,6 +561,8 @@ Kyra - Initial Techniques: RES,FOI,ANTI,RIMPA,GIRES,GIFOI,GRA Skill 1 Skill 2 Sk
 
 
 
+<!-- MIXED -->
+
 Seth - Skill 1 Skill 2 Skill 3 Skill 4 SHADOW CORRSION MINDBLST DTHSPELL
 
 
@@ -565,7 +589,3 @@ Seth - Skill 1 Skill 2 Skill 3 Skill 4 SHADOW CORRSION MINDBLST DTHSPELL
 
 
 * Skills marked with asterisks are learned by the android installing them. The numbers given for the stock of the Skill only apply once the Skill has been acquired.
-
-
-
-10. Techniques CTCNQ

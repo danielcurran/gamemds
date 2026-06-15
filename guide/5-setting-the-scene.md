@@ -51,7 +51,3 @@ At last, civilization is once more on the rise across the Algo system. People ar
 
 
 But just as things look brighter, beyond a threshold long thought closed, a dark and very ancient evil stirs..."
-
-
-
-6. Walkthrough CWKTH

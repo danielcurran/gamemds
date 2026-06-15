@@ -19,7 +19,3 @@ Any additional information or rectification of mistakes will earn credit for the
 
 
 I am perfectly happy for this guide to be used on anyone's sites, so long as my permission is first obtained. Please do not remove, amend or add anything from this guide. If you feel something needs to be changed, please e-mail me at either address below and I will make appropriate adjustments.
-
-
-
-20. Contact Information CCNIF
