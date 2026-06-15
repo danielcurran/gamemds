@@ -635,18 +635,7 @@ a:hover { text-decoration: underline; color: #f5e88a; }
   opacity: 0.4;
 }
 
-/* --- Attribution --- */
-#attribution {
-  text-align: center;
-  padding: 10px 16px;
-  font-size: 0.75rem;
-  color: var(--ff-muted);
-  border-top: 1px solid var(--ff-border);
-  background: rgba(0,0,0,0.2);
-  line-height: 1.6;
-}
-#attribution a { color: var(--ff-muted); }
-#attribution a:hover { color: var(--ff-gold); }
+
 
 /* --- Mobile --- */
 #menu-btn { display: none; background: none; border: none; color: var(--ff-gold); font-size: 1.3rem; cursor: pointer; padding: 4px 8px; }

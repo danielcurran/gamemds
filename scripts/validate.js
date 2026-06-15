@@ -165,7 +165,6 @@ assert('reader.html references required external assets', () => {
   if (!html.includes('assets/js/reader.js')) throw new Error('missing reader.js script');
   if (!html.includes('Content-Security-Policy')) throw new Error('missing CSP');
   if (!html.includes('id="guide-header"')) throw new Error('missing guide-header placeholder');
-  if (!html.includes('id="guide-attribution"')) throw new Error('missing guide-attribution placeholder');
 });
 
 // ── Summary ──

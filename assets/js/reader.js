@@ -52,7 +52,7 @@ async function loadMeta() {
       title: activeGuide.title || 'Guide',
       subtitle: activeGuide.subtitle || 'Walkthrough',
       author: activeGuide.author || 'Unknown Author',
-      attributionHtml: 'Converted with <a href="https://github.com/danielcurran/faqmd" target="_blank" rel="noopener">faqmd</a>'
+      attributionHtml: ''
     };
   }
   document.title = guideMeta.title
@@ -62,9 +62,7 @@ async function loadMeta() {
     ? (guideMeta.title + (guideMeta.subtitle ? ' ' + guideMeta.subtitle : ''))
     : 'Guide & Walkthrough';
   $('guide-header').textContent = headerText;
-  if (guideMeta.attributionHtml) {
-    $('guide-attribution').innerHTML = guideMeta.attributionHtml;
-  }
+
 }
 
 async function loadToc() {
