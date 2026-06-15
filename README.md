@@ -19,7 +19,7 @@ walkthroughs lives in the separate **[faqmd](https://github.com/danielcurran/faq
 |---|---|
 | `guides.json` | Manifest of available walkthroughs |
 | `guide/` | Walkthrough section files for the default/legacy guide |
-| `guide/achievements.json` | RetroAchievements data — section mapping, missable cutoffs, strategic notes |
+| `guide/achievements.json` | RetroAchievements data — section mapping, missable cutoffs, strategic notes, player community tips from the RA Comments API |
 | `guide/achievements.md` | Auto-generated checklist with missable table + by-section view |
 | `guides/<slug>/` | Walkthrough section files for additional games |
 | `reader.html` | Walkthrough viewer app — renders guide sections with sidebar navigation, search, and a full achievement panel (badges, missable warnings, upcoming cutoff alerts, type filters, progress tracking, interactive checklist) |
@@ -46,7 +46,7 @@ the content at [gamemds.org](https://gamemds.org).
    cd faqmd
    node scripts/convert.js "https://gamefaqs.gamespot.com/.../faqs/12345?print=1"
    ```
-2. Optionally annotate with RetroAchievements via the opencode agent skill (produces `achievements.json`)
+2. Optionally annotate with RetroAchievements via the opencode agent skill (produces `achievements.json`). The agent uses the RA Comments API to resolve ambiguous placements, saving useful player tips as `communityTips` in the JSON.
 3. Optionally run quality passes:
    ```bash
    # (in opencode)
