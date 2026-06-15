@@ -807,9 +807,9 @@
       "displayOrder": 610,
       "type": "secret",
       "missable": false,
-      "section": "6.1.1",
-      "confidence": "medium",
-      "notes": "Read 3 specific books in the Motavia Academy library in Piata"
+      "section": "6.1.6",
+      "confidence": "high",
+      "notes": "Read 3 books in the Krup classroom (Hahn hometown, Section 6.1.6)"
     },
     {
       "id": 160875,

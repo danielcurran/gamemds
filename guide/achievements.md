@@ -25,7 +25,6 @@ Sorted by cutoff — complete these before the listed section or they become una
 
 #### 6.1.1 The Town of Learning
 
-- [ ] 🥉 **A Library for the AGES** — Read 3 certain books in a school. (1 pts)
 - [ ] 🥉 **Hahn** — Recruit Hahn. (1 pts)
 
 #### 6.1.2 Cleaning the Cellar
@@ -35,6 +34,10 @@ Sorted by cutoff — complete these before the listed section or they become una
 #### 6.1.5 Rune in the Ruin
 
 - [ ] 🥉 **Rune** — Recruit Rune. (5 pts)
+
+#### 6.1.6 Hahn's Hometown
+
+- [ ] 🥉 **A Library for the AGES** — Read 3 certain books in a school. (1 pts)
 
 #### 6.1.8 Meeting the Natives
 
