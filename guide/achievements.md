@@ -54,6 +54,7 @@ Sorted by cutoff — complete these before the listed section or they become una
 #### 6.2.1 Return to the Guild
 
 - [ ] 🥉 **A Doomed Vessel** — Inspect the computer system in Wreckage. (5 pts)
+- [ ] 🥉 **Welcome To The Phantasy Zone** — Opa! Opa! (1 pts)
 
 #### 6.2.3 Detour to Fort
 
@@ -259,4 +260,3 @@ Sorted by cutoff — complete these before the listed section or they become una
 #### 18 Sound Test
 
 - [ ] 🥉 **Encore!** — Access the hidden Sound Test. (1 pts)
-- [ ] 🥉 **Welcome To The Phantasy Zone** — Opa! Opa! (1 pts)

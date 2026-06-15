@@ -729,9 +729,15 @@
       "displayOrder": 550,
       "type": "secret",
       "missable": false,
-      "section": "18",
-      "confidence": "low",
-      "notes": "Easter egg likely accessed from Title Menu. Not explicitly documented in the walkthrough."
+      "section": "6.2.1",
+      "confidence": "high",
+      "notes": "Watch the dance in the Hunters Guild theatre in Aiedo",
+      "communityTips": [
+        {
+          "user": "Tybis",
+          "text": "For this achievement, you must see the dancers dance in Aiedo."
+        }
+      ]
     },
     {
       "id": 160617,
@@ -770,7 +776,13 @@
       "missable": false,
       "section": "6.2.8",
       "confidence": "medium",
-      "notes": "Termi is the hometown of Alis Landale and contains her statue"
+      "notes": "Termi is the hometown of Alis Landale and contains her statue",
+      "communityTips": [
+        {
+          "user": "SlashingLennart",
+          "text": "Cool statue, Rocky probably marked it as his property before he ran off again"
+        }
+      ]
     },
     {
       "id": 160619,
@@ -809,7 +821,17 @@
       "missable": false,
       "section": "6.1.6",
       "confidence": "high",
-      "notes": "Read 3 books in the Krup classroom (Hahn hometown, Section 6.1.6)"
+      "notes": "Read 3 books in the Krup classroom (Hahn hometown, Section 6.1.6)",
+      "communityTips": [
+        {
+          "user": "Tybis",
+          "text": "Its in Krup. The 3 books reference Sega games."
+        },
+        {
+          "user": "TartKingTony",
+          "text": "Each book cabinet has two books: left and right side"
+        }
+      ]
     },
     {
       "id": 160875,
@@ -873,8 +895,14 @@
       "type": "challenge",
       "missable": false,
       "section": "6.5.10",
-      "confidence": "medium",
-      "notes": "Defeat a Prophallus, the dreaded rare Darkspawn on lower levels of The Edge"
+      "confidence": "high",
+      "notes": "Defeat a Prophallus, the dreaded rare Darkspawn on lower levels of The Edge",
+      "communityTips": [
+        {
+          "user": "TartKingTony",
+          "text": "PROPHALLUS mob that looks exactly like the one on the cheevo picture. Found him on the 7th floor (the floor before the final boss floor)."
+        }
+      ]
     },
     {
       "id": 160410,
@@ -886,8 +914,18 @@
       "type": "collectible",
       "missable": false,
       "section": "6.2.4",
-      "confidence": "medium",
-      "notes": "SHADWBLADE drops from ShadowSabr in Zio's Fort and Ladea Tower"
+      "confidence": "high",
+      "notes": "SHADWBLADE drops from ShadowSabr in Zio's Fort and Ladea Tower",
+      "communityTips": [
+        {
+          "user": "sandroRetro",
+          "text": "This drops only in Zios Fort from Shadow Sabre. So I beat zio and the fort collapsed. No change to farm it after that. So this should be marked missable."
+        },
+        {
+          "user": "sandroRetro",
+          "text": "I was wrong here. Lades tower also has the enemies do not missable."
+        }
+      ]
     },
     {
       "id": 160602,
