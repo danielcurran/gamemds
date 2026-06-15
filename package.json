@@ -1,0 +1,13 @@
+{
+  "name": "gamemds",
+  "version": "1.0.0",
+  "description": "gamemds.org static walkthrough site",
+  "private": true,
+  "scripts": {
+    "test": "node scripts/validate.js",
+    "validate": "node scripts/validate.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
