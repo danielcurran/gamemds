@@ -1,6 +1,6 @@
-# Introduction
+# Phantasy Star IV
 
-> By Seb Holt (Sir Pobalot) — Converted from GameFAQs
+> By FByouth — Converted from GameFAQs
 
 > 💡 **Tip:** Press `t` in the GitHub app or website to search across all section files.
 
