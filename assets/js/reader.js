@@ -136,8 +136,9 @@ function renderAchievements(sectionNum) {
   if (!achs || achs.length === 0) return '';
   return '<div class="achievement-badges">' + achs.map(a => {
     const checked = achievementProgress[a.id] ? ' checked' : '';
+    const medal = a.points >= 25 ? '🏅' : a.points >= 10 ? '🥈' : '🥉';
     return `<div class="achievement-badge${a.missable ? ' missable' : ''}" data-id="${a.id}">
-      <img src="${a.badgeUrl}" alt="" class="achievement-icon" loading="lazy" onerror="this.style.display='none'">
+      <img src="${a.badgeUrl}" alt="${medal}" class="achievement-icon" loading="lazy">
       <div class="achievement-info">
         <strong>${a.title}</strong> — ${a.description}
         <span class="achievement-points">${a.points} pts</span>${a.missable ? '<span class="achievement-missable">⚠️ Missable</span>' : ''}
@@ -244,6 +245,18 @@ function bindAchievementCheckboxes() {
       achievementProgress[id] = cb.checked;
       saveProgress(achievements.gameId, achievementProgress);
       updateAchievementSidebar();
+    });
+  });
+}
+
+function bindAchievementImages() {
+  document.querySelectorAll('.achievement-icon').forEach(img => {
+    img.addEventListener('error', () => {
+      const medal = img.getAttribute('alt') || '🏅';
+      const wrapper = document.createElement('span');
+      wrapper.className = 'achievement-medal-fallback';
+      wrapper.textContent = medal;
+      img.replaceWith(wrapper);
     });
   });
 }
@@ -411,6 +424,7 @@ async function loadSection(idx) {
     }
     $('content').innerHTML = html;
     bindAchievementCheckboxes();
+    bindAchievementImages();
     if (s.file === 'achievements.md') enhanceChecklistPage();
     detectArtBlocks();
     updateNav();
