@@ -1,6 +1,6 @@
 # faqmd-walkthroughs
 
-Walkthrough content for [faqmd.dev](https://faqmd.dev).
+Walkthrough content for [gamemds.org](https://gamemds.org).
 
 This repo is the **site** — it hosts walkthrough markdown files, the reader app,
 the landing page, and GitHub Pages configuration. The converter tool that generates
@@ -11,7 +11,7 @@ walkthroughs lives in the separate **[faqmd](https://github.com/danielcurran/faq
 | Repo | Purpose |
 |---|---|
 | **[faqmd](https://github.com/danielcurran/faqmd)** | Converter tool + opencode agent skills |
-| **faqmd-walkthroughs** (this repo) | Walkthrough content hosted at [faqmd.dev](https://faqmd.dev) |
+| **faqmd-walkthroughs** (this repo) | Walkthrough content hosted at [gamemds.org](https://gamemds.org) |
 
 ## Structure
 
@@ -19,9 +19,9 @@ walkthroughs lives in the separate **[faqmd](https://github.com/danielcurran/faq
 |---|---|
 | `guide/` | Walkthrough section files — `index.md` (Table of Contents) + per-section `.md` + `toc.json` |
 | `reader.html` | Walkthrough viewer app — renders `guide/` sections with sidebar navigation and search |
-| `index.html` | Landing page at [faqmd.dev](https://faqmd.dev) |
+| `index.html` | Landing page at [gamemds.org](https://gamemds.org) |
 | `marked.js` | Vendored markdown parsing library (loaded locally, not from CDN) |
-| `CNAME` | Custom domain — `faqmd.dev` |
+| `CNAME` | Custom domain — `gamemds.org` |
 | `.nojekyll` | Disables Jekyll preprocessing for GitHub Pages |
 | `.github/workflows/deploy.yml` | GitHub Actions — deploys repo to GitHub Pages on push |
 
@@ -29,7 +29,7 @@ walkthroughs lives in the separate **[faqmd](https://github.com/danielcurran/faq
 
 Push to `main` triggers the deploy workflow (`.github/workflows/deploy.yml`),
 which deploys the repo root to the `gh-pages` branch. GitHub Pages then serves
-the content at [faqmd.dev](https://faqmd.dev).
+the content at [gamemds.org](https://gamemds.org).
 
 - **Trigger**: push to `main`, manual `workflow_dispatch`, or daily at 06:00 UTC
 - **Action**: `peaceiris/actions-gh-pages@v4` with `force_orphan: true`
