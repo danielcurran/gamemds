@@ -25,6 +25,8 @@ Sorted by cutoff — complete these before the listed section or they become una
 
 #### 6.1.1 The Town of Learning
 
+- [ ] 🥉 **Triple Threat** — Execute Combo: TriBlaster. (5 pts)
+- [ ] 🥉 **Our Powers, Combined!** — Execute any Combo. (3 pts)
 - [ ] 🥉 **Hahn** — Recruit Hahn. (1 pts)
 
 #### 6.1.2 Cleaning the Cellar
@@ -34,6 +36,8 @@ Sorted by cutoff — complete these before the listed section or they become una
 #### 6.1.5 Rune in the Ruin
 
 - [ ] 🥉 **Rune** — Recruit Rune. (5 pts)
+- [ ] 🥉 **Sudden Death** — Execute any instant-death Combo. (5 pts)
+- [ ] 🥉 **Elemental Weaknesses** — Execute Combo: Blizzard on Motavia, or Fire Storm on Dezolis. (3 pts)
 
 #### 6.1.6 Hahn's Hometown
 
@@ -93,9 +97,13 @@ Sorted by cutoff — complete these before the listed section or they become una
 
 - [ ] 🏅 **Limit: Zio** — Defeat Zio. Combined level limit: 75, party of 5. (25 pts)
 - [ ] 🏅 **The Dark Sorcerer** — Defeat Zio. (25 pts)
+- [ ] 🥈 **Macro Strategist** — Execute 4 different Macros in a single battle, and win. (10 pts)
+- [ ] 🥉 **Just As Planned!** — Execute a Combo in a Macro. (3 pts)
 
 #### 6.2.13 Artificial Satellite
 
+- [ ] 🥈 **Combo Strategist** — Execute 3 different Combos in a single battle, and win. (10 pts)
+- [ ] 🥉 **Ultimate Destruction** — Execute Combo: Destruct. (5 pts)
 - [ ] 🥉 **Wren** — Recruit Wren. (1 pts)
 
 #### 6.3.3 Leaving in the Landale
@@ -236,17 +244,6 @@ Sorted by cutoff — complete these before the listed section or they become una
 
 - [ ] 🥈 **HG: Silver Soldier** — Complete 'Silver Soldier' in the Hunter's Guild. (Missed upon finding Elsydeon.) (10 pts) ⚠️ Missable
 - [ ] 🥉 **Initiate: Positron Bolt** — Recover the Positron Bolt parts in Vahal Fort. (Missed upon finding Elsydeon.) (5 pts) ⚠️ Missable
-
-#### 12.1 Combinations
-
-- [ ] 🥈 **Combo Strategist** — Execute 3 different Combos in a single battle, and win. (10 pts)
-- [ ] 🥈 **Macro Strategist** — Execute 4 different Macros in a single battle, and win. (10 pts)
-- [ ] 🥉 **Sudden Death** — Execute any instant-death Combo. (5 pts)
-- [ ] 🥉 **Triple Threat** — Execute Combo: TriBlaster. (5 pts)
-- [ ] 🥉 **Ultimate Destruction** — Execute Combo: Destruct. (5 pts)
-- [ ] 🥉 **Elemental Weaknesses** — Execute Combo: Blizzard on Motavia, or Fire Storm on Dezolis. (3 pts)
-- [ ] 🥉 **Just As Planned!** — Execute a Combo in a Macro. (3 pts)
-- [ ] 🥉 **Our Powers, Combined!** — Execute any Combo. (3 pts)
 
 #### 13 Items
 

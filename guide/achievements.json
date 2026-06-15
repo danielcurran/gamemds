@@ -949,9 +949,9 @@
       "displayOrder": 690,
       "type": "progress",
       "missable": false,
-      "section": "12.1",
+      "section": "6.1.1",
       "confidence": "high",
-      "notes": "First-time combo execution"
+      "notes": "First-time combo execution. This achievement can be earned over the course of the playthrough — it is not necessary or beneficial to grind for it at this point."
     },
     {
       "id": 160608,
@@ -962,9 +962,9 @@
       "displayOrder": 700,
       "type": "challenge",
       "missable": false,
-      "section": "12.1",
+      "section": "6.1.5",
       "confidence": "high",
-      "notes": "Blizzard uses WAT+ZAN. Fire Storm uses FOI+ZAN"
+      "notes": "Blizzard (WAT+ZAN) or Fire Storm (FOI+ZAN) requires Rune who joins in this section. This achievement can be earned over the course of the playthrough — it is not necessary or beneficial to grind for it at this point."
     },
     {
       "id": 160609,
@@ -975,9 +975,9 @@
       "displayOrder": 710,
       "type": "challenge",
       "missable": false,
-      "section": "12.1",
+      "section": "6.1.5",
       "confidence": "high",
-      "notes": "Options: Black Hole, Holocaust, Lethal Img, CircuitBrk, PurfyLight"
+      "notes": "Options: Holocaust (Hahn+Rune), Lethal Img (Alys+Rika). All characters available by this section. This achievement can be earned over the course of the playthrough — it is not necessary or beneficial to grind for it at this point."
     },
     {
       "id": 160610,
@@ -988,9 +988,9 @@
       "displayOrder": 720,
       "type": "challenge",
       "missable": false,
-      "section": "12.1",
+      "section": "6.1.1",
       "confidence": "high",
-      "notes": "Requires FOI + TSU + WAT. Chaz must act between the other two"
+      "notes": "Requires FOI + TSU + WAT (Triblaster). Party of Chaz+Alys+Hahn available from first battle. This achievement can be earned over the course of the playthrough — it is not necessary or beneficial to grind for it at this point."
     },
     {
       "id": 160611,
@@ -1001,9 +1001,9 @@
       "displayOrder": 730,
       "type": "challenge",
       "missable": false,
-      "section": "12.1",
+      "section": "6.2.13",
       "confidence": "high",
-      "notes": "Requires DEBAN > MEGID+LEGEON+POSIBOLT. Deals 999 HP damage"
+      "notes": "Requires DEBAN > MEGID+LEGEON+POSIBOLT (Destruct). Wren joins in this section. This achievement can be earned over the course of the playthrough — it is not necessary or beneficial to grind for it at this point."
     },
     {
       "id": 160607,
@@ -1014,9 +1014,9 @@
       "displayOrder": 740,
       "type": "progress",
       "missable": false,
-      "section": "12.1",
+      "section": "6.2.11",
       "confidence": "high",
-      "notes": "Set up a Macro with correct sequence of Techs/Skills to trigger a combo"
+      "notes": "Set up a Macro with correct sequence of Techs/Skills. First macro setup in walkthrough is at Nurvus. This achievement can be earned over the course of the playthrough — it is not necessary or beneficial to grind for it at this point."
     },
     {
       "id": 160606,
@@ -1027,9 +1027,9 @@
       "displayOrder": 750,
       "type": "challenge",
       "missable": false,
-      "section": "12.1",
+      "section": "6.2.13",
       "confidence": "high",
-      "notes": "Requires party with characters that can perform multiple distinct combos"
+      "notes": "Execute 3 different Combos in a single battle. Full party of 5 available after Wren joins. This achievement can be earned over the course of the playthrough — it is not necessary or beneficial to grind for it at this point."
     },
     {
       "id": 160612,
@@ -1040,9 +1040,9 @@
       "displayOrder": 760,
       "type": "challenge",
       "missable": false,
-      "section": "12.1",
+      "section": "6.2.11",
       "confidence": "high",
-      "notes": "Set up 4 different Macros before battle and execute each one"
+      "notes": "Set up 4 different Macros before battle and execute each. This achievement can be earned over the course of the playthrough — it is not necessary or beneficial to grind for it at this point."
     },
     {
       "id": 160603,
