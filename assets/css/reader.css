@@ -272,131 +272,10 @@ a:hover { text-decoration: underline; color: #f5e88a; }
   border: none; border-top: 1px solid var(--ff-border);
   margin: 28px 0;
 }
-.section-marker {
-  text-align: center;
-  padding: 16px 0 6px;
-  font-family: var(--ff-font);
-  color: var(--ff-gold);
-  font-size: 1.1rem;
-  letter-spacing: 0.5px;
-}
-.section-marker strong { font-weight: normal; }
 #content pre.keep-scroll {
   white-space: pre;
   overflow-x: auto;
 }
-
-/* --- Modernized ASCII art components --- */
-.game-map {
-  background: rgba(0,0,0,0.3);
-  border: 1px solid var(--ff-border);
-  border-radius: 6px;
-  padding: 12px 16px;
-  margin: 16px 0;
-  font-size: 0.9rem;
-}
-.map-row {
-  display: flex; justify-content: space-between;
-  padding: 4px 0;
-  border-bottom: 1px solid rgba(255,255,255,0.05);
-}
-.map-row:last-child { border-bottom: none; }
-.map-location {
-  font-family: var(--ff-font);
-  color: var(--ff-gold);
-  min-width: 80px;
-}
-.map-services { display: flex; gap: 16px; }
-.map-service { color: var(--ff-text); }
-.map-price { color: var(--ff-muted); }
-
-.boss-card {
-  background: rgba(0,0,0,0.3);
-  border: 1px solid var(--ff-border);
-  border-radius: 6px;
-  margin: 16px 0;
-  overflow: hidden;
-}
-.boss-header {
-  background: rgba(237,215,88,0.12);
-  color: var(--ff-gold);
-  font-family: var(--ff-font);
-  padding: 10px 16px;
-  font-size: 1rem;
-  letter-spacing: 0.5px;
-}
-.boss-name {
-  padding: 8px 16px 4px;
-  font-weight: 600;
-  font-size: 1.05rem;
-}
-.boss-stats {
-  padding: 4px 16px 12px;
-  display: flex; flex-wrap: wrap; gap: 12px;
-}
-.boss-stat { font-size: 0.85rem; }
-.boss-stat .stat-label { color: var(--ff-muted); margin-right: 6px; }
-
-.stat-card {
-  background: rgba(0,0,0,0.3);
-  border: 1px solid var(--ff-border);
-  border-radius: 6px;
-  margin: 16px 0;
-  overflow: hidden;
-}
-.stat-header {
-  background: rgba(237,215,88,0.12);
-  color: var(--ff-gold);
-  font-family: var(--ff-font);
-  padding: 10px 16px;
-}
-.stat-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
-  gap: 4px;
-  padding: 12px 16px;
-}
-.stat-item { font-size: 0.85rem; }
-.stat-item .stat-label { color: var(--ff-muted); margin-right: 4px; }
-
-.game-menu {
-  background: rgba(0,0,0,0.3);
-  border: 1px solid var(--ff-border);
-  border-radius: 6px;
-  padding: 10px 16px;
-  margin: 16px 0;
-  display: flex; flex-wrap: wrap; gap: 12px;
-}
-.menu-option {
-  font-family: var(--ff-font);
-  color: var(--ff-gold);
-  font-size: 0.9rem;
-  letter-spacing: 0.5px;
-}
-
-.equipment-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 16px 0;
-  font-size: 0.9rem;
-}
-.equipment-table th, .equipment-table td {
-  border: 1px solid var(--ff-border);
-  padding: 6px 12px;
-  text-align: left;
-}
-.equipment-table th {
-  background: rgba(237,215,88,0.12);
-  color: var(--ff-gold);
-  font-weight: normal;
-  font-family: var(--ff-font);
-}
-.equipment-table .eq-slot {
-  color: var(--ff-muted);
-  font-weight: 600;
-  width: 80px;
-}
-.equipment-table .eq-item { color: var(--ff-text); }
 
 #loading { text-align: center; padding: 60px; color: var(--ff-muted); font-style: italic; }
 
@@ -715,10 +594,6 @@ a:hover { text-decoration: underline; color: #f5e88a; }
     overflow-x: auto;
     max-width: 100%;
   }
-  .game-map, .boss-card, .stat-card, .game-menu, .equipment-table {
-    font-size: 0.85rem;
-  }
-  .menu-option { font-size: 0.85rem; }
   .achievement-badge {
     flex-wrap: wrap;
     padding: 0.5rem;

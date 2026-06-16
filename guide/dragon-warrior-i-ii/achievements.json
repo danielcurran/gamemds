@@ -136,7 +136,8 @@
       "missable": false,
       "section": "2.11",
       "confidence": "medium",
-      "notes": "GoldMen first appear in the overworld near the Holy Monolith. Defeat one for 650 Gold."
+      "notes": "GoldMen first appear in the overworld near the Holy Monolith. Defeat one for 650 Gold.",
+      "ongoing": true
     },
     {
       "id": 186162,
@@ -149,7 +150,8 @@
       "missable": false,
       "section": "2.11",
       "confidence": "medium",
-      "notes": "Metalys can appear as rare encounters in later game areas. Use critical-hit weapons or Fireban to defeat them."
+      "notes": "Metalys can appear as rare encounters in later game areas. Use critical-hit weapons or Fireban to defeat them.",
+      "ongoing": true
     },
     {
       "id": 186177,
@@ -541,7 +543,8 @@
       "missable": false,
       "section": "3.35",
       "confidence": "medium",
-      "notes": "Metabbles (Metal Babbles) appear as rare encounters in late-game areas. Give massive EXP."
+      "notes": "Metabbles (Metal Babbles) appear as rare encounters in late-game areas. Give massive EXP.",
+      "ongoing": true
     },
     {
       "id": 192272,

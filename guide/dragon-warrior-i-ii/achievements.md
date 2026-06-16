@@ -1,7 +1,7 @@
 <a id="s0-1"></a>
 ## 0.1. Achievement Checklist
 
-**73 achievements · 477 points · 2 missable**
+**73 achievements · 477 points · 2 missable · 3 ongoing**
 
 ### Missable Achievements ⚠️
 
@@ -11,6 +11,16 @@ Sorted by cutoff — complete these before the listed section or they become una
 |---|---|---|---|---|
 | 🥈 The Wrong Castle | 10 | [2.12](#s2-12) | [2.13](#s2-13) After returning Princess Lora to the King (2.13) | After rescuing Princess Lora in 2.12, take her directly to the King Dragon Castle instead of returning her to Radatome Castle. The opportunity is lost once you return her to the King in section 2.13. |
 | 🏅 Nightmare | 25 | [2.17](#s2-17) | [2.17](#s2-17) After defeating the Golem in section 2.17 | Fight the Golem without using the PixyFlute in battle. The PixyFlute is obtained in section 2.15. Do not use it during the golem fight, or defeat the golem before obtaining the flute. |
+
+### Ongoing Achievements 🔓
+
+Complete these naturally over the course of the playthrough — no grinding needed.
+
+| Achievement | Pts | Available From | Tip |
+|---|---|---|---|
+| 🥉 Richest Hero | 5 | [2.11](#s2-11) | GoldMen first appear in the overworld near the Holy Monolith. Defeat one for 650 Gold. |
+| 🥉 Metallic Mania | 5 | [2.11](#s2-11) | Metalys can appear as rare encounters in later game areas. Use critical-hit weapons or Fireban to defeat them. |
+| 🥉 Slippery Experience | 5 | [3.35](#s3-35) | Metabbles (Metal Babbles) appear as rare encounters in late-game areas. Give massive EXP. |
 
 ### By Section
 
@@ -39,8 +49,8 @@ Sorted by cutoff — complete these before the listed section or they become una
 
 #### 2.11 Holy Monolith
 
-- [ ] 🥉 **Metallic Mania** — [DWI] Defeat a Metaly (5 pts)
-- [ ] 🥉 **Richest Hero** — [DWI] Defeat a GoldMan (5 pts)
+- [ ] 🥉 **Metallic Mania** — [DWI] Defeat a Metaly (5 pts) 🔓 Ongoing
+- [ ] 🥉 **Richest Hero** — [DWI] Defeat a GoldMan (5 pts) 🔓 Ongoing
 
 #### 2.12 Dragon Slayer
 
@@ -158,7 +168,7 @@ Sorted by cutoff — complete these before the listed section or they become una
 #### 3.35 Tepa
 
 - [ ] 🥉 **Damp Robe** — [DWII] Obtain the Water Robe (5 pts)
-- [ ] 🥉 **Slippery Experience** — [DWII] Defeat a Metabble (5 pts)
+- [ ] 🥉 **Slippery Experience** — [DWII] Defeat a Metabble (5 pts) 🔓 Ongoing
 
 #### 3.36 Moon Tower
 

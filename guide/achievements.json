@@ -951,7 +951,8 @@
       "missable": false,
       "section": "6.1.1",
       "confidence": "high",
-      "notes": "First-time combo execution. This achievement can be earned over the course of the playthrough — it is not necessary or beneficial to grind for it at this point."
+      "notes": "First-time combo execution. This achievement can be earned over the course of the playthrough — it is not necessary or beneficial to grind for it at this point.",
+      "ongoing": true
     },
     {
       "id": 160608,
@@ -1016,7 +1017,8 @@
       "missable": false,
       "section": "6.2.11",
       "confidence": "high",
-      "notes": "Set up a Macro with correct sequence of Techs/Skills. First macro setup in walkthrough is at Nurvus. This achievement can be earned over the course of the playthrough — it is not necessary or beneficial to grind for it at this point."
+      "notes": "Set up a Macro with correct sequence of Techs/Skills. First macro setup in walkthrough is at Nurvus. This achievement can be earned over the course of the playthrough — it is not necessary or beneficial to grind for it at this point.",
+      "ongoing": true
     },
     {
       "id": 160606,
@@ -1055,7 +1057,8 @@
       "missable": false,
       "section": "3.2",
       "confidence": "high",
-      "notes": "Use any weapon or equipment with offensive battle effect"
+      "notes": "Use any weapon or equipment with offensive battle effect",
+      "ongoing": true
     },
     {
       "id": 160604,
@@ -1068,7 +1071,8 @@
       "missable": false,
       "section": "3.2",
       "confidence": "high",
-      "notes": "Use any weapon or equipment with supportive battle effect"
+      "notes": "Use any weapon or equipment with supportive battle effect",
+      "ongoing": true
     },
     {
       "id": 161250,

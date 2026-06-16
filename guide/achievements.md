@@ -1,7 +1,7 @@
 <a id="s0-1"></a>
 ## 0.1. Achievement Checklist
 
-**93 achievements · 812 points · 6 missable**
+**93 achievements · 812 points · 6 missable · 4 ongoing**
 
 ### Missable Achievements ⚠️
 
@@ -16,17 +16,28 @@ Sorted by cutoff — complete these before the listed section or they become una
 | 🥉 Initiate: Positron Bolt | 5 | [7.1.8](#s7-1-8) | [6.5.7](#s6-5-7) Finding Elsydeon | Wren acquires POSIBOLT skill. Must complete Silver Soldier HG job before Elsydeon (6.5.7) |
 | 🏅 Four Bells, Four Torches | 25 | [6.5.10](#s6-5-10) | [6.5.10](#s6-5-10) Entering The Edge with a 5th party member | Must take only Chaz, Rika, Wren, and Rune to the final battle |
 
+### Ongoing Achievements 🔓
+
+Complete these naturally over the course of the playthrough — no grinding needed.
+
+| Achievement | Pts | Available From | Tip |
+|---|---|---|---|
+| 🥉 Inventory, Attack! | 2 | [3.2](#s3-2) | Use any weapon or equipment with offensive battle effect |
+| 🥉 Inventory, Assist! | 2 | [3.2](#s3-2) | Use any weapon or equipment with supportive battle effect |
+| 🥉 Our Powers, Combined! | 3 | [6.1.1](#s6-1-1) | First-time combo execution. This achievement can be earned over the course of the playthrough — it is not necessary or beneficial to grind for it at this point. |
+| 🥉 Just As Planned! | 3 | [6.2.11](#s6-2-11) | Set up a Macro with correct sequence of Techs/Skills. First macro setup in walkthrough is at Nurvus. This achievement can be earned over the course of the playthrough — it is not necessary or beneficial to grind for it at this point. |
+
 ### By Section
 
 #### 3.2 Battle
 
-- [ ] 🥉 **Inventory, Assist!** — Use a non-consumable item in battle to support your allies. (2 pts)
-- [ ] 🥉 **Inventory, Attack!** — Use a non-consumable item in battle to affect your enemies, except Psycho Wand. (2 pts)
+- [ ] 🥉 **Inventory, Assist!** — Use a non-consumable item in battle to support your allies. (2 pts) 🔓 Ongoing
+- [ ] 🥉 **Inventory, Attack!** — Use a non-consumable item in battle to affect your enemies, except Psycho Wand. (2 pts) 🔓 Ongoing
 
 #### 6.1.1 The Town of Learning
 
 - [ ] 🥉 **Triple Threat** — Execute Combo: TriBlaster. (5 pts)
-- [ ] 🥉 **Our Powers, Combined!** — Execute any Combo. (3 pts)
+- [ ] 🥉 **Our Powers, Combined!** — Execute any Combo. (3 pts) 🔓 Ongoing
 - [ ] 🥉 **Hahn** — Recruit Hahn. (1 pts)
 
 #### 6.1.2 Cleaning the Cellar
@@ -98,7 +109,7 @@ Sorted by cutoff — complete these before the listed section or they become una
 - [ ] 🏅 **Limit: Zio** — Defeat Zio. Combined level limit: 75, party of 5. (25 pts)
 - [ ] 🏅 **The Dark Sorcerer** — Defeat Zio. (25 pts)
 - [ ] 🥈 **Macro Strategist** — Execute 4 different Macros in a single battle, and win. (10 pts)
-- [ ] 🥉 **Just As Planned!** — Execute a Combo in a Macro. (3 pts)
+- [ ] 🥉 **Just As Planned!** — Execute a Combo in a Macro. (3 pts) 🔓 Ongoing
 
 #### 6.2.13 Artificial Satellite
 
