@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discussion
+    url: https://github.com/danielcurran/gamemds/discussions
+    about: Questions, ideas, and general chat
+  - name: faqmd converter tool
+    url: https://github.com/danielcurran/faqmd
+    about: Report converter bugs or request features in the faqmd repo

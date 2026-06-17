@@ -83,6 +83,19 @@ When a guide has `"hasAchievements": true` in `guides.json`, the reader app:
 - **Upcoming missables callout** — Amber heads-up 1-2 sections before a cutoff, alerting the player to achievements that will expire soon
 - **Checklist page** — Section `0.1 Achievement Checklist` in the TOC shows all achievements grouped by section with a missable table sorted by cutoff
 
+## Contributing
+
+Contributions welcome! See [`CONTRIBUTING.md`](CONTRIBUTING.md) for walkthrough
+submission guidelines, reader app development, and the PR checklist.
+
+- [Walkthrough submissions](.github/ISSUE_TEMPLATE/submission.yml) — add a guide to the site
+- [Bug reports](.github/ISSUE_TEMPLATE/bug.yml) — something broken
+- [Feature requests](.github/ISSUE_TEMPLATE/feature.yml) — ideas for the reader or site
+- [Discussions](https://github.com/danielcurran/gamemds/discussions) — questions and ideas
+
+This project follows the [Contributor Covenant](CODE_OF_CONDUCT.md) code of conduct.
+See [`SECURITY.md`](SECURITY.md) for vulnerability reporting.
+
 ## Related
 
 - [faqmd](https://github.com/danielcurran/faqmd) — Converter tool + agent skills

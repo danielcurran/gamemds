@@ -1,0 +1,39 @@
+name: Walkthrough Submission
+description: Submit a walkthrough for hosting on gamemds.org
+labels: [submission]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Game title
+      placeholder: "Phantasy Star IV"
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Original GameFAQs URL
+      description: The walkthrough URL with ?print=1
+      placeholder: "https://gamefaqs.gamespot.com/.../faqs/12345?print=1"
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Walkthrough author
+      description: Original author credit from the GameFAQs page
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: HasRetroAchievements? Any special formatting? Anything else?
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: I ran `npm test` in the gamemds repo
+        - label: I added the guide entry to `guides.json`
+        - label: The output includes proper author attribution
