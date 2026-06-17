@@ -1783,7 +1783,7 @@
       "missable": true,
       "missableCutoff": "Verify",
       "missableCutoffSection": "3.37",
-      "ongoing": true,
+      "ongoing": false,
       "section": "3.37",
       "confidence": "high",
       "notes": "Execute Flamenco combo (requires Miki + Nikki). First available on S.S. Zelbess.",

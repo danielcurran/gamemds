@@ -9,12 +9,12 @@ Sorted by cutoff — complete these before the listed section or they become una
 
 | Achievement | Pts | Earn In | Cutoff | Tip |
 |---|---|---|---|---|
-| 🥈 Tectonic Tech | 10 | [6.2.7](#s6-2-7) | [6.2.12](#s6-2-12) Leaving Motavia | Plate System controls shut down by Demi. Missable after shuttle to Zelan in 6.2.12 |
-| 🥈 Weather Watch | 10 | [6.3.7](#s6-3-7) | [6.4.9](#s6-4-9) Snowstorm ending | Climate Control Centre dungeon. Unavailable after Dark Force 2 defeated in Garuberk Tower (6.4.9) |
-| 🥉 HG: The Ranch Owner | 5 | [7.1.1](#s7-1-1) | [6.5.7](#s6-5-7) Finding Elsydeon | Sand Worm boss fight at Mile ranch. Available after reaching Hunter's Guild. Withdrawn upon finding Elsydeon. |
-| 🥈 HG: Silver Soldier | 10 | [7.1.8](#s7-1-8) | [6.5.7](#s6-5-7) Finding Elsydeon | Requires Hydrofoil. Defeat 3 Dominators in Vahal Fort. Withdrawn after obtaining Elsydeon |
-| 🥉 Initiate: Positron Bolt | 5 | [7.1.8](#s7-1-8) | [6.5.7](#s6-5-7) Finding Elsydeon | Wren acquires POSIBOLT skill. Must complete Silver Soldier HG job before Elsydeon (6.5.7) |
-| 🏅 Four Bells, Four Torches | 25 | [6.5.10](#s6-5-10) | [6.5.10](#s6-5-10) Entering The Edge with a 5th party member | Must take only Chaz, Rika, Wren, and Rune to the final battle |
+| 🥈 Tectonic Tech | 10 | [6.2.7](6.2.7-a-tectonic-diversion.md#s6-2-7) | [6.2.12](6.2.12-upward-mobility.md#s6-2-12) Leaving Motavia | Plate System controls shut down by Demi. Missable after shuttle to Zelan in 6.2.12 |
+| 🥈 Weather Watch | 10 | [6.3.7](6.3.7-the-weather-system.md#s6-3-7) | [6.4.9](6.4.9-end-of-the-blizzard.md#s6-4-9) Snowstorm ending | Climate Control Centre dungeon. Unavailable after Dark Force 2 defeated in Garuberk Tower (6.4.9) |
+| 🥉 HG: The Ranch Owner | 5 | [7.1.1](7.1.1-the-ranch-owner.md#s7-1-1) | [6.5.7](6.5.7-sword-of-the-espers.md#s6-5-7) Finding Elsydeon | Sand Worm boss fight at Mile ranch. Available after reaching Hunter's Guild. Withdrawn upon finding Elsydeon. |
+| 🥈 HG: Silver Soldier | 10 | [7.1.8](7.1.8-silver-soldier.md#s7-1-8) | [6.5.7](6.5.7-sword-of-the-espers.md#s6-5-7) Finding Elsydeon | Requires Hydrofoil. Defeat 3 Dominators in Vahal Fort. Withdrawn after obtaining Elsydeon |
+| 🥉 Initiate: Positron Bolt | 5 | [7.1.8](7.1.8-silver-soldier.md#s7-1-8) | [6.5.7](6.5.7-sword-of-the-espers.md#s6-5-7) Finding Elsydeon | Wren acquires POSIBOLT skill. Must complete Silver Soldier HG job before Elsydeon (6.5.7) |
+| 🏅 Four Bells, Four Torches | 25 | [6.5.10](6.5.10-destiny.md#s6-5-10) | [6.5.10](6.5.10-destiny.md#s6-5-10) Entering The Edge with a 5th party member | Must take only Chaz, Rika, Wren, and Rune to the final battle |
 
 ### Ongoing Achievements 🔓
 
@@ -22,10 +22,10 @@ Complete these naturally over the course of the playthrough — no grinding need
 
 | Achievement | Pts | Available From | Tip |
 |---|---|---|---|
-| 🥉 Inventory, Attack! | 2 | [3.2](#s3-2) | Use any weapon or equipment with offensive battle effect |
-| 🥉 Inventory, Assist! | 2 | [3.2](#s3-2) | Use any weapon or equipment with supportive battle effect |
-| 🥉 Our Powers, Combined! | 3 | [6.1.1](#s6-1-1) | First-time combo execution. This achievement can be earned over the course of the playthrough — it is not necessary or beneficial to grind for it at this point. |
-| 🥉 Just As Planned! | 3 | [6.2.11](#s6-2-11) | Set up a Macro with correct sequence of Techs/Skills. First macro setup in walkthrough is at Nurvus. This achievement can be earned over the course of the playthrough — it is not necessary or beneficial to grind for it at this point. |
+| 🥉 Inventory, Attack! | 2 | [3.2](3.2-battle.md#s3-2) | Use any weapon or equipment with offensive battle effect |
+| 🥉 Inventory, Assist! | 2 | [3.2](3.2-battle.md#s3-2) | Use any weapon or equipment with supportive battle effect |
+| 🥉 Our Powers, Combined! | 3 | [6.1.1](6.1.1-the-town-of-learning.md#s6-1-1) | First-time combo execution. This achievement can be earned over the course of the playthrough — it is not necessary or beneficial to grind for it at this point. |
+| 🥉 Just As Planned! | 3 | [6.2.11](6.2.11-an-act-of-nurves.md#s6-2-11) | Set up a Macro with correct sequence of Techs/Skills. First macro setup in walkthrough is at Nurvus. This achievement can be earned over the course of the playthrough — it is not necessary or beneficial to grind for it at this point. |
 
 ### By Section
 

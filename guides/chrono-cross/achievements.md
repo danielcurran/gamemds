@@ -9,54 +9,54 @@ Sorted by cutoff — complete these before the listed section or they become una
 
 | Achievement | Pts | Earn In | Cutoff | Tip |
 |---|---|---|---|---|
-| 🥉 Pretty-Miracle-Power-X Master | 5 | [3.2](#s3-2) | [3.2](#s3-2) Verify | Recruit Poshul as early as possible in Arni Village |
-| 🥉 Sweet Country Gal | 5 | [3.2](#s3-2) | [3.2](#s3-2) Verify | Recruit Leena in Arni Village |
-| 🥉 The Path of the Rocker | 5 | [3.8](#s3-8) | [3.8](#s3-8) Verify | In Termina, choose to follow Nikki (rocker path) to Viper Manor |
-| 🥉 Ze Path of ze Swordsman | 5 | [3.8](#s3-8) | [3.8](#s3-8) Verify | In Termina, choose to follow Pierre (swordsman path) to Viper Manor |
-| 🥉 The Path of the Magician | 5 | [3.8](#s3-8) | [3.8](#s3-8) Verify | In Termina, choose to follow Guile (magician path) to Viper Manor |
-| 🥉 A Scientific Genius | 5 | [3.12](#s3-12) | [3.12](#s3-12) Verify | Recruit Luccia at Viper Manor |
-| 🥉 Riding to Kids Rescue | 5 | [3.13](#s3-13) | [3.13](#s3-13) Verify | Help Kid recover from the Hydra poison after Fort Dragonia |
-| 🥉 Indecisive Leader | 5 | [3.13](#s3-13) | [3.13](#s3-13) Verify | After Kid recovers, send Korcha swimming |
-| 🥉 You Just Have to Have Faith | 5 | [3.13](#s3-13) | [3.13](#s3-13) Verify | Choose NOT to help Kid recover from poison and check if she survives |
-| 🥉 Desperate Love | 5 | [3.14](#s3-14) | [3.14](#s3-14) Verify | Help the boy at the bar in Termina (Home World) |
-| 🥉 You Already Forgot but I'll Always Remember | 5 | [3.14](#s3-14) | [3.14](#s3-14) Verify | Steal a Forget-me-not Pot from a character in Termina |
-| 🥉 Finder's Keeper's | 5 | [3.14](#s3-14) | [3.14](#s3-14) Verify | Recruit Mel in Termina (Another World) |
-| 🥉 Endangered Species | 5 | [3.18](#s3-18) | [3.18](#s3-18) Verify | Discover something about Hydras with Razzly in your party |
-| 🥉 Fairy Savior | 5 | [3.18](#s3-18) | [3.18](#s3-18) Verify | Save the fairies at Water Dragon Isle with Razzly |
-| 🥉 The Forest Fairy | 5 | [3.18](#s3-18) | [3.18](#s3-18) Verify | Recruit Razzly at Water Dragon Isle |
-| 🥈 Master Dragon Feeder | 10 | [3.21](#s3-21) | [3.21](#s3-21) Verify | Feed 100 dragons on the S.S. Invincible without failure |
-| 🏅 Overcooked | 25 | [3.21](#s3-21) | [3.21](#s3-21) Verify | Feed dragons on S.S. Invincible — feed 80 without failure |
-| 🥉 A Guinea Pig Experiment | 5 | [3.24](#s3-24) | [3.24](#s3-24) Verify | Recruit Pip after completing Luccia's experiment at Mt. Pyre |
-| 🏅 The Fiend Who Haunted Herself | 25 | [3.26](#s3-26) | [3.26](#s3-26) Verify | Complete the optional Dario sidequest at the Temporal Vortex |
-| 🥉 Rebaptism | 5 | [3.33](#s3-33) | [3.33](#s3-33) Verify | Use the Name Plate item at the El Nido Triangle to change name |
-| 🥈 The Dark Side of a Cook | 10 | [3.36](#s3-36) | [3.36](#s3-36) Verify | Complete Orcha's dark side quest in Marbule |
-| 🥉 The Gambler | 5 | [3.37](#s3-37) | [3.37](#s3-37) Verify | Win the Grand Slam at the S.S. Zelbess casino |
-| 🥉 Aged Illusionist | 5 | [3.37](#s3-37) | [3.37](#s3-37) Verify | Recruit Sneff on the S.S. Zelbess |
-| 🥉 Flamenco | 5 | [3.37](#s3-37) | [3.37](#s3-37) Verify | Execute Flamenco combo (requires Miki + Nikki). First available on S.S. Zelbess. |
-| 🥉 Winged Centipede | 5 | [3.40](#s3-40) | [3.40](#s3-40) Verify | Defeat the Winged Centipede at Isle of the Damned |
-| 🥉 The Pursuit of Dreams | 5 | [3.41](#s3-41) | [3.41](#s3-41) Verify | Defeat Highwayman and solve the Highway Ruins puzzle |
-| 🥈 I Have No Eyes but Once Could See | 10 | [3.41](#s3-41) | [3.41](#s3-41) Verify | Defeat Highwayman at Highway Ruins with entire party blinded |
-| 🥈 Hi-Ho | 10 | [3.44](#s3-44) | [3.44](#s3-44) Verify | Complete the optional Arni Village revisit with Poshul |
-| 🥉 King Moaman | 5 | [3.51](#s3-51) | [3.51](#s3-51) Verify | Defeat KingMoaman before his minions in the Marbule quest |
-| 🥈 Firewalkers | 10 | [3.55](#s3-55) | [3.55](#s3-55) Verify | Complete the Mt. Pyre revisit without taking fire damage |
-| 🥉 The Peacekeepers | 5 | [3.58](#s3-58) | [3.58](#s3-58) Verify | Complete the optional Guldove sidequest with Orcha |
-| 🥉 The Paradox | 5 | [3.59](#s3-59) | [3.59](#s3-59) Verify | Complete the optional Hydra Marshes revisit |
-| 🥈 Madam Pentapus | 10 | [3.61](#s3-61) | [3.61](#s3-61) Verify | Defeat Pentapus at Forbidden Island with blue-only restrictions |
-| 🏅 Thou Wish To Fight? | 25 | [3.61](#s3-61) | [3.61](#s3-61) Verify | Defeat Criosphinx at Forbidden Island |
-| 🥈 Riddle Me This! | 10 | [3.61](#s3-61) | [3.61](#s3-61) Verify | Solve Criosphinx's riddles at Forbidden Island |
-| 🥈 Hasta La Beeba Baby | 10 | [3.62](#s3-62) | [3.62](#s3-62) Verify | Defeat the Beeba enemies at Earth Dragon Isle |
-| 🥈 I Lost My Glasses, but I Need My Glasses to Find My Glasses | 10 | [3.65](#s3-65) | [3.65](#s3-65) Verify | Steal Moon Glasses from Harle then defeat her at Fort Dragonia |
-| 🥈 Red Hot Chili Peppor | 10 | [3.65](#s3-65) | [3.65](#s3-65) Verify | Defeat Peppor and Solt with fire-only attacks at Fort Dragonia |
-| 🥉 Codename Lavos | 5 | [4.2](#s4-2) | [4.2](#s4-2) Verify | Read a report about Lavos in Chronopolis |
-| 🥉 Atropos | 5 | [4.2](#s4-2) | [4.2](#s4-2) Verify | Defeat the optional Atropos boss in Chronopolis |
-| 🥉 Lachesis | 5 | [4.2](#s4-2) | [4.2](#s4-2) Verify | Defeat the optional Lachesis boss in Chronopolis |
-| 🥉 Clotho | 5 | [4.2](#s4-2) | [4.2](#s4-2) Verify | Defeat the optional Clotho boss in Chronopolis |
-| 🥉 Le Tresor Interdit | 5 | [4.2](#s4-2) | [4.2](#s4-2) Verify | Listen to an archive in Chronopolis related to Lucca |
-| 🥈 Fate has Fallen | 10 | [4.2](#s4-2) | [4.2](#s4-2) Verify | Defeat FATE in Chronopolis with positive stamina (no deaths) |
-| 🥉 Escape Your Nightmare | 5 | [4.6](#s4-6) | [4.6](#s4-6) Verify | Climb Terra Tower |
-| 🥈 The Price of Immortality | 10 | [5.1](#s5-1) | [5.1](#s5-1) Verify | Complete the Skelly sidequest and recruit him |
-| 🥈 Treasure Hunter | 10 | [5.9](#s5-9) | [5.9](#s5-9) Verify | Obtain all treasure chest key items across both worlds |
-| 🥈 High Framerate | 10 | [5.10](#s5-10) | [5.10](#s5-10) Verify | Collect all 15 Window Frames |
+| 🥉 Pretty-Miracle-Power-X Master | 5 | [3.2](3.2-arni-village.md#s3-2) | [3.2](3.2-arni-village.md#s3-2) Verify | Recruit Poshul as early as possible in Arni Village |
+| 🥉 Sweet Country Gal | 5 | [3.2](3.2-arni-village.md#s3-2) | [3.2](3.2-arni-village.md#s3-2) Verify | Recruit Leena in Arni Village |
+| 🥉 The Path of the Rocker | 5 | [3.8](3.8-termina.md#s3-8) | [3.8](3.8-termina.md#s3-8) Verify | In Termina, choose to follow Nikki (rocker path) to Viper Manor |
+| 🥉 Ze Path of ze Swordsman | 5 | [3.8](3.8-termina.md#s3-8) | [3.8](3.8-termina.md#s3-8) Verify | In Termina, choose to follow Pierre (swordsman path) to Viper Manor |
+| 🥉 The Path of the Magician | 5 | [3.8](3.8-termina.md#s3-8) | [3.8](3.8-termina.md#s3-8) Verify | In Termina, choose to follow Guile (magician path) to Viper Manor |
+| 🥉 A Scientific Genius | 5 | [3.12](3.12-viper-manor.md#s3-12) | [3.12](3.12-viper-manor.md#s3-12) Verify | Recruit Luccia at Viper Manor |
+| 🥉 Riding to Kids Rescue | 5 | [3.13](3.13-guldove.md#s3-13) | [3.13](3.13-guldove.md#s3-13) Verify | Help Kid recover from the Hydra poison after Fort Dragonia |
+| 🥉 Indecisive Leader | 5 | [3.13](3.13-guldove.md#s3-13) | [3.13](3.13-guldove.md#s3-13) Verify | After Kid recovers, send Korcha swimming |
+| 🥉 You Just Have to Have Faith | 5 | [3.13](3.13-guldove.md#s3-13) | [3.13](3.13-guldove.md#s3-13) Verify | Choose NOT to help Kid recover from poison and check if she survives |
+| 🥉 Desperate Love | 5 | [3.14](3.14-termina.md#s3-14) | [3.14](3.14-termina.md#s3-14) Verify | Help the boy at the bar in Termina (Home World) |
+| 🥉 You Already Forgot but I'll Always Remember | 5 | [3.14](3.14-termina.md#s3-14) | [3.14](3.14-termina.md#s3-14) Verify | Steal a Forget-me-not Pot from a character in Termina |
+| 🥉 Finder's Keeper's | 5 | [3.14](3.14-termina.md#s3-14) | [3.14](3.14-termina.md#s3-14) Verify | Recruit Mel in Termina (Another World) |
+| 🥉 Endangered Species | 5 | [3.18](3.18-optional-water-dragon-isle.md#s3-18) | [3.18](3.18-optional-water-dragon-isle.md#s3-18) Verify | Discover something about Hydras with Razzly in your party |
+| 🥉 Fairy Savior | 5 | [3.18](3.18-optional-water-dragon-isle.md#s3-18) | [3.18](3.18-optional-water-dragon-isle.md#s3-18) Verify | Save the fairies at Water Dragon Isle with Razzly |
+| 🥉 The Forest Fairy | 5 | [3.18](3.18-optional-water-dragon-isle.md#s3-18) | [3.18](3.18-optional-water-dragon-isle.md#s3-18) Verify | Recruit Razzly at Water Dragon Isle |
+| 🥈 Master Dragon Feeder | 10 | [3.21](3.21-ss-invincible.md#s3-21) | [3.21](3.21-ss-invincible.md#s3-21) Verify | Feed 100 dragons on the S.S. Invincible without failure |
+| 🏅 Overcooked | 25 | [3.21](3.21-ss-invincible.md#s3-21) | [3.21](3.21-ss-invincible.md#s3-21) Verify | Feed dragons on S.S. Invincible — feed 80 without failure |
+| 🥉 A Guinea Pig Experiment | 5 | [3.24](3.24-mt-pyre.md#s3-24) | [3.24](3.24-mt-pyre.md#s3-24) Verify | Recruit Pip after completing Luccia's experiment at Mt. Pyre |
+| 🏅 The Fiend Who Haunted Herself | 25 | [3.26](3.26-temporal-vortex.md#s3-26) | [3.26](3.26-temporal-vortex.md#s3-26) Verify | Complete the optional Dario sidequest at the Temporal Vortex |
+| 🥉 Rebaptism | 5 | [3.33](3.33-optional-el-nido-triangle.md#s3-33) | [3.33](3.33-optional-el-nido-triangle.md#s3-33) Verify | Use the Name Plate item at the El Nido Triangle to change name |
+| 🥈 The Dark Side of a Cook | 10 | [3.36](3.36-marbule.md#s3-36) | [3.36](3.36-marbule.md#s3-36) Verify | Complete Orcha's dark side quest in Marbule |
+| 🥉 The Gambler | 5 | [3.37](3.37-ss-zelbess.md#s3-37) | [3.37](3.37-ss-zelbess.md#s3-37) Verify | Win the Grand Slam at the S.S. Zelbess casino |
+| 🥉 Aged Illusionist | 5 | [3.37](3.37-ss-zelbess.md#s3-37) | [3.37](3.37-ss-zelbess.md#s3-37) Verify | Recruit Sneff on the S.S. Zelbess |
+| 🥉 Flamenco | 5 | [3.37](3.37-ss-zelbess.md#s3-37) | [3.37](3.37-ss-zelbess.md#s3-37) Verify | Execute Flamenco combo (requires Miki + Nikki). First available on S.S. Zelbess. |
+| 🥉 Winged Centipede | 5 | [3.40](3.40-isle-of-the-damned.md#s3-40) | [3.40](3.40-isle-of-the-damned.md#s3-40) Verify | Defeat the Winged Centipede at Isle of the Damned |
+| 🥉 The Pursuit of Dreams | 5 | [3.41](3.41-highway-ruins.md#s3-41) | [3.41](3.41-highway-ruins.md#s3-41) Verify | Defeat Highwayman and solve the Highway Ruins puzzle |
+| 🥈 I Have No Eyes but Once Could See | 10 | [3.41](3.41-highway-ruins.md#s3-41) | [3.41](3.41-highway-ruins.md#s3-41) Verify | Defeat Highwayman at Highway Ruins with entire party blinded |
+| 🥈 Hi-Ho | 10 | [3.44](3.44-optional-arni-village.md#s3-44) | [3.44](3.44-optional-arni-village.md#s3-44) Verify | Complete the optional Arni Village revisit with Poshul |
+| 🥉 King Moaman | 5 | [3.51](3.51-optional-save-marbule-quest-pt-ii.md#s3-51) | [3.51](3.51-optional-save-marbule-quest-pt-ii.md#s3-51) Verify | Defeat KingMoaman before his minions in the Marbule quest |
+| 🥈 Firewalkers | 10 | [3.55](3.55-mt-pyre.md#s3-55) | [3.55](3.55-mt-pyre.md#s3-55) Verify | Complete the Mt. Pyre revisit without taking fire damage |
+| 🥉 The Peacekeepers | 5 | [3.58](3.58-optional-guldove.md#s3-58) | [3.58](3.58-optional-guldove.md#s3-58) Verify | Complete the optional Guldove sidequest with Orcha |
+| 🥉 The Paradox | 5 | [3.59](3.59-optional-hydra-marshes.md#s3-59) | [3.59](3.59-optional-hydra-marshes.md#s3-59) Verify | Complete the optional Hydra Marshes revisit |
+| 🥈 Madam Pentapus | 10 | [3.61](3.61-optional-forbidden-island.md#s3-61) | [3.61](3.61-optional-forbidden-island.md#s3-61) Verify | Defeat Pentapus at Forbidden Island with blue-only restrictions |
+| 🏅 Thou Wish To Fight? | 25 | [3.61](3.61-optional-forbidden-island.md#s3-61) | [3.61](3.61-optional-forbidden-island.md#s3-61) Verify | Defeat Criosphinx at Forbidden Island |
+| 🥈 Riddle Me This! | 10 | [3.61](3.61-optional-forbidden-island.md#s3-61) | [3.61](3.61-optional-forbidden-island.md#s3-61) Verify | Solve Criosphinx's riddles at Forbidden Island |
+| 🥈 Hasta La Beeba Baby | 10 | [3.62](3.62-optional-earth-dragon-isle.md#s3-62) | [3.62](3.62-optional-earth-dragon-isle.md#s3-62) Verify | Defeat the Beeba enemies at Earth Dragon Isle |
+| 🥈 I Lost My Glasses, but I Need My Glasses to Find My Glasses | 10 | [3.65](3.65-ft-dragonia.md#s3-65) | [3.65](3.65-ft-dragonia.md#s3-65) Verify | Steal Moon Glasses from Harle then defeat her at Fort Dragonia |
+| 🥈 Red Hot Chili Peppor | 10 | [3.65](3.65-ft-dragonia.md#s3-65) | [3.65](3.65-ft-dragonia.md#s3-65) Verify | Defeat Peppor and Solt with fire-only attacks at Fort Dragonia |
+| 🥉 Codename Lavos | 5 | [4.2](4.2-time-fortress-chronopolis.md#s4-2) | [4.2](4.2-time-fortress-chronopolis.md#s4-2) Verify | Read a report about Lavos in Chronopolis |
+| 🥉 Atropos | 5 | [4.2](4.2-time-fortress-chronopolis.md#s4-2) | [4.2](4.2-time-fortress-chronopolis.md#s4-2) Verify | Defeat the optional Atropos boss in Chronopolis |
+| 🥉 Lachesis | 5 | [4.2](4.2-time-fortress-chronopolis.md#s4-2) | [4.2](4.2-time-fortress-chronopolis.md#s4-2) Verify | Defeat the optional Lachesis boss in Chronopolis |
+| 🥉 Clotho | 5 | [4.2](4.2-time-fortress-chronopolis.md#s4-2) | [4.2](4.2-time-fortress-chronopolis.md#s4-2) Verify | Defeat the optional Clotho boss in Chronopolis |
+| 🥉 Le Tresor Interdit | 5 | [4.2](4.2-time-fortress-chronopolis.md#s4-2) | [4.2](4.2-time-fortress-chronopolis.md#s4-2) Verify | Listen to an archive in Chronopolis related to Lucca |
+| 🥈 Fate has Fallen | 10 | [4.2](4.2-time-fortress-chronopolis.md#s4-2) | [4.2](4.2-time-fortress-chronopolis.md#s4-2) Verify | Defeat FATE in Chronopolis with positive stamina (no deaths) |
+| 🥉 Escape Your Nightmare | 5 | [4.6](4.6-terra-tower.md#s4-6) | [4.6](4.6-terra-tower.md#s4-6) Verify | Climb Terra Tower |
+| 🥈 The Price of Immortality | 10 | [5.1](5.1-characters.md#s5-1) | [5.1](5.1-characters.md#s5-1) Verify | Complete the Skelly sidequest and recruit him |
+| 🥈 Treasure Hunter | 10 | [5.9](5.9-shop-list.md#s5-9) | [5.9](5.9-shop-list.md#s5-9) Verify | Obtain all treasure chest key items across both worlds |
+| 🥈 High Framerate | 10 | [5.10](5.10-frame-list.md#s5-10) | [5.10](5.10-frame-list.md#s5-10) Verify | Collect all 15 Window Frames |
 
 ### Ongoing Achievements 🔓
 
@@ -64,27 +64,27 @@ Complete these naturally over the course of the playthrough — no grinding need
 
 | Achievement | Pts | Available From | Tip |
 |---|---|---|---|
-| 🥉 Delta Force | 5 | [3.1](#s3-1) | Execute DeltaForce combo (Serge + Kid + random). Available from Dream Sequence onward. |
-| 🥉 Z-Slash | 5 | [3.1](#s3-1) | Execute Z-Slash combo. Available from the intro onward. |
-| 🥉 Double Take | 5 | [3.1](#s3-1) | Execute DoubleTake combo. Available from the intro onward. |
-| 🥉 Tossed Salad | 5 | [3.1](#s3-1) | Execute TossedSalad combo. Available from the intro onward. |
-| 🥉 Sword Storm | 5 | [3.1](#s3-1) | Execute SwordStorm combo. Available from the intro onward. |
-| 🥉 Vital Force | 5 | [3.1](#s3-1) | Execute VitalForce combo. Available from the intro onward. |
-| 🥉 X-Strike | 5 | [3.1](#s3-1) | Execute X-Strike combo. Available from the intro onward. |
-| 🥉 Dragon Feeder | 5 | [3.21](#s3-21) | Feed dragons on the S.S. Invincible (100 feeds) |
-| 🥉 Draggy Rider | 5 | [3.28](#s3-28) | Execute DraggyRider combo (requires Turnip). First available after recruiting Turnip. |
-| 🥉 Pitch Black | 5 | [3.41](#s3-41) | Execute PitchBlack combo. First available when all characters are recruited. |
-| 🥉 Skeleton Clown | 5 | [5.1](#s5-1) | Recruit Skelly by finding all his scattered bones |
-| 🥉 Angel Tumalu | 5 | [5.1](#s5-1) | Evolve Pip to Angel form through specific element usage |
-| 🥉 Devil Tumalu | 5 | [5.1](#s5-1) | Evolve Pip to Devil form through specific element usage |
-| 🥈 ArchAngel Tumalu | 10 | [5.1](#s5-1) | Evolve Pip to ArchAngel form through specific element usage |
-| 🥈 Archdevil Tumalu | 10 | [5.1](#s5-1) | Evolve Pip to ArchDevil form through specific element usage |
-| 🥈 Archetype Tumalu | 10 | [5.1](#s5-1) | Evolve Pip to ArchType form by using all elements evenly |
-| 🥈 Developers Room | 10 | [5.2](#s5-2) | Collect all weapons |
-| 🥈 A True Hero | 10 | [5.3](#s5-3) | Collect all armor |
-| 🥈 General Kid | 10 | [5.4](#s5-4) | Collect all accessories |
-| 🥈 No Beginning and no End | 10 | [5.9](#s5-9) | Collect all shop-available items |
-| 🥈 A True Hero (Alternative) | 10 | [5.11](#s5-11) | Collect all key items |
+| 🥉 Delta Force | 5 | [3.1](3.1-dream-sequence.md#s3-1) | Execute DeltaForce combo (Serge + Kid + random). Available from Dream Sequence onward. |
+| 🥉 Z-Slash | 5 | [3.1](3.1-dream-sequence.md#s3-1) | Execute Z-Slash combo. Available from the intro onward. |
+| 🥉 Double Take | 5 | [3.1](3.1-dream-sequence.md#s3-1) | Execute DoubleTake combo. Available from the intro onward. |
+| 🥉 Tossed Salad | 5 | [3.1](3.1-dream-sequence.md#s3-1) | Execute TossedSalad combo. Available from the intro onward. |
+| 🥉 Sword Storm | 5 | [3.1](3.1-dream-sequence.md#s3-1) | Execute SwordStorm combo. Available from the intro onward. |
+| 🥉 Vital Force | 5 | [3.1](3.1-dream-sequence.md#s3-1) | Execute VitalForce combo. Available from the intro onward. |
+| 🥉 X-Strike | 5 | [3.1](3.1-dream-sequence.md#s3-1) | Execute X-Strike combo. Available from the intro onward. |
+| 🥉 Dragon Feeder | 5 | [3.21](3.21-ss-invincible.md#s3-21) | Feed dragons on the S.S. Invincible (100 feeds) |
+| 🥉 Draggy Rider | 5 | [3.28](3.28-fossil-valley.md#s3-28) | Execute DraggyRider combo (requires Turnip). First available after recruiting Turnip. |
+| 🥉 Pitch Black | 5 | [3.41](3.41-highway-ruins.md#s3-41) | Execute PitchBlack combo. First available when all characters are recruited. |
+| 🥉 Skeleton Clown | 5 | [5.1](5.1-characters.md#s5-1) | Recruit Skelly by finding all his scattered bones |
+| 🥉 Angel Tumalu | 5 | [5.1](5.1-characters.md#s5-1) | Evolve Pip to Angel form through specific element usage |
+| 🥉 Devil Tumalu | 5 | [5.1](5.1-characters.md#s5-1) | Evolve Pip to Devil form through specific element usage |
+| 🥈 ArchAngel Tumalu | 10 | [5.1](5.1-characters.md#s5-1) | Evolve Pip to ArchAngel form through specific element usage |
+| 🥈 Archdevil Tumalu | 10 | [5.1](5.1-characters.md#s5-1) | Evolve Pip to ArchDevil form through specific element usage |
+| 🥈 Archetype Tumalu | 10 | [5.1](5.1-characters.md#s5-1) | Evolve Pip to ArchType form by using all elements evenly |
+| 🥈 Developers Room | 10 | [5.2](5.2-weapons.md#s5-2) | Collect all weapons |
+| 🥈 A True Hero | 10 | [5.3](5.3-armor.md#s5-3) | Collect all armor |
+| 🥈 General Kid | 10 | [5.4](5.4-accessories.md#s5-4) | Collect all accessories |
+| 🥈 No Beginning and no End | 10 | [5.9](5.9-shop-list.md#s5-9) | Collect all shop-available items |
+| 🥈 A True Hero (Alternative) | 10 | [5.11](5.11-key-items.md#s5-11) | Collect all key items |
 
 ### By Section
 

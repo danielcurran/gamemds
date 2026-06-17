@@ -9,90 +9,90 @@ Sorted by cutoff — complete these before the listed section or they become una
 
 | Achievement | Pts | Earn In | Cutoff | Tip |
 |---|---|---|---|---|
-| 🥉 Corresponding Crystal Crushers | 5 | [4.1.1](#s4-1-1) | [4.1.1](#s4-1-1) Verify |  |
-| 🥉 Beautiful Buccaneer | 1 | [4.1.3](#s4-1-3) | [4.1.3](#s4-1-3) Verify |  |
-| 🥉 Birdpuncher | 3 | [4.1.6](#s4-1-6) | [4.1.6](#s4-1-6) Verify |  |
-| 🥉 Get Well Soon | 2 | [4.2.1](#s4-2-1) | [4.2.1](#s4-2-1) Verify |  |
-| 🥉 Thor's Might | 2 | [4.3.2](#s4-3-2) | [4.3.2](#s4-3-2) Verify |  |
-| 🥈 Flailure to Account for Amnesia | 10 | [4.4.2](#s4-4-2) | [4.4.2](#s4-4-2) Verify |  |
-| 🥉 Take a Bow | 5 | [4.6.1](#s4-6-1) | [4.6.1](#s4-6-1) Verify |  |
-| 🥉 Ice to Meet You | 5 | [4.6.2](#s4-6-2) | [4.6.2](#s4-6-2) Verify |  |
-| 🥉 Family? | 4 | [4.7.1](#s4-7-1) | [4.7.1](#s4-7-1) Verify |  |
-| 🥈 Blue Blaze | 10 | [4.8.3](#s4-8-3) | [4.8.3](#s4-8-3) Verify |  |
-| 🥉 Garula Croaks Twice | 5 | [4.8.4](#s4-8-4) | [4.8.4](#s4-8-4) Verify |  |
-| 🥈 Icey Mirror Match | 10 | [4.10.3](#s4-10-3) | [4.10.3](#s4-10-3) Verify |  |
-| 🥉 Diamond Dust | 5 | [4.10.3](#s4-10-3) | [4.10.3](#s4-10-3) Verify |  |
-| 🥈 Appropriation Ablaze | 10 | [4.11.2](#s4-11-2) | [4.11.2](#s4-11-2) Verify |  |
-| 🥈 Ifrit Debuffed | 10 | [4.12.1](#s4-12-1) | [4.12.1](#s4-12-1) Verify |  |
-| 🥉 Book Burning | 5 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥉 Genji Gloves | 2 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥉 I Caught a Friend for You on the Way Here | 5 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🏅 Testudine Triumph | 25 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥉 Genji Helm | 2 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥉 Gilgamesh Gives His Regards | 5 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥉 This is for Edward! | 5 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥈 Tomb-Raiding Trio | 10 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥉 Flare for the Undramatic | 5 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥉 Oops I Chose the Wrong Party I | 5 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥉 Oops I Chose the Wrong Party II | 5 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥉 Speedy Swimmer | 5 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥉 Cut That Out | 5 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥈 Battle of the Seabeasts | 10 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥉 Prepare for the Inevitable Victory | 5 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥈 Slowmega Nomega | 10 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥉 Mr. Scaredy Book | 5 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥉 Holy Toads! | 5 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥉 Genji Shield | 3 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥉 I've Got All the Time in the World | 5 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥉 Genji Armor | 3 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥉 Let's Cut Through This Nonsense | 5 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥈 Machinations of a Madman | 10 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥈 Treasure Hunter I | 10 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥈 Treasure Hunter II | 10 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥈 Treasure Hunter III | 10 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🏅 Treasure Master | 25 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥈 Basic Hunter | 10 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥈 World One Completionist | 10 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥈 Beast Slayer | 10 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥈 Advanced Hunter | 10 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥈 World Two Completionist | 10 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥈 Giant Slayer | 10 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥈 World Three Completionist | 10 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥈 Superboss Slayer | 10 | [4.14.2](#s4-14-2) | [4.14.2](#s4-14-2) Verify |  |
-| 🥉 Heights of Bravery and Courage of Cowardice | 5 | [4.18.2](#s4-18-2) | [4.18.2](#s4-18-2) Verify |  |
-| 🥉 All About That Bartz | 5 | [4.20.1](#s4-20-1) | [4.20.1](#s4-20-1) Verify |  |
-| 🥉 Whips for Law Abiders | 2 | [4.22.1](#s4-22-1) | [4.22.1](#s4-22-1) Verify |  |
-| 🥉 Holey Terror | 5 | [4.27.1](#s4-27-1) | [4.27.1](#s4-27-1) Verify |  |
-| 🥉 Slumberstorm | 5 | [4.27.3](#s4-27-3) | [4.27.3](#s4-27-3) Verify |  |
-| 🥉 Odin Outdone | 5 | [4.27.3](#s4-27-3) | [4.27.3](#s4-27-3) Verify |  |
-| 🥉 Wendigoner | 5 | [4.30.1](#s4-30-1) | [4.30.1](#s4-30-1) Verify |  |
-| 🥉 Now You Try It | 5 | [4.30.1](#s4-30-1) | [4.30.1](#s4-30-1) Verify |  |
-| 🥉 You're Grounded! | 5 | [4.30.1](#s4-30-1) | [4.30.1](#s4-30-1) Verify |  |
-| 🥉 Family Secret | 5 | [4.31.5](#s4-31-5) | [4.31.5](#s4-31-5) Verify |  |
-| 🥉 One Skill One Kill | 5 | [4.32.4](#s4-32-4) | [4.32.4](#s4-32-4) Verify |  |
-| 🥈 Fight Firepower with Fire Focused Fighters | 10 | [4.34.1](#s4-34-1) | [4.34.1](#s4-34-1) Verify |  |
-| 🥉 This Looks Like a Job for Catoblepas! | 5 | [4.34.1](#s4-34-1) | [4.34.1](#s4-34-1) Verify |  |
-| 🥉 I Like You Just the Way You Are And Also Dead | 5 | [4.35.3](#s4-35-3) | [4.35.3](#s4-35-3) Verify |  |
-| 🥉 Memories of Long Ago Fears | 5 | [4.35.3](#s4-35-3) | [4.35.3](#s4-35-3) Verify |  |
-| 🥉 Stun the Earth | 5 | [4.36.1](#s4-36-1) | [4.36.1](#s4-36-1) Verify |  |
-| 🥈 The Price of Greed | 10 | [4.36.1](#s4-36-1) | [4.36.1](#s4-36-1) Verify |  |
-| 🥉 Bomb Diffusers | 5 | [4.37.1](#s4-37-1) | [4.37.1](#s4-37-1) Verify |  |
-| 🥉 Behold the Power of Chemistry! | 5 | [4.37.3](#s4-37-3) | [4.37.3](#s4-37-3) Verify |  |
-| 🥉 Moogle Says | 5 | [4.37.3](#s4-37-3) | [4.37.3](#s4-37-3) Verify |  |
-| 🥉 Who Mugs the Muggers? | 5 | [4.40.1](#s4-40-1) | [4.40.1](#s4-40-1) Verify |  |
-| 🥉 Gilgamesh Dis-armed | 5 | [4.40.2](#s4-40-2) | [4.40.2](#s4-40-2) Verify |  |
-| 🥈 Welcome Weakness | 10 | [4.40.2](#s4-40-2) | [4.40.2](#s4-40-2) Verify |  |
-| 🥉 Pub Pals | 3 | [4.44.1](#s4-44-1) | [4.44.1](#s4-44-1) Verify |  |
-| 🥉 Jumping Jehosephat! | 5 | [4.46.1](#s4-46-1) | [4.46.1](#s4-46-1) Verify |  |
-| 🥉 No Tinctures for Tiny Arms | 5 | [4.47.2](#s4-47-2) | [4.47.2](#s4-47-2) Verify |  |
-| 🥉 We All Float Down Here | 5 | [4.49.1](#s4-49-1) | [4.49.1](#s4-49-1) Verify |  |
-| 🥉 Rockstar | 5 | [4.53.4](#s4-53-4) | [4.53.4](#s4-53-4) Verify |  |
-| 🥉 Lenna Saves the Day | 5 | [4.54.3](#s4-54-3) | [4.54.3](#s4-54-3) Verify |  |
-| 🥉 Show Him Who's Boss | 5 | [4.56.2](#s4-56-2) | [4.56.2](#s4-56-2) Verify |  |
-| 🥉 Let Me Show You How Much You Suck | 5 | [4.57.1](#s4-57-1) | [4.57.1](#s4-57-1) Verify |  |
-| 🥉 Extra Sensory Perception | 5 | [7.7](#s7-7) | [7.7](#s7-7) Verify | Obtain all Summon spells |
-| 🥉 Pop Idol | 5 | [7.14](#s7-14) | [7.14](#s7-14) Verify | Obtain all Bard songs |
-| 🥉 Decontaminated Defense Destroyer | 5 | [8.8](#s8-8) | [8.8](#s8-8) Verify |  |
+| 🥉 Corresponding Crystal Crushers | 5 | [4.1.1](4.1.1-prelude-the-demolition-of-the-wind-crystal.md#s4-1-1) | [4.1.1](4.1.1-prelude-the-demolition-of-the-wind-crystal.md#s4-1-1) Verify |  |
+| 🥉 Beautiful Buccaneer | 1 | [4.1.3](4.1.3-prelude-faris-scherwiz.md#s4-1-3) | [4.1.3](4.1.3-prelude-faris-scherwiz.md#s4-1-3) Verify |  |
+| 🥉 Birdpuncher | 3 | [4.1.6](4.1.6-prelude-the-wind-shrine-and-wing-raptor.md#s4-1-6) | [4.1.6](4.1.6-prelude-the-wind-shrine-and-wing-raptor.md#s4-1-6) Verify |  |
+| 🥉 Get Well Soon | 2 | [4.2.1](4.2.1-the-wind-crystal-jobs.md#s4-2-1) | [4.2.1](4.2.1-the-wind-crystal-jobs.md#s4-2-1) Verify |  |
+| 🥉 Thor's Might | 2 | [4.3.2](4.3.2-the-torna-canal.md#s4-3-2) | [4.3.2](4.3.2-the-torna-canal.md#s4-3-2) Verify |  |
+| 🥈 Flailure to Account for Amnesia | 10 | [4.4.2](4.4.2-the-battle-with-siren.md#s4-4-2) | [4.4.2](4.4.2-the-battle-with-siren.md#s4-4-2) Verify |  |
+| 🥉 Take a Bow | 5 | [4.6.1](4.6.1-north-mountain.md#s4-6-1) | [4.6.1](4.6.1-north-mountain.md#s4-6-1) Verify |  |
+| 🥉 Ice to Meet You | 5 | [4.6.2](4.6.2-the-battle-with-magissa.md#s4-6-2) | [4.6.2](4.6.2-the-battle-with-magissa.md#s4-6-2) Verify |  |
+| 🥉 Family? | 4 | [4.7.1](4.7.1-home-sweet-home-castle-tycoon.md#s4-7-1) | [4.7.1](4.7.1-home-sweet-home-castle-tycoon.md#s4-7-1) Verify |  |
+| 🥈 Blue Blaze | 10 | [4.8.3](4.8.3-the-golden-warrior-and-the-tower-of-walse.md#s4-8-3) | [4.8.3](4.8.3-the-golden-warrior-and-the-tower-of-walse.md#s4-8-3) Verify |  |
+| 🥉 Garula Croaks Twice | 5 | [4.8.4](4.8.4-the-fight-with-garula.md#s4-8-4) | [4.8.4](4.8.4-the-fight-with-garula.md#s4-8-4) Verify |  |
+| 🥈 Icey Mirror Match | 10 | [4.10.3](4.10.3-ice-to-see-you-shiva.md#s4-10-3) | [4.10.3](4.10.3-ice-to-see-you-shiva.md#s4-10-3) Verify |  |
+| 🥉 Diamond Dust | 5 | [4.10.3](4.10.3-ice-to-see-you-shiva.md#s4-10-3) | [4.10.3](4.10.3-ice-to-see-you-shiva.md#s4-10-3) Verify |  |
+| 🥈 Appropriation Ablaze | 10 | [4.11.2](4.11.2-the-battle-with-liquid-flame.md#s4-11-2) | [4.11.2](4.11.2-the-battle-with-liquid-flame.md#s4-11-2) Verify |  |
+| 🥈 Ifrit Debuffed | 10 | [4.12.1](4.12.1-escaping-karnak-castle.md#s4-12-1) | [4.12.1](4.12.1-escaping-karnak-castle.md#s4-12-1) Verify |  |
+| 🥉 Book Burning | 5 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥉 Genji Gloves | 2 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥉 I Caught a Friend for You on the Way Here | 5 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🏅 Testudine Triumph | 25 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥉 Genji Helm | 2 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥉 Gilgamesh Gives His Regards | 5 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥉 This is for Edward! | 5 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥈 Tomb-Raiding Trio | 10 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥉 Flare for the Undramatic | 5 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥉 Oops I Chose the Wrong Party I | 5 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥉 Oops I Chose the Wrong Party II | 5 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥉 Speedy Swimmer | 5 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥉 Cut That Out | 5 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥈 Battle of the Seabeasts | 10 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥉 Prepare for the Inevitable Victory | 5 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥈 Slowmega Nomega | 10 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥉 Mr. Scaredy Book | 5 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥉 Holy Toads! | 5 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥉 Genji Shield | 3 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥉 I've Got All the Time in the World | 5 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥉 Genji Armor | 3 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥉 Let's Cut Through This Nonsense | 5 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥈 Machinations of a Madman | 10 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥈 Treasure Hunter I | 10 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥈 Treasure Hunter II | 10 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥈 Treasure Hunter III | 10 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🏅 Treasure Master | 25 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥈 Basic Hunter | 10 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥈 World One Completionist | 10 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥈 Beast Slayer | 10 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥈 Advanced Hunter | 10 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥈 World Two Completionist | 10 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥈 Giant Slayer | 10 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥈 World Three Completionist | 10 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥈 Superboss Slayer | 10 | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) | [4.14.2](4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md#s4-14-2) Verify |  |
+| 🥉 Heights of Bravery and Courage of Cowardice | 5 | [4.18.2](4.18.2-crescent-island-and-the-black-chocobo.md#s4-18-2) | [4.18.2](4.18.2-crescent-island-and-the-black-chocobo.md#s4-18-2) Verify |  |
+| 🥉 All About That Bartz | 5 | [4.20.1](4.20.1-the-battle-with-the-sandworm.md#s4-20-1) | [4.20.1](4.20.1-the-battle-with-the-sandworm.md#s4-20-1) Verify |  |
+| 🥉 Whips for Law Abiders | 2 | [4.22.1](4.22.1-the-ancient-ruins-and-the-battle-with-adamantoise.md#s4-22-1) | [4.22.1](4.22.1-the-ancient-ruins-and-the-battle-with-adamantoise.md#s4-22-1) Verify |  |
+| 🥉 Holey Terror | 5 | [4.27.1](4.27.1-galuf-to-the-rescue-the-first-fight-with-gilgamesh.md#s4-27-1) | [4.27.1](4.27.1-galuf-to-the-rescue-the-first-fight-with-gilgamesh.md#s4-27-1) Verify |  |
+| 🥉 Slumberstorm | 5 | [4.27.3](4.27.3-the-big-bridge-the-second-fight-with-gilgamesh.md#s4-27-3) | [4.27.3](4.27.3-the-big-bridge-the-second-fight-with-gilgamesh.md#s4-27-3) Verify |  |
+| 🥉 Odin Outdone | 5 | [4.27.3](4.27.3-the-big-bridge-the-second-fight-with-gilgamesh.md#s4-27-3) | [4.27.3](4.27.3-the-big-bridge-the-second-fight-with-gilgamesh.md#s4-27-3) Verify |  |
+| 🥉 Wendigoner | 5 | [4.30.1](4.30.1-the-power-is-yours-saving-the-planet-one-moogle-at-the-time.md#s4-30-1) | [4.30.1](4.30.1-the-power-is-yours-saving-the-planet-one-moogle-at-the-time.md#s4-30-1) Verify |  |
+| 🥉 Now You Try It | 5 | [4.30.1](4.30.1-the-power-is-yours-saving-the-planet-one-moogle-at-the-time.md#s4-30-1) | [4.30.1](4.30.1-the-power-is-yours-saving-the-planet-one-moogle-at-the-time.md#s4-30-1) Verify |  |
+| 🥉 You're Grounded! | 5 | [4.30.1](4.30.1-the-power-is-yours-saving-the-planet-one-moogle-at-the-time.md#s4-30-1) | [4.30.1](4.30.1-the-power-is-yours-saving-the-planet-one-moogle-at-the-time.md#s4-30-1) Verify |  |
+| 🥉 Family Secret | 5 | [4.31.5](4.31.5-the-fight-with-dragon-pod.md#s4-31-5) | [4.31.5](4.31.5-the-fight-with-dragon-pod.md#s4-31-5) Verify |  |
+| 🥉 One Skill One Kill | 5 | [4.32.4](4.32.4-the-fight-with-atomos.md#s4-32-4) | [4.32.4](4.32.4-the-fight-with-atomos.md#s4-32-4) Verify |  |
+| 🥈 Fight Firepower with Fire Focused Fighters | 10 | [4.34.1](4.34.1-the-fight-with-catoblepas.md#s4-34-1) | [4.34.1](4.34.1-the-fight-with-catoblepas.md#s4-34-1) Verify |  |
+| 🥉 This Looks Like a Job for Catoblepas! | 5 | [4.34.1](4.34.1-the-fight-with-catoblepas.md#s4-34-1) | [4.34.1](4.34.1-the-fight-with-catoblepas.md#s4-34-1) Verify |  |
+| 🥉 I Like You Just the Way You Are And Also Dead | 5 | [4.35.3](4.35.3-the-fight-against-the-guardians.md#s4-35-3) | [4.35.3](4.35.3-the-fight-against-the-guardians.md#s4-35-3) Verify |  |
+| 🥉 Memories of Long Ago Fears | 5 | [4.35.3](4.35.3-the-fight-against-the-guardians.md#s4-35-3) | [4.35.3](4.35.3-the-fight-against-the-guardians.md#s4-35-3) Verify |  |
+| 🥉 Stun the Earth | 5 | [4.36.1](4.36.1-the-fight-with-the-gil-turtle-get-rich-or-die-tryin.md#s4-36-1) | [4.36.1](4.36.1-the-fight-with-the-gil-turtle-get-rich-or-die-tryin.md#s4-36-1) Verify |  |
+| 🥈 The Price of Greed | 10 | [4.36.1](4.36.1-the-fight-with-the-gil-turtle-get-rich-or-die-tryin.md#s4-36-1) | [4.36.1](4.36.1-the-fight-with-the-gil-turtle-get-rich-or-die-tryin.md#s4-36-1) Verify |  |
+| 🥉 Bomb Diffusers | 5 | [4.37.1](4.37.1-castle-exdeath-1-ascension-and-the-fight-with-carbuncle.md#s4-37-1) | [4.37.1](4.37.1-castle-exdeath-1-ascension-and-the-fight-with-carbuncle.md#s4-37-1) Verify |  |
+| 🥉 Behold the Power of Chemistry! | 5 | [4.37.3](4.37.3-the-fight-with-the-dark-warlock-exdeath.md#s4-37-3) | [4.37.3](4.37.3-the-fight-with-the-dark-warlock-exdeath.md#s4-37-3) Verify |  |
+| 🥉 Moogle Says | 5 | [4.37.3](4.37.3-the-fight-with-the-dark-warlock-exdeath.md#s4-37-3) | [4.37.3](4.37.3-the-fight-with-the-dark-warlock-exdeath.md#s4-37-3) Verify |  |
+| 🥉 Who Mugs the Muggers? | 5 | [4.40.1](4.40.1-the-pyramid-of-moore-the-earth-tablet.md#s4-40-1) | [4.40.1](4.40.1-the-pyramid-of-moore-the-earth-tablet.md#s4-40-1) Verify |  |
+| 🥉 Gilgamesh Dis-armed | 5 | [4.40.2](4.40.2-the-fight-with-melusine.md#s4-40-2) | [4.40.2](4.40.2-the-fight-with-melusine.md#s4-40-2) Verify |  |
+| 🥈 Welcome Weakness | 10 | [4.40.2](4.40.2-the-fight-with-melusine.md#s4-40-2) | [4.40.2](4.40.2-the-fight-with-melusine.md#s4-40-2) Verify |  |
+| 🥉 Pub Pals | 3 | [4.44.1](4.44.1-fork-tower-the-fight-against-minotaur-and-omniscient.md#s4-44-1) | [4.44.1](4.44.1-fork-tower-the-fight-against-minotaur-and-omniscient.md#s4-44-1) Verify |  |
+| 🥉 Jumping Jehosephat! | 5 | [4.46.1](4.46.1-the-great-sea-trench-the-fire-tablet.md#s4-46-1) | [4.46.1](4.46.1-the-great-sea-trench-the-fire-tablet.md#s4-46-1) Verify |  |
+| 🥉 No Tinctures for Tiny Arms | 5 | [4.47.2](4.47.2-istory-falls-the-battle-with-leviathan.md#s4-47-2) | [4.47.2](4.47.2-istory-falls-the-battle-with-leviathan.md#s4-47-2) Verify |  |
+| 🥉 We All Float Down Here | 5 | [4.49.1](4.49.1-taking-the-black-chocobo-the-battle-with-bahamut.md#s4-49-1) | [4.49.1](4.49.1-taking-the-black-chocobo-the-battle-with-bahamut.md#s4-49-1) Verify |  |
+| 🥉 Rockstar | 5 | [4.53.4](4.53.4-the-undeathables-shinryu.md#s4-53-4) | [4.53.4](4.53.4-the-undeathables-shinryu.md#s4-53-4) Verify |  |
+| 🥉 Lenna Saves the Day | 5 | [4.54.3](4.54.3-the-sealed-temple-the-lethe-court.md#s4-54-3) | [4.54.3](4.54.3-the-sealed-temple-the-lethe-court.md#s4-54-3) Verify |  |
+| 🥉 Show Him Who's Boss | 5 | [4.56.2](4.56.2-the-undeathables-neo-shinryu.md#s4-56-2) | [4.56.2](4.56.2-the-undeathables-neo-shinryu.md#s4-56-2) Verify |  |
+| 🥉 Let Me Show You How Much You Suck | 5 | [4.57.1](4.57.1-the-cloister-of-the-dead.md#s4-57-1) | [4.57.1](4.57.1-the-cloister-of-the-dead.md#s4-57-1) Verify |  |
+| 🥉 Extra Sensory Perception | 5 | [7.7](7.7-summon-summon-link.md#s7-7) | [7.7](7.7-summon-summon-link.md#s7-7) Verify | Obtain all Summon spells |
+| 🥉 Pop Idol | 5 | [7.14](7.14-sing-sing-link.md#s7-14) | [7.14](7.14-sing-sing-link.md#s7-14) Verify | Obtain all Bard songs |
+| 🥉 Decontaminated Defense Destroyer | 5 | [8.8](8.8-defense-and-magic-defense.md#s8-8) | [8.8](8.8-defense-and-magic-defense.md#s8-8) Verify |  |
 
 ### Ongoing Achievements 🔓
 
@@ -100,7 +100,7 @@ Complete these naturally over the course of the playthrough — no grinding need
 
 | Achievement | Pts | Available From | Tip |
 |---|---|---|---|
-| 🥉 Avan De Ziniur III | 5 | [7.3](#s7-3) | Obtain all Spellblade abilities |
+| 🥉 Avan De Ziniur III | 5 | [7.3](7.3-spellblade-spellblade-link.md#s7-3) | Obtain all Spellblade abilities |
 
 ### By Section
 

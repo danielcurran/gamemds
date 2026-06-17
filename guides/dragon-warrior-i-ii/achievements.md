@@ -9,8 +9,8 @@ Sorted by cutoff — complete these before the listed section or they become una
 
 | Achievement | Pts | Earn In | Cutoff | Tip |
 |---|---|---|---|---|
-| 🥈 The Wrong Castle | 10 | [2.12](#s2-12) | [2.13](#s2-13) After returning Princess Lora to the King (2.13) | After rescuing Princess Lora in 2.12, take her directly to the King Dragon Castle instead of returning her to Radatome Castle. The opportunity is lost once you return her to the King in section 2.13. |
-| 🏅 Nightmare | 25 | [2.17](#s2-17) | [2.17](#s2-17) After defeating the Golem in section 2.17 | Fight the Golem without using the PixyFlute in battle. The PixyFlute is obtained in section 2.15. Do not use it during the golem fight, or defeat the golem before obtaining the flute. |
+| 🥈 The Wrong Castle | 10 | [2.12](2.12-dragon-slayer.md#s2-12) | [2.13](2.13-the-princess-love.md#s2-13) After returning Princess Lora to the King (2.13) | After rescuing Princess Lora in 2.12, take her directly to the King Dragon Castle instead of returning her to Radatome Castle. The opportunity is lost once you return her to the King in section 2.13. |
+| 🏅 Nightmare | 25 | [2.17](2.17-melkido.md#s2-17) | [2.17](2.17-melkido.md#s2-17) After defeating the Golem in section 2.17 | Fight the Golem without using the PixyFlute in battle. The PixyFlute is obtained in section 2.15. Do not use it during the golem fight, or defeat the golem before obtaining the flute. |
 
 ### Ongoing Achievements 🔓
 
@@ -18,9 +18,9 @@ Complete these naturally over the course of the playthrough — no grinding need
 
 | Achievement | Pts | Available From | Tip |
 |---|---|---|---|
-| 🥉 Richest Hero | 5 | [2.11](#s2-11) | GoldMen first appear in the overworld near the Holy Monolith. Defeat one for 650 Gold. |
-| 🥉 Metallic Mania | 5 | [2.11](#s2-11) | Metalys can appear as rare encounters in later game areas. Use critical-hit weapons or Fireban to defeat them. |
-| 🥉 Slippery Experience | 5 | [3.35](#s3-35) | Metabbles (Metal Babbles) appear as rare encounters in late-game areas. Give massive EXP. |
+| 🥉 Richest Hero | 5 | [2.11](2.11-holy-monolith.md#s2-11) | GoldMen first appear in the overworld near the Holy Monolith. Defeat one for 650 Gold. |
+| 🥉 Metallic Mania | 5 | [2.11](2.11-holy-monolith.md#s2-11) | Metalys can appear as rare encounters in later game areas. Use critical-hit weapons or Fireban to defeat them. |
+| 🥉 Slippery Experience | 5 | [3.35](3.35-tepa.md#s3-35) | Metabbles (Metal Babbles) appear as rare encounters in late-game areas. Give massive EXP. |
 
 ### By Section
 
