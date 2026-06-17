@@ -6,7 +6,6 @@ const fs = require('fs');
 const path = require('path');
 
 const ROOT = process.cwd();
-const GUIDE_DIR = path.join(ROOT, 'guide');
 
 let passed = 0;
 let failed = 0;
@@ -44,6 +43,81 @@ function flattenToc(nodes, flat = []) {
   return flat;
 }
 
+function validateGuide(guideDir, label) {
+  const dir = path.join(ROOT, guideDir);
+
+  assert(label + '/toc.json exists and is valid JSON', () => {
+    fileExists(path.join(dir, 'toc.json'));
+    const tocData = JSON.parse(fs.readFileSync(path.join(dir, 'toc.json'), 'utf8'));
+    if (!Array.isArray(tocData) || tocData.length === 0) throw new Error('toc.json must be a non-empty array');
+    return tocData;
+  });
+
+  assert(label + '/meta.json exists and has required fields', () => {
+    fileExists(path.join(dir, 'meta.json'));
+    const meta = JSON.parse(fs.readFileSync(path.join(dir, 'meta.json'), 'utf8'));
+    if (typeof meta.title !== 'string' || !meta.title) throw new Error('meta.json missing title');
+    if (typeof meta.author !== 'string' || !meta.author) throw new Error('meta.json missing author');
+  });
+
+  let tocData, tocFiles, flatToc;
+  assert(label + '/toc.json nodes have required fields', () => {
+    tocData = JSON.parse(fs.readFileSync(path.join(dir, 'toc.json'), 'utf8'));
+    flatToc = flattenToc(tocData);
+    for (const n of flatToc) {
+      if (typeof n.num !== 'string' || !n.num) throw new Error('missing num: ' + JSON.stringify(n));
+      if (typeof n.title !== 'string' || !n.title) throw new Error('missing title: ' + JSON.stringify(n));
+      if (typeof n.depth !== 'number') throw new Error('missing depth: ' + JSON.stringify(n));
+      if (!Array.isArray(n.children)) throw new Error('missing children array: ' + JSON.stringify(n));
+    }
+  });
+
+  assert(label + '/toc.json section numbers are unique', () => {
+    if (!flatToc) throw new Error('no toc data');
+    const nums = new Set();
+    for (const n of flatToc) {
+      if (nums.has(n.num)) throw new Error('duplicate section number: ' + n.num);
+      nums.add(n.num);
+    }
+  });
+
+  assert(label + '/index.md exists', () => fileExists(path.join(dir, 'index.md')));
+
+  assert(label + '/index.md links point to existing files', () => {
+    const indexMd = fs.readFileSync(path.join(dir, 'index.md'), 'utf8');
+    const linkRe = /\]\(([^)]+\.md)\)/g;
+    let m;
+    while ((m = linkRe.exec(indexMd)) !== null) {
+      const target = m[1];
+      fileExists(path.join(dir, target));
+    }
+  });
+
+  assert(label + '/toc.json files exist on disk', () => {
+    tocData = tocData || JSON.parse(fs.readFileSync(path.join(dir, 'toc.json'), 'utf8'));
+    tocFiles = collectTocFiles(tocData);
+    for (const f of tocFiles) {
+      fileExists(path.join(dir, f));
+    }
+  });
+
+  assert(label + ' every .md file is referenced in toc.json', () => {
+    tocFiles = tocFiles || (() => { tocData = JSON.parse(fs.readFileSync(path.join(dir, 'toc.json'), 'utf8')); return collectTocFiles(tocData); })();
+    const mdFiles = fs.readdirSync(dir)
+      .filter(f => f.endsWith('.md') && f !== 'index.md')
+      .sort();
+    const tocFileList = Array.from(tocFiles).sort();
+    if (JSON.stringify(mdFiles) !== JSON.stringify(tocFileList)) {
+      const missingFromToc = mdFiles.filter(f => !tocFiles.has(f));
+      const missingFromDir = tocFileList.filter(f => !mdFiles.includes(f));
+      const parts = [];
+      if (missingFromToc.length) parts.push('md files not in toc.json: ' + missingFromToc.join(', '));
+      if (missingFromDir.length) parts.push('toc.json files not on disk: ' + missingFromDir.join(', '));
+      throw new Error(parts.join('; '));
+    }
+  });
+}
+
 // ── Core files ──
 assert('index.html exists', () => fileExists(path.join(ROOT, 'index.html')));
 assert('reader.html exists', () => fileExists(path.join(ROOT, 'reader.html')));
@@ -58,6 +132,7 @@ assert('guides.json exists and is valid', () => {
     if (typeof g.title !== 'string' || !g.title) throw new Error('guide missing title');
     if (typeof g.path !== 'string' || !g.path) throw new Error('guide missing path');
   }
+  return guides;
 });
 assert('CNAME exists', () => fileExists(path.join(ROOT, 'CNAME')));
 assert('CNAME contains gamemds.org', () => {
@@ -80,75 +155,11 @@ for (const asset of requiredAssets) {
   assert('asset exists: ' + asset, () => fileExists(path.join(ROOT, asset)));
 }
 
-// ── guide/toc.json ──
-let tocData;
-assert('guide/toc.json exists and is valid JSON', () => {
-  fileExists(path.join(GUIDE_DIR, 'toc.json'));
-  tocData = JSON.parse(fs.readFileSync(path.join(GUIDE_DIR, 'toc.json'), 'utf8'));
-  if (!Array.isArray(tocData) || tocData.length === 0) throw new Error('toc.json must be a non-empty array');
-});
-
-assert('guide/meta.json exists and has required fields', () => {
-  fileExists(path.join(GUIDE_DIR, 'meta.json'));
-  const meta = JSON.parse(fs.readFileSync(path.join(GUIDE_DIR, 'meta.json'), 'utf8'));
-  if (typeof meta.title !== 'string' || !meta.title) throw new Error('meta.json missing title');
-  if (typeof meta.author !== 'string' || !meta.author) throw new Error('meta.json missing author');
-});
-
-let tocFiles;
-let flatToc;
-assert('toc.json nodes have required fields', () => {
-  flatToc = flattenToc(tocData);
-  for (const n of flatToc) {
-    if (typeof n.num !== 'string' || !n.num) throw new Error('missing num: ' + JSON.stringify(n));
-    if (typeof n.title !== 'string' || !n.title) throw new Error('missing title: ' + JSON.stringify(n));
-    if (typeof n.depth !== 'number') throw new Error('missing depth: ' + JSON.stringify(n));
-    if (!Array.isArray(n.children)) throw new Error('missing children array: ' + JSON.stringify(n));
-  }
-});
-
-assert('every toc.json file exists in guide/', () => {
-  tocFiles = collectTocFiles(tocData);
-  for (const f of tocFiles) {
-    fileExists(path.join(GUIDE_DIR, f));
-  }
-});
-
-assert('every guide .md file is referenced in toc.json', () => {
-  const mdFiles = fs.readdirSync(GUIDE_DIR)
-    .filter(f => f.endsWith('.md') && f !== 'index.md')
-    .sort();
-  const tocFileList = Array.from(tocFiles).sort();
-  if (JSON.stringify(mdFiles) !== JSON.stringify(tocFileList)) {
-    const missingFromToc = mdFiles.filter(f => !tocFiles.has(f));
-    const missingFromDir = tocFileList.filter(f => !mdFiles.includes(f));
-    const parts = [];
-    if (missingFromToc.length) parts.push('md files not in toc.json: ' + missingFromToc.join(', '));
-    if (missingFromDir.length) parts.push('toc.json files not on disk: ' + missingFromDir.join(', '));
-    throw new Error(parts.join('; '));
-  }
-});
-
-assert('toc.json section numbers are unique', () => {
-  const nums = new Set();
-  for (const n of flatToc) {
-    if (nums.has(n.num)) throw new Error('duplicate section number: ' + n.num);
-    nums.add(n.num);
-  }
-});
-
-// ── guide/index.md ──
-assert('guide/index.md exists', () => fileExists(path.join(GUIDE_DIR, 'index.md')));
-
-assert('guide/index.md links point to existing files', () => {
-  const indexMd = fs.readFileSync(path.join(GUIDE_DIR, 'index.md'), 'utf8');
-  const linkRe = /\]\(([^)]+\.md)\)/g;
-  let m;
-  while ((m = linkRe.exec(indexMd)) !== null) {
-    const target = m[1];
-    fileExists(path.join(GUIDE_DIR, target));
-  }
-});
+// ── All guides from guides.json ──
+const guidesList = JSON.parse(fs.readFileSync(path.join(ROOT, 'guides.json'), 'utf8'));
+for (const g of guidesList) {
+  validateGuide(g.path, g.path);
+}
 
 // ── HTML asset references ──
 assert('index.html references required external assets', () => {

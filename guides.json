@@ -5,7 +5,7 @@
     "subtitle": "Guide and Walkthrough",
     "author": "Seb Holt (Sir Pobalot)",
     "desc": "Guide and Walkthrough",
-    "path": "guide",
+    "path": "guides/phantasy-star-iv",
     "hasAchievements": true
   },
   {
@@ -14,7 +14,7 @@
     "subtitle": "Guide and Walkthrough",
     "author": "Djibriel",
     "desc": "Guide and Walkthrough",
-    "path": "guide/final-fantasy-v-advance",
+    "path": "guides/final-fantasy-v-advance",
     "hasAchievements": true
   },
   {
@@ -23,7 +23,7 @@
     "subtitle": "Guide and Walkthrough",
     "author": "Shotgunnova",
     "desc": "Guide and Walkthrough",
-    "path": "guide/chrono-cross",
+    "path": "guides/chrono-cross",
     "hasAchievements": true
   },
   {
@@ -32,7 +32,7 @@
     "subtitle": "Guide and Walkthrough",
     "author": "Seb Holt (Sir Pobalot)",
     "desc": "Guide and Walkthrough",
-    "path": "guide/dragon-warrior-i-ii",
+    "path": "guides/dragon-warrior-i-ii",
     "hasAchievements": true
   }
 ]

@@ -4,7 +4,7 @@ import { marked } from '../../marked.js';
 marked.use({ renderer: { html: () => '' } });
 
 const $ = id => document.getElementById(id);
-let guides = [], activeGuide = null, guideBase = 'guide';
+let guides = [], activeGuide = null, guideBase = 'guides/phantasy-star-iv';
 let tocData = [], flatSections = [], currentIdx = -1, sidebarOpen = false;
 let guideMeta = {};
 
@@ -33,8 +33,8 @@ async function loadGuides() {
     guides = [];
   }
   if (!Array.isArray(guides) || guides.length === 0) {
-    // Legacy fallback: single guide in guide/
-    guides = [{ slug: 'default', title: 'Guide', path: 'guide' }];
+    // Legacy fallback: first guide in guides/
+    guides = [{ slug: 'default', title: 'Guide', path: 'guides/phantasy-star-iv' }];
   }
 
   const requested = getQueryParam('game');

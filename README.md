@@ -18,9 +18,9 @@ walkthroughs lives in the separate **[faqmd](https://github.com/danielcurran/faq
 | Path | Purpose |
 |---|---|
 | `guides.json` | Manifest of available walkthroughs |
-| `guide/` | Walkthrough section files for the default/legacy guide |
-| `guide/achievements.json` | RetroAchievements data — section mapping, missable cutoffs, strategic notes, player community tips from the RA Comments API |
-| `guide/achievements.md` | Auto-generated checklist with missable table + by-section view |
+| `guides/` | Walkthrough section files, one subdirectory per game |
+| `guides/<slug>/achievements.json` | RetroAchievements data — section mapping, missable cutoffs, strategic notes, player community tips from the RA Comments API |
+| `guides/<slug>/achievements.md` | Auto-generated checklist with missable table + by-section view |
 | `guides/<slug>/` | Walkthrough section files for additional games |
 | `reader.html` | Walkthrough viewer app — renders guide sections with sidebar navigation, search, and a full achievement panel (badges, missable warnings, upcoming cutoff alerts, type filters, progress tracking, interactive checklist) |
 | `index.html` | Landing page at [gamemds.org](https://gamemds.org) |
@@ -57,7 +57,7 @@ the content at [gamemds.org](https://gamemds.org).
    ```bash
    node scripts/split-guide.js walkthrough.md guide/
    ```
-5. Copy the generated `guide/` directory into this repo under `guides/<slug>/` (or replace `guide/` for the legacy/default guide)
+5. Copy the generated `guide/` directory from the converter to `guides/<slug>/`
 6. Add the new guide to `guides.json` with `slug`, `title`, `subtitle`, `author`, `desc`, and `path`. If the guide has RetroAchievements data, set `"hasAchievements": true`:
    ```json
    {
