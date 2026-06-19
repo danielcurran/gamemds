@@ -34,5 +34,14 @@
     "desc": "Guide and Walkthrough",
     "path": "guides/dragon-warrior-i-ii",
     "hasAchievements": true
+  },
+  {
+    "slug": "terranigma",
+    "title": "Terranigma (SNES)",
+    "subtitle": "Guide and Walkthrough",
+    "author": "Iron Knuckle",
+    "desc": "Guide and Walkthrough",
+    "path": "guides/terranigma",
+    "hasAchievements": true
   }
 ]
