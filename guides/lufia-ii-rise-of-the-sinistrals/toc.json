@@ -1,0 +1,86 @@
+[
+  {
+    "num": "0.1",
+    "title": "Achievement Checklist",
+    "file": "achievements.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "1",
+    "title": "Legal Jazz/Intro",
+    "file": "1-legal-jazzintro.md",
+    "depth": 0,
+    "children": []
+  },
+  {
+    "num": "2",
+    "title": "The Heroes",
+    "file": "2-the-heroes.md",
+    "depth": 0,
+    "children": []
+  },
+  {
+    "num": "3",
+    "title": "Controls",
+    "file": "3-controls.md",
+    "depth": 0,
+    "children": []
+  },
+  {
+    "num": "4",
+    "title": "Main Walkthrough",
+    "file": "4-main-walkthrough.md",
+    "depth": 0,
+    "children": []
+  },
+  {
+    "num": "5",
+    "title": "Side Quests",
+    "file": "5-side-quests.md",
+    "depth": 0,
+    "children": []
+  },
+  {
+    "num": "6",
+    "title": "Shops/Finances",
+    "file": "6-shopsfinances.md",
+    "depth": 0,
+    "children": []
+  },
+  {
+    "num": "7",
+    "title": "Capsule Monsters",
+    "file": "7-capsule-monsters.md",
+    "depth": 0,
+    "children": []
+  },
+  {
+    "num": "8",
+    "title": "Lufia's Database",
+    "file": "8-lufias-database.md",
+    "depth": 0,
+    "children": []
+  },
+  {
+    "num": "9",
+    "title": "Freq.Asked ?'s",
+    "file": "9-freqasked-s.md",
+    "depth": 0,
+    "children": []
+  },
+  {
+    "num": "10",
+    "title": "Other Notes",
+    "file": "10-other-notes.md",
+    "depth": 0,
+    "children": []
+  },
+  {
+    "num": "11",
+    "title": "Special Thanks",
+    "file": "11-special-thanks.md",
+    "depth": 0,
+    "children": []
+  }
+]

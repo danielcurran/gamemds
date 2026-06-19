@@ -43,5 +43,14 @@
     "desc": "Guide and Walkthrough",
     "path": "guides/terranigma",
     "hasAchievements": true
+  },
+  {
+    "slug": "lufia-ii-rise-of-the-sinistrals",
+    "title": "Lufia II: Rise of the Sinistrals",
+    "subtitle": "Guide and Walkthrough",
+    "author": "GPaladin",
+    "desc": "Guide and Walkthrough",
+    "path": "guides/lufia-ii-rise-of-the-sinistrals",
+    "hasAchievements": true
   }
 ]
