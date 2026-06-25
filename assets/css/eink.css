@@ -319,7 +319,7 @@ body.eink-mode #breadcrumb span {
    ========================================================== */
 body.eink-mode #content {
   flex: 1;
-  overflow: hidden;
+  overflow-y: auto;
   padding: 24px 32px;
   max-width: none;
   width: 100%;
@@ -495,57 +495,6 @@ body.eink-mode #content li.achievement-earned {
 }
 body.eink-mode #content table tr.achievement-earned {
   opacity: 0.4;
-}
-
-/* ==========================================================
-   E-ink pagination structure
-   ========================================================== */
-.eink-page {
-  display: none;
-}
-.eink-page.active {
-  display: block;
-}
-.eink-page-nav {
-  display: none;
-  text-align: center;
-  padding: 12px 16px;
-  border-top: 1px solid #ccc;
-  background: #f5f5f5;
-  font-family: 'Atkinson Hyperlegible', Georgia, serif;
-  font-size: 0.85rem;
-  color: #333;
-  flex-shrink: 0;
-  gap: 12px;
-  align-items: center;
-  justify-content: center;
-}
-body.eink-mode .eink-page-nav {
-  display: flex;
-}
-.eink-page-nav button {
-  padding: 4px 12px;
-  border: 1px solid #999;
-  background: #fff;
-  color: #000;
-  border-radius: 0;
-  font-family: 'Atkinson Hyperlegible', Georgia, serif;
-  font-size: 0.85rem;
-  cursor: pointer;
-}
-.eink-page-nav button:hover {
-  background: #ddd;
-}
-.eink-page-nav button:disabled {
-  opacity: 0.35;
-  cursor: default;
-}
-.eink-page-nav button:disabled:hover {
-  background: #fff;
-}
-.eink-page-indicator {
-  font-weight: 700;
-  min-width: 100px;
 }
 
 /* ==========================================================

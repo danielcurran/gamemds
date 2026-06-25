@@ -9,7 +9,7 @@ let tocData = [], flatSections = [], currentIdx = -1, sidebarOpen = false;
 let guideMeta = {};
 
 const EINK_STORAGE_KEY = 'gamemds-eink-mode';
-let einkMode = false, currentEinkPage = 0, totalEinkPages = 0;
+let einkMode = false;
 
 let achievements = null;
 let achievementMap = {};
@@ -48,135 +48,10 @@ function toggleEinkMode() {
   if (einkMode) {
     document.body.classList.add('eink-mode');
     if (btn) btn.textContent = '🌙';
-    schedulePagination();
   } else {
     document.body.classList.remove('eink-mode');
     if (btn) btn.textContent = '☀️';
-    destroyPagination();
-    const nav = $('eink-page-nav');
-    if (nav) nav.style.display = 'none';
   }
-}
-
-function schedulePagination() {
-  requestAnimationFrame(() => {
-    requestAnimationFrame(() => {
-      setupPagination();
-    });
-  });
-}
-
-function setupPagination() {
-  const content = $('content');
-  if (!content || !einkMode || content.querySelector('#loading')) return;
-
-  destroyPagination();
-
-  const nav = $('eink-page-nav');
-  const children = Array.from(content.children);
-
-  if (children.length === 0) return;
-
-  const contentStyle = getComputedStyle(content);
-  const paddingTop = parseFloat(contentStyle.paddingTop) || 0;
-  const paddingBottom = parseFloat(contentStyle.paddingBottom) || 0;
-  const availableHeight = content.clientHeight - paddingTop - paddingBottom;
-  if (availableHeight < 100) return;
-
-  const pages = [];
-  let currentPage = [];
-  let currentHeight = 0;
-
-  for (const child of children) {
-    const h = child.offsetHeight;
-    const computed = getComputedStyle(child);
-    const marginTop = parseFloat(computed.marginTop) || 0;
-    const marginBottom = parseFloat(computed.marginBottom) || 0;
-    const totalH = h + marginTop + marginBottom;
-    const isHeader = /^H[123]$/.test(child.tagName);
-
-    if (isHeader && currentPage.length > 0) {
-      pages.push(currentPage);
-      currentPage = [];
-      currentHeight = 0;
-    }
-
-    if (currentHeight + totalH > availableHeight && currentPage.length > 0 && !isHeader) {
-      pages.push(currentPage);
-      currentPage = [];
-      currentHeight = 0;
-    }
-
-    currentPage.push(child);
-    currentHeight += totalH;
-  }
-  if (currentPage.length > 0) pages.push(currentPage);
-
-  totalEinkPages = pages.length;
-  if (totalEinkPages <= 1) {
-    if (nav) nav.style.display = 'none';
-    return;
-  }
-
-  const wrapper = document.createDocumentFragment();
-  for (let i = 0; i < totalEinkPages; i++) {
-    const pageDiv = document.createElement('div');
-    pageDiv.className = 'eink-page';
-    if (i === 0) pageDiv.classList.add('active');
-    for (const node of pages[i]) {
-      pageDiv.appendChild(node);
-    }
-    wrapper.appendChild(pageDiv);
-  }
-  content.appendChild(wrapper);
-
-  if (nav) {
-    nav.innerHTML = `
-      <button class="eink-prev-btn" id="eink-prev-btn" disabled>« Prev</button>
-      <span class="eink-page-indicator" id="eink-page-indicator">Page 1 of ${totalEinkPages}</span>
-      <button class="eink-next-btn" id="eink-next-btn">Next »</button>
-    `;
-    nav.style.display = 'flex';
-  }
-
-  currentEinkPage = 0;
-  updateEinkPageNav();
-}
-
-function destroyPagination() {
-  const content = $('content');
-  if (!content) return;
-  const pages = content.querySelectorAll('.eink-page');
-  const nav = $('eink-page-nav');
-  if (pages.length > 0) {
-    for (const page of pages) {
-      while (page.firstChild) {
-        content.insertBefore(page.firstChild, page.nextSibling);
-      }
-      page.remove();
-    }
-  }
-  if (nav) {
-    nav.innerHTML = '';
-    nav.style.display = 'none';
-  }
-  currentEinkPage = 0;
-  totalEinkPages = 0;
-}
-
-function showEinkPage(n) {
-  currentEinkPage = n;
-  document.querySelectorAll('.eink-page').forEach((p, i) => p.classList.toggle('active', i === n));
-  updateEinkPageNav();
-}
-
-function updateEinkPageNav() {
-  const prev = document.querySelector('#eink-prev-btn');
-  const next = document.querySelector('#eink-next-btn');
-  const indicator = document.querySelector('#eink-page-indicator');
-  if (prev) prev.disabled = currentEinkPage === 0;
-  if (next) next.disabled = currentEinkPage >= totalEinkPages - 1;
-  if (indicator) indicator.textContent = `Page ${currentEinkPage + 1} of ${totalEinkPages}`;
 }
 
 function getQueryParam(name) {
@@ -741,7 +616,6 @@ async function loadSection(idx) {
   currentIdx = idx;
   const s = flatSections[idx];
   if (!s.file) return;
-  destroyPagination();
   $('content').innerHTML = '<div id="loading">Loading...</div>';
   try {
     const res = await fetch(guideBase + '/' + s.file);
@@ -760,7 +634,6 @@ async function loadSection(idx) {
     wireAchievementHints();
     if (s.file === 'achievements.md') enhanceChecklistPage();
     detectArtBlocks();
-    if (einkMode) schedulePagination();
     updateNav();
     highlightToc(s.num);
     $('content').scrollTop = 0;
@@ -848,17 +721,6 @@ $('menu-btn').addEventListener('click', e => {
 
 $('eink-btn').addEventListener('click', toggleEinkMode);
 
-$('eink-page-nav').addEventListener('click', e => {
-  const btn = e.target.closest('button');
-  if (!btn) return;
-  if (btn.id === 'eink-prev-btn' && currentEinkPage > 0) {
-    showEinkPage(currentEinkPage - 1);
-  }
-  if (btn.id === 'eink-next-btn' && currentEinkPage < totalEinkPages - 1) {
-    showEinkPage(currentEinkPage + 1);
-  }
-});
-
 $('main').addEventListener('click', e => {
   if (sidebarOpen && !e.target.closest('#sidebar') && !e.target.closest('#menu-btn')) toggleSidebar();
 });
@@ -881,22 +743,8 @@ document.addEventListener('keydown', e => {
     }
   }
   if (e.target.closest('input')) return;
-  if (e.key === 'ArrowLeft') {
-    if (einkMode && totalEinkPages > 1 && currentEinkPage > 0) {
-      e.preventDefault();
-      showEinkPage(currentEinkPage - 1);
-      return;
-    }
-    goPrev();
-  }
-  if (e.key === 'ArrowRight') {
-    if (einkMode && totalEinkPages > 1 && currentEinkPage < totalEinkPages - 1) {
-      e.preventDefault();
-      showEinkPage(currentEinkPage + 1);
-      return;
-    }
-    goNext();
-  }
+  if (e.key === 'ArrowLeft') goPrev();
+  if (e.key === 'ArrowRight') goNext();
 });
 
 $('content').addEventListener('click', e => {
