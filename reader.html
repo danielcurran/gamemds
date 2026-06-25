@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data: https://retroachievements.org; connect-src 'self'; frame-ancestors 'none'; base-uri 'self';">
+<title>Loading guide...</title>
+<link rel="stylesheet" href="assets/css/reader.css">
+<link rel="stylesheet" href="assets/css/eink.css">
+</head>
+<body>
+
+<div id="sidebar">
+  <h1><a href="index.html" id="home-link" title="Back to gamemds.org home"><span id="home-icon">⌂</span> Home</a> <span id="guide-header">Guide & Walkthrough</span></h1>
+  <div id="search"><input type="text" placeholder="Search sections..." id="search-input"></div>
+  <div id="toc"></div>
+</div>
+
+<div id="main">
+  <div id="nav-top">
+    <button class="nav-btn" id="menu-btn">☰</button>
+    <button class="nav-btn" id="eink-btn">☀️</button>
+    <button class="nav-btn" id="prev-btn">← Prev</button>
+    <div id="breadcrumb"></div>
+    <button class="nav-btn" id="next-btn">Next →</button>
+  </div>
+  <div id="content"><div id="loading">Loading guide...</div></div>
+  <div id="nav-bottom">
+    <button class="nav-btn" id="prev-btn2">← Prev</button>
+    <div style="flex:1"></div>
+    <button class="nav-btn" id="next-btn2">Next →</button>
+  </div>
+</div>
+
+<script type="module" src="assets/js/reader.js"></script>
+
+</body>
+</html>

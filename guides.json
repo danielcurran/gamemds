@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "phantasy-star-iv",
+    "title": "Phantasy Star IV",
+    "subtitle": "Guide and Walkthrough",
+    "author": "Seb Holt (Sir Pobalot)",
+    "desc": "Guide and Walkthrough",
+    "path": "guides/phantasy-star-iv",
+    "hasAchievements": true
+  },
+  {
+    "slug": "final-fantasy-v-advance",
+    "title": "Final Fantasy V Advance (GBA)",
+    "subtitle": "Guide and Walkthrough",
+    "author": "Djibriel",
+    "desc": "Guide and Walkthrough",
+    "path": "guides/final-fantasy-v-advance",
+    "hasAchievements": true
+  },
+  {
+    "slug": "chrono-cross",
+    "title": "Chrono Cross (PS)",
+    "subtitle": "Guide and Walkthrough",
+    "author": "Shotgunnova",
+    "desc": "Guide and Walkthrough",
+    "path": "guides/chrono-cross",
+    "hasAchievements": true
+  },
+  {
+    "slug": "dragon-warrior-i-ii",
+    "title": "Dragon Warrior I & II",
+    "subtitle": "Guide and Walkthrough",
+    "author": "Seb Holt (Sir Pobalot)",
+    "desc": "Guide and Walkthrough",
+    "path": "guides/dragon-warrior-i-ii",
+    "hasAchievements": true
+  },
+  {
+    "slug": "terranigma",
+    "title": "Terranigma (SNES)",
+    "subtitle": "Guide and Walkthrough",
+    "author": "Iron Knuckle",
+    "desc": "Guide and Walkthrough",
+    "path": "guides/terranigma",
+    "hasAchievements": true
+  },
+  {
+    "slug": "lufia-ii-rise-of-the-sinistrals",
+    "title": "Lufia II: Rise of the Sinistrals",
+    "subtitle": "Guide and Walkthrough",
+    "author": "GPaladin",
+    "desc": "Guide and Walkthrough",
+    "path": "guides/lufia-ii-rise-of-the-sinistrals",
+    "hasAchievements": true
+  }
+]

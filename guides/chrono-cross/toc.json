@@ -1,0 +1,724 @@
+[
+  {
+    "num": "0.1",
+    "title": "Achievement Checklist",
+    "file": "achievements.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "1",
+    "title": "CONTROLS",
+    "file": "1-controls.md",
+    "depth": 0,
+    "children": []
+  },
+  {
+    "num": "2",
+    "title": "TH' BASICS",
+    "file": "2.1-2-th-basics.md",
+    "depth": 0,
+    "children": [
+      {
+        "num": "2.1",
+        "title": "2. TH' BASICS",
+        "file": "2.1-2-th-basics.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "2.2",
+        "title": "Element Types",
+        "file": "2.2-element-types.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "2.3",
+        "title": "Element Grid",
+        "file": "2.3-element-grid.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "2.4",
+        "title": "Field Effect",
+        "file": "2.4-field-effect.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "2.5",
+        "title": "Attacking",
+        "file": "2.5-attacking.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "2.6",
+        "title": "Status Effects",
+        "file": "2.6-status-effects.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "2.7",
+        "title": "Stat Overview",
+        "file": "2.7-stat-overview.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "2.8",
+        "title": "Menu Overview",
+        "file": "2.8-menu-overview.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "2.9",
+        "title": "New Game Plus and Continue Plus",
+        "file": "2.9-new-game-plus-and-continue-plus.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "2.10",
+        "title": "Tips and Tricks",
+        "file": "2.10-tips-and-tricks.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "2.11",
+        "title": "Walkthrough Notation",
+        "file": "2.11-walkthrough-notation.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.1",
+        "title": "Dream Sequence",
+        "file": "3.1-dream-sequence.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.2",
+        "title": "Arni Village",
+        "file": "3.2-arni-village.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.3",
+        "title": "Lizard Rock",
+        "file": "3.3-lizard-rock.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.4",
+        "title": "Lizard Rock",
+        "file": "3.4-lizard-rock.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.5",
+        "title": "Arni Village",
+        "file": "3.5-arni-village.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.6",
+        "title": "Cape Howl",
+        "file": "3.6-cape-howl.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.7",
+        "title": "Fossil Valley",
+        "file": "3.7-fossil-valley.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.8",
+        "title": "Termina",
+        "file": "3.8-termina.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.9",
+        "title": "Nikki's Route — A",
+        "file": "3.9-nikkis-route-a.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.10",
+        "title": "Pierre's Route — A",
+        "file": "3.10-pierres-route-a.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.11",
+        "title": "Guile's Route — A",
+        "file": "3.11-guiles-route-a.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.12",
+        "title": "Viper Manor",
+        "file": "3.12-viper-manor.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.13",
+        "title": "Guldove",
+        "file": "3.13-guldove.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.14",
+        "title": "Termina",
+        "file": "3.14-termina.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.15",
+        "title": "PATH A: Hydra Marshes",
+        "file": "3.15-path-a-hydra-marshes.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.16",
+        "title": "PATH A: Guldove",
+        "file": "3.16-path-a-guldove.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.17",
+        "title": "OPTIONAL: Hydra Marshes",
+        "file": "3.17-optional-hydra-marshes.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.18",
+        "title": "OPTIONAL: Water Dragon Isle",
+        "file": "3.18-optional-water-dragon-isle.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.19",
+        "title": "OPTIONAL: Isle of the Damned",
+        "file": "3.19-optional-isle-of-the-damned.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.20",
+        "title": "OPTIONAL: Hermit's Hideaway",
+        "file": "3.20-optional-hermits-hideaway.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.21",
+        "title": "S.S. Invincible",
+        "file": "3.21-ss-invincible.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.22",
+        "title": "PATH B: Guldove",
+        "file": "3.22-path-b-guldove.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.23",
+        "title": "OPTIONAL: Water Dragon Isle",
+        "file": "3.23-optional-water-dragon-isle.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.24",
+        "title": "Mt. Pyre",
+        "file": "3.24-mt-pyre.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.25",
+        "title": "Fort Dragonia",
+        "file": "3.25-fort-dragonia.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.26",
+        "title": "Temporal Vortex",
+        "file": "3.26-temporal-vortex.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.27",
+        "title": "Arni Village",
+        "file": "3.27-arni-village.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.28",
+        "title": "Fossil Valley",
+        "file": "3.28-fossil-valley.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.29",
+        "title": "OPTIONAL: Shadow Forest",
+        "file": "3.29-optional-shadow-forest.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.30",
+        "title": "Termina",
+        "file": "3.30-termina.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.31",
+        "title": "Viper Manor",
+        "file": "3.31-viper-manor.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.32",
+        "title": "OPTIONAL: Guldove",
+        "file": "3.32-optional-guldove.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.33",
+        "title": "OPTIONAL: El Nido Triangle",
+        "file": "3.33-optional-el-nido-triangle.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.34",
+        "title": "OPTIONAL: Sky Dragon Isle",
+        "file": "3.34-optional-sky-dragon-isle.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.35",
+        "title": "OPTIONAL: Hermit's Hideaway",
+        "file": "3.35-optional-hermits-hideaway.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.36",
+        "title": "Marbule",
+        "file": "3.36-marbule.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.37",
+        "title": "S.S. Zelbess",
+        "file": "3.37-ss-zelbess.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.38",
+        "title": "OPTIONAL: Save Marbule Quest, Pt. I...",
+        "file": "3.38-optional-save-marbule-quest-pt-i.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.39",
+        "title": "Death's Door",
+        "file": "3.39-deaths-door.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.40",
+        "title": "Isle of the Damned",
+        "file": "3.40-isle-of-the-damned.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.41",
+        "title": "Highway Ruins",
+        "file": "3.41-highway-ruins.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.42",
+        "title": "City Ruins",
+        "file": "3.42-city-ruins.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.43",
+        "title": "Tower of Geddon",
+        "file": "3.43-tower-of-geddon.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.44",
+        "title": "OPTIONAL: Arni Village",
+        "file": "3.44-optional-arni-village.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.45",
+        "title": "Fossil Valley",
+        "file": "3.45-fossil-valley.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.46",
+        "title": "Termina",
+        "file": "3.46-termina.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.47",
+        "title": "Viper Manor",
+        "file": "3.47-viper-manor.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.48",
+        "title": "Hermit's Hideaway",
+        "file": "3.48-hermits-hideaway.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.49",
+        "title": "OPTIONAL: Viper Manor",
+        "file": "3.49-optional-viper-manor.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.50",
+        "title": "OPTIONAL: Isle of the Damned",
+        "file": "3.50-optional-isle-of-the-damned.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.51",
+        "title": "OPTIONAL: Save Marbule Quest, Pt. II..",
+        "file": "3.51-optional-save-marbule-quest-pt-ii.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.52",
+        "title": "OPTIONAL: Viper Manor",
+        "file": "3.52-optional-viper-manor.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.53",
+        "title": "Earth Dragon Isle",
+        "file": "3.53-earth-dragon-isle.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.54",
+        "title": "Water Dragon Isle",
+        "file": "3.54-water-dragon-isle.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.55",
+        "title": "Mt. Pyre",
+        "file": "3.55-mt-pyre.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.56",
+        "title": "Gaea's Navel",
+        "file": "3.56-gaeas-navel.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.57",
+        "title": "Sky Dragon Isle",
+        "file": "3.57-sky-dragon-isle.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.58",
+        "title": "OPTIONAL: Guldove",
+        "file": "3.58-optional-guldove.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.59",
+        "title": "OPTIONAL: Hydra Marshes",
+        "file": "3.59-optional-hydra-marshes.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.60",
+        "title": "OPTIONAL: Gaea's Navel",
+        "file": "3.60-optional-gaeas-navel.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.61",
+        "title": "OPTIONAL: Forbidden Island",
+        "file": "3.61-optional-forbidden-island.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.62",
+        "title": "OPTIONAL: Earth Dragon Isle",
+        "file": "3.62-optional-earth-dragon-isle.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.63",
+        "title": "Guldove",
+        "file": "3.63-guldove.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.64",
+        "title": "Mt. Pyre",
+        "file": "3.64-mt-pyre.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.65",
+        "title": "Ft. Dragonia",
+        "file": "3.65-ft-dragonia.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.66",
+        "title": "OPTIONAL: Marbule",
+        "file": "3.66-optional-marbule.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.1",
+        "title": "Sea of Eden",
+        "file": "4.1-sea-of-eden.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.2",
+        "title": "Time Fortress Chronopolis",
+        "file": "4.2-time-fortress-chronopolis.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.3",
+        "title": "Divine Dragon Falls",
+        "file": "4.3-divine-dragon-falls.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.4",
+        "title": "Lucca's Orphanage",
+        "file": "4.4-luccas-orphanage.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.5",
+        "title": "El Nido Triangle",
+        "file": "4.5-el-nido-triangle.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.6",
+        "title": "Terra Tower",
+        "file": "4.6-terra-tower.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.7",
+        "title": "The Final Battle",
+        "file": "4.7-the-final-battle.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "5.1",
+        "title": "Characters",
+        "file": "5.1-characters.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "5.2",
+        "title": "Weapons",
+        "file": "5.2-weapons.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "5.3",
+        "title": "Armor",
+        "file": "5.3-armor.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "5.4",
+        "title": "Accessories",
+        "file": "5.4-accessories.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "5.6",
+        "title": "Endings",
+        "file": "5.6-endings.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "5.7",
+        "title": "Double/Triple Techs",
+        "file": "5.7-doubletriple-techs.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "5.8",
+        "title": "Star List",
+        "file": "5.8-star-list.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "5.9",
+        "title": "Shop List",
+        "file": "5.9-shop-list.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "5.10",
+        "title": "Frame List",
+        "file": "5.10-frame-list.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "5.11",
+        "title": "Key Items",
+        "file": "5.11-key-items.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "5.12",
+        "title": "The Bend of Time",
+        "file": "5.12-the-bend-of-time.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "5.13",
+        "title": "Dopplegangs",
+        "file": "5.13-dopplegangs.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "5.14",
+        "title": "Rainbow Shells",
+        "file": "5.14-rainbow-shells.md",
+        "depth": 1,
+        "children": []
+      }
+    ]
+  },
+  {
+    "num": "6",
+    "title": "FREQUENTLY ASKED QUESTIONS",
+    "file": "6-frequently-asked-questions.md",
+    "depth": 0,
+    "children": []
+  },
+  {
+    "num": "7",
+    "title": "UPDATES + THANKS",
+    "file": "7-updates-thanks.md",
+    "depth": 0,
+    "children": []
+  },
+  {
+    "num": "8",
+    "title": "LEGALITY",
+    "file": "8-legality.md",
+    "depth": 0,
+    "children": []
+  }
+]

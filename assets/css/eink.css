@@ -1,0 +1,561 @@
+/* ============================================================
+   eink.css — E-Ink Display Mode
+   Applied when body.eink-mode is present.
+   ============================================================ */
+
+/* --- Atkinson Hyperlegible font faces --- */
+@font-face {
+  font-family: 'Atkinson Hyperlegible';
+  src: url('../fonts/atkinson-hyperlegible-regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Atkinson Hyperlegible';
+  src: url('../fonts/atkinson-hyperlegible-italic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Atkinson Hyperlegible';
+  src: url('../fonts/atkinson-hyperlegible-bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Atkinson Hyperlegible';
+  src: url('../fonts/atkinson-hyperlegible-bolditalic.woff2') format('woff2');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* ==========================================================
+   Global reset — white background, black text, no animations
+   ========================================================== */
+body.eink-mode {
+  font-family: 'Atkinson Hyperlegible', Georgia, serif;
+  font-size: 19px;
+  background: #fff;
+  color: #000;
+  line-height: 1.7;
+}
+body.eink-mode * {
+  box-sizing: border-box;
+  transition: none !important;
+  animation: none !important;
+  text-shadow: none !important;
+  box-shadow: none !important;
+}
+
+/* --- Links --- */
+body.eink-mode a {
+  color: #1a0dab;
+  text-decoration: underline;
+}
+body.eink-mode a:hover {
+  color: #1a0dab;
+  text-decoration: underline;
+}
+
+/* ==========================================================
+   Landing page (index.html)
+   ========================================================== */
+body.eink-mode main {
+  background: #fff;
+  max-width: 740px;
+  padding: 40px 24px;
+}
+body.eink-mode h1 {
+  font-family: 'Atkinson Hyperlegible', Georgia, serif;
+  font-weight: 700;
+  font-size: 2rem;
+  color: #000;
+  letter-spacing: 0;
+}
+body.eink-mode .tagline {
+  color: #444;
+  font-size: 1.05rem;
+}
+body.eink-mode .window {
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 0;
+  padding: 24px;
+  margin-bottom: 24px;
+  box-shadow: none;
+  background: #fafafa;
+}
+body.eink-mode .window h2 {
+  font-family: 'Atkinson Hyperlegible', Georgia, serif;
+  font-weight: 700;
+  font-size: 1.15rem;
+  color: #000;
+  letter-spacing: 0;
+}
+body.eink-mode .guide-card {
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 0;
+  padding: 14px 18px;
+  margin-bottom: 8px;
+}
+body.eink-mode .guide-card:hover {
+  background: #eee;
+  border-color: #999;
+}
+body.eink-mode .guide-card .guide-title {
+  font-family: 'Atkinson Hyperlegible', Georgia, serif;
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: #000;
+  letter-spacing: 0;
+}
+body.eink-mode .guide-card .guide-meta {
+  color: #555;
+  font-size: 0.85rem;
+}
+body.eink-mode footer {
+  color: #666;
+  font-size: 0.8rem;
+  padding: 20px 24px 32px;
+}
+body.eink-mode footer a {
+  color: #1a0dab;
+  text-decoration: underline;
+}
+
+/* ==========================================================
+   Reader page (reader.html) — layout
+   ========================================================== */
+body.eink-mode {
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* --- Sidebar --- */
+body.eink-mode #sidebar {
+  width: 300px;
+  min-width: 300px;
+  background: #f5f5f5;
+  border-right: 1px solid #ccc;
+  box-shadow: none;
+}
+body.eink-mode #sidebar h1 {
+  font-family: 'Atkinson Hyperlegible', Georgia, serif;
+  font-weight: 700;
+  font-size: 1.05rem;
+  padding: 12px 14px 10px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+  letter-spacing: 0;
+}
+body.eink-mode #home-link {
+  color: #1a0dab;
+  text-decoration: underline;
+  font-size: 0.9rem;
+  border: 1px solid #ccc;
+  background: #fff;
+  border-radius: 0;
+}
+body.eink-mode #home-link:hover {
+  color: #1a0dab;
+  background: #ddd;
+  border-color: #999;
+  text-decoration: underline;
+}
+body.eink-mode #home-icon {
+  font-size: 1.1rem;
+}
+
+/* --- Search --- */
+body.eink-mode #search {
+  padding: 10px 12px;
+  border-bottom: 1px solid #ccc;
+  background: #eaeaea;
+}
+body.eink-mode #search input {
+  width: 100%;
+  padding: 8px 10px;
+  border: 1px solid #999;
+  border-radius: 0;
+  background: #fff;
+  color: #000;
+  font-family: 'Atkinson Hyperlegible', Georgia, serif;
+  font-size: 0.9rem;
+}
+body.eink-mode #search input:focus {
+  outline: 2px solid #999;
+  border-color: #666;
+}
+body.eink-mode #search input::placeholder {
+  color: #999;
+}
+
+/* --- TOC --- */
+body.eink-mode #toc {
+  flex: 1;
+  overflow-y: auto;
+  padding: 4px 0;
+}
+body.eink-mode .toc-item {
+  font-family: 'Atkinson Hyperlegible', Georgia, serif;
+  font-size: 0.85rem;
+  padding: 5px 14px;
+  border-left: 3px solid transparent;
+  color: #333;
+}
+body.eink-mode .toc-item:hover {
+  background: #e0e0e0;
+  color: #000;
+  border-left-color: #999;
+}
+body.eink-mode .toc-item.active {
+  background: #ddd;
+  color: #000;
+  border-left-color: #333;
+  font-weight: 700;
+}
+body.eink-mode .toc-item.hidden {
+  display: none;
+}
+body.eink-mode .toc-d0 {
+  padding-left: 14px;
+  font-weight: 700;
+  font-size: 0.9rem;
+  color: #000;
+}
+body.eink-mode .toc-d1 { padding-left: 28px; }
+body.eink-mode .toc-d2 { padding-left: 42px; }
+body.eink-mode .toc-d3 { padding-left: 56px; }
+body.eink-mode .toc-folder {
+  font-weight: 700;
+  cursor: default;
+  border-left-color: transparent !important;
+}
+body.eink-mode .toc-folder:hover {
+  background: transparent;
+}
+
+/* --- Main content area --- */
+body.eink-mode #main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background: #fff;
+}
+
+/* --- Nav bars --- */
+body.eink-mode #nav-top,
+body.eink-mode #nav-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 14px;
+  background: #f0f0f0;
+  border-bottom: 1px solid #ccc;
+  min-height: 42px;
+  gap: 8px;
+  flex-shrink: 0;
+}
+body.eink-mode #nav-bottom {
+  border-top: 1px solid #ccc;
+  border-bottom: none;
+}
+
+body.eink-mode .nav-btn {
+  padding: 6px 14px;
+  border: 1px solid #999;
+  border-radius: 0;
+  background: #fff;
+  color: #000;
+  cursor: pointer;
+  font-family: 'Atkinson Hyperlegible', Georgia, serif;
+  font-size: 0.85rem;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+body.eink-mode .nav-btn:hover {
+  background: #ddd;
+  border-color: #666;
+}
+body.eink-mode .nav-btn:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+body.eink-mode .nav-btn:disabled:hover {
+  background: #fff;
+}
+
+/* --- E-ink toggle button --- */
+body.eink-mode #eink-btn {
+  font-weight: 700;
+}
+#eink-btn {
+  font-size: 0.85rem;
+}
+
+body.eink-mode #breadcrumb {
+  font-size: 0.82rem;
+  color: #555;
+  font-family: 'Atkinson Hyperlegible', Georgia, serif;
+}
+body.eink-mode #breadcrumb a {
+  color: #1a0dab;
+  text-decoration: underline;
+}
+body.eink-mode #breadcrumb span {
+  color: #000;
+  font-weight: 700;
+}
+
+/* ==========================================================
+   Content area — prose
+   ========================================================== */
+body.eink-mode #content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 24px 32px;
+  max-width: none;
+  width: 100%;
+  margin: 0;
+  background: #fff;
+}
+body.eink-mode #content h1,
+body.eink-mode #content h2,
+body.eink-mode #content h3,
+body.eink-mode #content p,
+body.eink-mode #content ul,
+body.eink-mode #content ol,
+body.eink-mode #content blockquote,
+body.eink-mode #content hr {
+  max-width: none;
+  margin-left: 0;
+  margin-right: 0;
+}
+body.eink-mode #content h1 {
+  font-family: 'Atkinson Hyperlegible', Georgia, serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 0 0 16px;
+  color: #000;
+  border-bottom: 2px solid #000;
+  padding-bottom: 8px;
+  letter-spacing: 0;
+}
+body.eink-mode #content h2 {
+  font-family: 'Atkinson Hyperlegible', Georgia, serif;
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 28px 0 10px;
+  color: #000;
+  letter-spacing: 0;
+}
+body.eink-mode #content h3 {
+  font-family: 'Atkinson Hyperlegible', Georgia, serif;
+  font-weight: 700;
+  font-size: 1.1rem;
+  margin: 22px 0 8px;
+  color: #000;
+  letter-spacing: 0;
+}
+body.eink-mode #content p {
+  margin: 8px 0;
+  font-family: 'Atkinson Hyperlegible', Georgia, serif;
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #000;
+}
+body.eink-mode #content p strong:first-child {
+  color: #000;
+  font-weight: 700;
+}
+body.eink-mode #content ul,
+body.eink-mode #content ol {
+  margin: 8px 0;
+  padding-left: 28px;
+  line-height: 1.7;
+}
+body.eink-mode #content li {
+  margin: 3px 0;
+}
+body.eink-mode #content pre {
+  background: #f5f5f5;
+  border: 1px solid #ccc;
+  padding: 12px 16px;
+  border-radius: 0;
+  overflow-x: auto;
+  font-size: 0.82rem;
+  line-height: 1.45;
+  margin: 14px 0;
+  color: #000;
+}
+body.eink-mode #content pre code {
+  font-family: monospace;
+  font-size: 0.82rem;
+  color: #000;
+}
+body.eink-mode #content code {
+  font-family: monospace;
+  font-size: 0.9em;
+}
+body.eink-mode #content blockquote {
+  border-left: 3px solid #000;
+  margin: 14px 0;
+  padding: 10px 16px;
+  background: #f9f9f9;
+  color: #000;
+  font-style: italic;
+  border-radius: 0;
+}
+body.eink-mode #content table {
+  border-collapse: collapse;
+  margin: 14px 0;
+  font-size: 0.88rem;
+}
+body.eink-mode #content th,
+body.eink-mode #content td {
+  border: 1px solid #999;
+  padding: 6px 12px;
+  text-align: left;
+}
+body.eink-mode #content th {
+  background: #ddd;
+  color: #000;
+  font-family: 'Atkinson Hyperlegible', Georgia, serif;
+  font-weight: 700;
+  font-size: 0.88rem;
+}
+body.eink-mode #content hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 24px 0;
+}
+body.eink-mode #content pre.keep-scroll {
+  white-space: pre;
+  overflow-x: auto;
+}
+body.eink-mode #loading {
+  text-align: center;
+  padding: 60px;
+  color: #666;
+  font-style: italic;
+}
+
+/* ==========================================================
+   Achievement-related — HIDE ALL
+   ========================================================== */
+body.eink-mode .achievement-badges,
+body.eink-mode .achievement-badge,
+body.eink-mode .achievement-icon,
+body.eink-mode .achievement-medal-fallback,
+body.eink-mode .achievement-info,
+body.eink-mode .achievement-check,
+body.eink-mode .achievement-hint,
+body.eink-mode .achievement-hint-more,
+body.eink-mode .achievement-hint-expanded,
+body.eink-mode .achievement-tip,
+body.eink-mode .missable-warning,
+body.eink-mode .upcoming-missable,
+body.eink-mode .achievement-sidebar,
+body.eink-mode .ach-progress-bar,
+body.eink-mode .ach-progress-fill,
+body.eink-mode .ach-filters,
+body.eink-mode .ach-mini-list,
+body.eink-mode .ach-mini-item,
+body.eink-mode .ach-mini-check,
+body.eink-mode .ach-checklist-link,
+body.eink-mode .achievement-hint-icon,
+body.eink-mode .ach-modal-overlay,
+body.eink-mode .achievement-earned {
+  display: none !important;
+}
+
+/* Achievement emoji in text — hide them */
+body.eink-mode #content h1 img,
+body.eink-mode #content h2 img,
+body.eink-mode #content p img {
+  display: none;
+}
+
+/* ==========================================================
+   Checklist page — simplifications
+   ========================================================== */
+body.eink-mode #content li .achievement-check {
+  display: none;
+}
+body.eink-mode #content li.achievement-earned {
+  opacity: 0.6;
+  text-decoration: line-through;
+}
+body.eink-mode #content table tr.achievement-earned {
+  opacity: 0.4;
+}
+
+/* ==========================================================
+   Mobile — e-ink mode
+   ========================================================== */
+@media (max-width: 768px) {
+  body.eink-mode #sidebar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 100;
+    width: 280px;
+    min-width: 280px;
+    transform: translateX(-100%);
+    transition: transform 0.2s !important;
+    border-right: 1px solid #ccc;
+    box-shadow: 2px 0 10px rgba(0,0,0,0.15) !important;
+  }
+  body.eink-mode #sidebar.show {
+    transform: translateX(0);
+  }
+  body.eink-mode #menu-btn {
+    display: block;
+    background: none;
+    border: none;
+    color: #000;
+    font-size: 1.2rem;
+    cursor: pointer;
+    padding: 4px 8px;
+  }
+  body.eink-mode #content {
+    max-width: none;
+    padding: 16px 14px;
+  }
+  body.eink-mode #content h1,
+  body.eink-mode #content h2,
+  body.eink-mode #content h3,
+  body.eink-mode #content p,
+  body.eink-mode #content ul,
+  body.eink-mode #content ol,
+  body.eink-mode #content blockquote,
+  body.eink-mode #content hr {
+    max-width: none;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  body.eink-mode #content pre {
+    font-size: 0.72rem;
+    padding: 8px 10px;
+    max-width: 100%;
+    white-space: pre-wrap;
+    word-break: normal;
+    overflow-wrap: break-word;
+  }
+  body.eink-mode #nav-top,
+  body.eink-mode #nav-bottom {
+    padding: 6px 10px;
+  }
+  body.eink-mode .nav-btn {
+    padding: 5px 10px;
+    font-size: 0.8rem;
+  }
+}

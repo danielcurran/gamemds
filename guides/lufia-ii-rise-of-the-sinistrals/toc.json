@@ -1,0 +1,1344 @@
+[
+  {
+    "num": "0.1",
+    "title": "Achievement Checklist",
+    "file": "achievements.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "1",
+    "title": "Legal Jazz/Intro",
+    "file": "1-legal-jazzintro.md",
+    "depth": 0,
+    "children": []
+  },
+  {
+    "num": "2",
+    "title": "The Heroes",
+    "file": "2-the-heroes.md",
+    "depth": 0,
+    "children": [
+      {
+        "num": "2.1",
+        "title": "M A X I M",
+        "file": "2.1-m-a-x-i-m.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "2.2",
+        "title": "T I A",
+        "file": "2.2-t-i-a.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "2.3",
+        "title": "S E L A N",
+        "file": "2.3-s-e-l-a-n.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "2.4",
+        "title": "D E K A R",
+        "file": "2.4-d-e-k-a-r.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "2.5",
+        "title": "G U Y",
+        "file": "2.5-g-u-y.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "2.6",
+        "title": "L E X I S",
+        "file": "2.6-l-e-x-i-s.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "2.7",
+        "title": "A R T E A",
+        "file": "2.7-a-r-t-e-a.md",
+        "depth": 1,
+        "children": []
+      }
+    ]
+  },
+  {
+    "num": "3",
+    "title": "Controls",
+    "file": "3-controls.md",
+    "depth": 0,
+    "children": []
+  },
+  {
+    "num": "4",
+    "title": "Main Walkthrough",
+    "file": "4-main-walkthrough.md",
+    "depth": 0,
+    "children": [
+      {
+        "num": "4.1",
+        "title": "Elcid",
+        "file": "4.1-elcid.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.2",
+        "title": "The Training Dungeon",
+        "file": "4.2-the-training-dungeon.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.3",
+        "title": "Story Events",
+        "file": "4.3-story-events.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.4",
+        "title": "Cave Leading to Sundletan",
+        "file": "4.4-cave-leading-to-sundletan.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.5",
+        "title": "Sundletan",
+        "file": "4.5-sundletan.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.6",
+        "title": "Lake Cave",
+        "file": "4.6-lake-cave.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.7",
+        "title": "Story Events",
+        "file": "4.7-story-events.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.8",
+        "title": "Alunze Kingdom",
+        "file": "4.8-alunze-kingdom.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.9",
+        "title": "Alunze Castle",
+        "file": "4.9-alunze-castle.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.10",
+        "title": "The Basement",
+        "file": "4.10-the-basement.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.11",
+        "title": "Story Events",
+        "file": "4.11-story-events.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.12",
+        "title": "Alunze North Shrine",
+        "file": "4.12-alunze-north-shrine.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.13",
+        "title": "North West Cave",
+        "file": "4.13-north-west-cave.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.14",
+        "title": "Tanbel",
+        "file": "4.14-tanbel.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.15",
+        "title": "South East Tower",
+        "file": "4.15-south-east-tower.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.16",
+        "title": "Story Events",
+        "file": "4.16-story-events.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.17",
+        "title": "Clamento",
+        "file": "4.17-clamento.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.18",
+        "title": "Ruby Cave",
+        "file": "4.18-ruby-cave.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.19",
+        "title": "Story Events",
+        "file": "4.19-story-events.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.20",
+        "title": "Parcelyte",
+        "file": "4.20-parcelyte.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.21",
+        "title": "Treasure Sword Shrine",
+        "file": "4.21-treasure-sword-shrine.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.22",
+        "title": "Story Events",
+        "file": "4.22-story-events.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.23",
+        "title": "Gordovan",
+        "file": "4.23-gordovan.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.24",
+        "title": "Gordovan Tower",
+        "file": "4.24-gordovan-tower.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.25",
+        "title": "Parcelyte",
+        "file": "4.25-parcelyte.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.26",
+        "title": "Merix Village",
+        "file": "4.26-merix-village.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.27",
+        "title": "Northern Cave",
+        "file": "4.27-northern-cave.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.28",
+        "title": "Story Events",
+        "file": "4.28-story-events.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.29",
+        "title": "Bound Kingdom",
+        "file": "4.29-bound-kingdom.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.30",
+        "title": "North Labyrinth",
+        "file": "4.30-north-labyrinth.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.31",
+        "title": "Story Events",
+        "file": "4.31-story-events.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.32",
+        "title": "Ancient Tower",
+        "file": "4.32-ancient-tower.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.33",
+        "title": "Story Events",
+        "file": "4.33-story-events.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.34",
+        "title": "North Lighthouse",
+        "file": "4.34-north-lighthouse.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.35",
+        "title": "Story Events",
+        "file": "4.35-story-events.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.36",
+        "title": "Port of Aleyn",
+        "file": "4.36-port-of-aleyn.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.37",
+        "title": "Phantom Tree Mountain",
+        "file": "4.37-phantom-tree-mountain.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.38",
+        "title": "Chillin' in Aleyn",
+        "file": "4.38-chillin-in-aleyn.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.39",
+        "title": "Narcysus",
+        "file": "4.39-narcysus.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.40",
+        "title": "Tower of Sacrifice",
+        "file": "4.40-tower-of-sacrifice.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.41",
+        "title": "Karlloon",
+        "file": "4.41-karlloon.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.42",
+        "title": "Karlloon's North Shrine",
+        "file": "4.42-karlloons-north-shrine.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.43",
+        "title": "The Adventure Continues",
+        "file": "4.43-the-adventure-continues.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.44",
+        "title": "Treadool",
+        "file": "4.44-treadool.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.45",
+        "title": "Shaia Lab",
+        "file": "4.45-shaia-lab.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.46",
+        "title": "Story Events",
+        "file": "4.46-story-events.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.47",
+        "title": "Flower Mountain",
+        "file": "4.47-flower-mountain.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.48",
+        "title": "Story Events",
+        "file": "4.48-story-events.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.49",
+        "title": "Dankirk",
+        "file": "4.49-dankirk.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.50",
+        "title": "Northern Dungeon",
+        "file": "4.50-northern-dungeon.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.51",
+        "title": "Ferim Kingdom",
+        "file": "4.51-ferim-kingdom.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.52",
+        "title": "North-East Tower",
+        "file": "4.52-north-east-tower.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.53",
+        "title": "Agurio",
+        "file": "4.53-agurio.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.54",
+        "title": "Treble",
+        "file": "4.54-treble.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.55",
+        "title": "Portravia",
+        "file": "4.55-portravia.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.56",
+        "title": "Mountain of no Return!",
+        "file": "4.56-mountain-of-no-return.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.57",
+        "title": "Eserikto",
+        "file": "4.57-eserikto.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.58",
+        "title": "Divine Shrine",
+        "file": "4.58-divine-shrine.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.59",
+        "title": "Story Events",
+        "file": "4.59-story-events.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.60",
+        "title": "Barnan",
+        "file": "4.60-barnan.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.61",
+        "title": "Shrine of Vengeance",
+        "file": "4.61-shrine-of-vengeance.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.62",
+        "title": "Story Events",
+        "file": "4.62-story-events.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.63",
+        "title": "Durale",
+        "file": "4.63-durale.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.64",
+        "title": "Tower of Truth",
+        "file": "4.64-tower-of-truth.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.65",
+        "title": "Story Events",
+        "file": "4.65-story-events.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.66",
+        "title": "Chead",
+        "file": "4.66-chead.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.67",
+        "title": "Dragon Mountain",
+        "file": "4.67-dragon-mountain.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.68",
+        "title": "Preamarl",
+        "file": "4.68-preamarl.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.69",
+        "title": "Submarine Shrine",
+        "file": "4.69-submarine-shrine.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.70",
+        "title": "Story Events",
+        "file": "4.70-story-events.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.71",
+        "title": "The Nick!",
+        "file": "4.71-the-nick.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.72",
+        "title": "Gratze",
+        "file": "4.72-gratze.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.73",
+        "title": "Story Events",
+        "file": "4.73-story-events.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.74",
+        "title": "Narvick",
+        "file": "4.74-narvick.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.75",
+        "title": "Shuman",
+        "file": "4.75-shuman.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.76",
+        "title": "Strahda",
+        "file": "4.76-strahda.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.77",
+        "title": "Kamirno",
+        "file": "4.77-kamirno.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "4.78",
+        "title": "Doom Island",
+        "file": "4.78-doom-island.md",
+        "depth": 1,
+        "children": []
+      }
+    ]
+  },
+  {
+    "num": "5",
+    "title": "Side Quests",
+    "file": "5-side-quests.md",
+    "depth": 0,
+    "children": [
+      {
+        "num": "5.1",
+        "title": "The Ancient Cave",
+        "file": "5.1-the-ancient-cave.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "5.2",
+        "title": "Forfeit Island",
+        "file": "5.2-forfeit-island.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "5.3",
+        "title": "The Egg Dragon",
+        "file": "5.3-the-egg-dragon.md",
+        "depth": 1,
+        "children": []
+      }
+    ]
+  },
+  {
+    "num": "6",
+    "title": "Shops/Finances",
+    "file": "6-shopsfinances.md",
+    "depth": 0,
+    "children": [
+      {
+        "num": "6.1",
+        "title": "Elcid",
+        "file": "6.2-61-elcid.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.2",
+        "title": "6.1. Elcid",
+        "file": "6.2-61-elcid.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.3",
+        "title": "Magic Store",
+        "file": "6.5-63-magic-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.4",
+        "title": "Sundletan",
+        "file": "6.5-63-magic-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.5",
+        "title": "6.3. Magic Store",
+        "file": "6.5-63-magic-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.6",
+        "title": "Granny's Spell Shop",
+        "file": "6.6-grannys-spell-shop.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.7",
+        "title": "Café",
+        "file": "6.7-caf.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.8",
+        "title": "Alunze Kingdom",
+        "file": "6.9-68-alunze-kingdom.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.9",
+        "title": "6.8. Alunze Kingdom",
+        "file": "6.9-68-alunze-kingdom.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.10",
+        "title": "Casino",
+        "file": "6.10-casino.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.11",
+        "title": "Tanbel",
+        "file": "6.12-611-tanbel.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.12",
+        "title": "6.11. Tanbel",
+        "file": "6.12-611-tanbel.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.13",
+        "title": "Magic Store",
+        "file": "6.13-magic-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.14",
+        "title": "Item Store",
+        "file": "6.14-item-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.15",
+        "title": "Clamento",
+        "file": "6.16-615-clamento.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.16",
+        "title": "6.15. Clamento",
+        "file": "6.16-615-clamento.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.17",
+        "title": "Magic Store",
+        "file": "6.17-magic-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.18",
+        "title": "Glass Store",
+        "file": "6.20-618-glass-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.19",
+        "title": "Parcelyte",
+        "file": "6.20-618-glass-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.20",
+        "title": "6.18. Glass Store",
+        "file": "6.20-618-glass-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.21",
+        "title": "Item Store",
+        "file": "6.21-item-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.22",
+        "title": "Gordovan",
+        "file": "6.24-622-gordovan.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.23",
+        "title": "Merix Village",
+        "file": "6.24-622-gordovan.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.24",
+        "title": "6.22. Gordovan",
+        "file": "6.24-622-gordovan.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.25",
+        "title": "Magic Store",
+        "file": "6.25-magic-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.26",
+        "title": "Bound Kingdom",
+        "file": "6.27-626-bound-kingdom.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.27",
+        "title": "6.26. Bound Kingdom",
+        "file": "6.27-626-bound-kingdom.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.28",
+        "title": "Item Store",
+        "file": "6.28-item-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.29",
+        "title": "Aleyn",
+        "file": "6.30-629-aleyn.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.30",
+        "title": "6.29. Aleyn",
+        "file": "6.30-629-aleyn.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.31",
+        "title": "Magic Store",
+        "file": "6.31-magic-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.32",
+        "title": "Café",
+        "file": "6.32-caf.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.33",
+        "title": "Gruberik",
+        "file": "6.34-633-gruberik.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.34",
+        "title": "6.33. Gruberik",
+        "file": "6.34-633-gruberik.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.35",
+        "title": "Café",
+        "file": "6.35-caf.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.36",
+        "title": "Narcysus",
+        "file": "6.37-636-narcysus.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.37",
+        "title": "6.36. Narcysus",
+        "file": "6.37-636-narcysus.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.38",
+        "title": "Item Store",
+        "file": "6.38-item-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.39",
+        "title": "Karlloon",
+        "file": "6.40-639-karlloon.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.40",
+        "title": "6.39. Karlloon",
+        "file": "6.40-639-karlloon.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.41",
+        "title": "Magic Store",
+        "file": "6.41-magic-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.42",
+        "title": "Treadool",
+        "file": "6.43-642-treadool.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.43",
+        "title": "6.42. Treadool",
+        "file": "6.43-642-treadool.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.44",
+        "title": "Item Store",
+        "file": "6.44-item-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.45",
+        "title": "Forfeit Island",
+        "file": "6.45-forfeit-island.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.46",
+        "title": "Weapon Store",
+        "file": "6.46-weapon-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.47",
+        "title": "Armour Store",
+        "file": "6.47-armour-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.48",
+        "title": "Item Store",
+        "file": "6.48-item-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.49",
+        "title": "Casino",
+        "file": "6.49-casino.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.50",
+        "title": "Café",
+        "file": "6.50-caf.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.51",
+        "title": "Dankirk",
+        "file": "6.51-dankirk.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.52",
+        "title": "General Store",
+        "file": "6.52-general-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.53",
+        "title": "Magic Store",
+        "file": "6.53-magic-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.54",
+        "title": "Auralio",
+        "file": "6.54-auralio.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.55",
+        "title": "Equipment Store",
+        "file": "6.55-equipment-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.56",
+        "title": "Item Store",
+        "file": "6.56-item-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.57",
+        "title": "Ferim Kingdom",
+        "file": "6.57-ferim-kingdom.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.58",
+        "title": "General Store",
+        "file": "6.58-general-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.59",
+        "title": "Magic Store",
+        "file": "6.60-659-magic-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.60",
+        "title": "6.59. Magic Store",
+        "file": "6.60-659-magic-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.61",
+        "title": "Treble",
+        "file": "6.62-661-treble.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.62",
+        "title": "6.61. Treble",
+        "file": "6.62-661-treble.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.63",
+        "title": "Item Store",
+        "file": "6.63-item-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.64",
+        "title": "Portravia",
+        "file": "6.65-664-portravia.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.65",
+        "title": "6.64. Portravia",
+        "file": "6.65-664-portravia.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.66",
+        "title": "Magic Store",
+        "file": "6.66-magic-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.67",
+        "title": "Eserikto",
+        "file": "6.67-eserikto.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.68",
+        "title": "General Store",
+        "file": "6.68-general-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.69",
+        "title": "Magic Store",
+        "file": "6.69-magic-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.70",
+        "title": "Barnan",
+        "file": "6.71-670-barnan.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.71",
+        "title": "6.70. Barnan",
+        "file": "6.71-670-barnan.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.72",
+        "title": "Item Store",
+        "file": "6.72-item-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.73",
+        "title": "Durale",
+        "file": "6.73-durale.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.74",
+        "title": "General Store",
+        "file": "6.74-general-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.75",
+        "title": "Magic Store",
+        "file": "6.76-675-magic-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.76",
+        "title": "6.75. Magic Store",
+        "file": "6.76-675-magic-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.77",
+        "title": "Chaed",
+        "file": "6.78-677-chaed.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.78",
+        "title": "6.77. Chaed",
+        "file": "6.78-677-chaed.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.79",
+        "title": "Item Store",
+        "file": "6.79-item-store.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.80",
+        "title": "Preamarl",
+        "file": "6.81-680-preamarl.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.81",
+        "title": "6.80. Preamarl",
+        "file": "6.81-680-preamarl.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.82",
+        "title": "Narvick",
+        "file": "6.82-narvick.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "6.83",
+        "title": "The \"Ultimate\" Store",
+        "file": "6.83-the-ultimate-store.md",
+        "depth": 1,
+        "children": []
+      }
+    ]
+  },
+  {
+    "num": "7",
+    "title": "Capsule Monsters",
+    "file": "7-capsule-monsters.md",
+    "depth": 0,
+    "children": [
+      {
+        "num": "7.1",
+        "title": "The \"ART\" of Feeding",
+        "file": "7.1-the-art-of-feeding.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "7.2",
+        "title": "J E L Z E",
+        "file": "7.2-j-e-l-z-e.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "7.3",
+        "title": "B L A Z E",
+        "file": "7.3-b-l-a-z-e.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "7.4",
+        "title": "F L A S H",
+        "file": "7.4-f-l-a-s-h.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "7.5",
+        "title": "G U S T O",
+        "file": "7.5-g-u-s-t-o.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "7.6",
+        "title": "S U L L Y",
+        "file": "7.6-s-u-l-l-y.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "7.7",
+        "title": "D A R B I",
+        "file": "7.7-d-a-r-b-i.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "7.8",
+        "title": "Z E P P Y",
+        "file": "7.8-z-e-p-p-y.md",
+        "depth": 1,
+        "children": []
+      }
+    ]
+  },
+  {
+    "num": "8",
+    "title": "Lufia's Database",
+    "file": "8-lufias-database.md",
+    "depth": 0,
+    "children": []
+  },
+  {
+    "num": "9",
+    "title": "Freq.Asked ?'s",
+    "file": "9-freqasked-s.md",
+    "depth": 0,
+    "children": []
+  },
+  {
+    "num": "10",
+    "title": "Other Notes",
+    "file": "10-other-notes.md",
+    "depth": 0,
+    "children": []
+  },
+  {
+    "num": "11",
+    "title": "Special Thanks",
+    "file": "11-special-thanks.md",
+    "depth": 0,
+    "children": []
+  }
+]

@@ -1,0 +1,1707 @@
+[
+  {
+    "num": "0.1",
+    "title": "Achievement Checklist",
+    "file": "achievements.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "1.0",
+    "title": "Version History",
+    "file": "1.0-version-history.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "2.0",
+    "title": "Introduction",
+    "file": "2.0-introduction.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "3.0",
+    "title": "Set-up of the document, and slang you're going to start recognizing",
+    "file": "3.0-set-up-of-the-document-and-slang-youre-going-to-start-recognizing.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "4.0",
+    "title": "The Walkthrough",
+    "file": "4.0-the-walkthrough.md",
+    "depth": 1,
+    "children": [
+      {
+        "num": "4.1.1",
+        "title": "Prelude; the demolition of the Wind Crystal",
+        "file": "4.1.1-prelude-the-demolition-of-the-wind-crystal.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.1.2",
+        "title": "Prelude; the road to Tule",
+        "file": "4.1.2-prelude-the-road-to-tule.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.1.3",
+        "title": "Prelude; Faris Scherwiz",
+        "file": "4.1.3-prelude-faris-scherwiz.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.1.4",
+        "title": "Prelude; the lands around Tule",
+        "file": "4.1.4-prelude-the-lands-around-tule.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.1.5",
+        "title": "Prelude; the town of Tule",
+        "file": "4.1.5-prelude-the-town-of-tule.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.1.6",
+        "title": "Prelude; the Wind Shrine and Wing Raptor",
+        "file": "4.1.6-prelude-the-wind-shrine-and-wing-raptor.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.2.1",
+        "title": "The Wind Crystal Jobs",
+        "file": "4.2.1-the-wind-crystal-jobs.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.3.1",
+        "title": "Preparing for the Torna Canal",
+        "file": "4.3.1-preparing-for-the-torna-canal.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.3.2",
+        "title": "The Torna Canal",
+        "file": "4.3.2-the-torna-canal.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.4.1",
+        "title": "The Ship Graveyard",
+        "file": "4.4.1-the-ship-graveyard.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.4.2",
+        "title": "The battle with Siren",
+        "file": "4.4.2-the-battle-with-siren.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.5.1",
+        "title": "The lands of Carwen",
+        "file": "4.5.1-the-lands-of-carwen.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.5.2",
+        "title": "The town of Carwen",
+        "file": "4.5.2-the-town-of-carwen.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.6.1",
+        "title": "North Mountain",
+        "file": "4.6.1-north-mountain.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.6.2",
+        "title": "The battle with Magissa",
+        "file": "4.6.2-the-battle-with-magissa.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.7.1",
+        "title": "Home sweet home; Castle Tycoon",
+        "file": "4.7.1-home-sweet-home-castle-tycoon.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.8.1",
+        "title": "The country of Walse",
+        "file": "4.8.1-the-country-of-walse.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.8.2",
+        "title": "Castle Walse and the coming of the second meteorite",
+        "file": "4.8.2-castle-walse-and-the-coming-of-the-second-meteorite.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.8.3",
+        "title": "The golden warrior and the tower of Walse",
+        "file": "4.8.3-the-golden-warrior-and-the-tower-of-walse.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.8.4",
+        "title": "The fight with Garula",
+        "file": "4.8.4-the-fight-with-garula.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.9.1",
+        "title": "The Water Crystal Jobs",
+        "file": "4.9.1-the-water-crystal-jobs.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.10.1",
+        "title": "Karnak county",
+        "file": "4.10.1-karnak-county.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.10.2",
+        "title": "The town of Karnak",
+        "file": "4.10.2-the-town-of-karnak.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.10.3",
+        "title": "Ice to see you, Shiva",
+        "file": "4.10.3-ice-to-see-you-shiva.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.11.1",
+        "title": "The Fire-Powered Ship",
+        "file": "4.11.1-the-fire-powered-ship.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.11.2",
+        "title": "The battle with Liquid Flame",
+        "file": "4.11.2-the-battle-with-liquid-flame.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.12.1",
+        "title": "Escaping Karnak Castle",
+        "file": "4.12.1-escaping-karnak-castle.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.13.1",
+        "title": "Three Fire Crystal Jobs",
+        "file": "4.13.1-three-fire-crystal-jobs.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.14.1",
+        "title": "En route to the Library of the Ancients",
+        "file": "4.14.1-en-route-to-the-library-of-the-ancients.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.14.2",
+        "title": "The Library of the Ancients and the battle with Ifrit",
+        "file": "4.14.2-the-library-of-the-ancients-and-the-battle-with-ifrit.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.14.3",
+        "title": "The battle with Byblos",
+        "file": "4.14.3-the-battle-with-byblos.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.15.1",
+        "title": "The Seven Seas",
+        "file": "4.15.1-the-seven-seas.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.16.1",
+        "title": "The shores of Jachol",
+        "file": "4.16.1-the-shores-of-jachol.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.16.2",
+        "title": "The town of Jachol",
+        "file": "4.16.2-the-town-of-jachol.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.16.3",
+        "title": "Jachol Cave",
+        "file": "4.16.3-jachol-cave.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.17.1",
+        "title": "Shores of Istory",
+        "file": "4.17.1-shores-of-istory.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.17.2",
+        "title": "The town of Istory",
+        "file": "4.17.2-the-town-of-istory.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.17.3",
+        "title": "The forests of Istory and the battle with Ramuh",
+        "file": "4.17.3-the-forests-of-istory-and-the-battle-with-ramuh.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.18.1",
+        "title": "The town of Crescent",
+        "file": "4.18.1-the-town-of-crescent.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.18.2",
+        "title": "Crescent Island and the Black Chocobo",
+        "file": "4.18.2-crescent-island-and-the-black-chocobo.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.19.1",
+        "title": "The town of Lix",
+        "file": "4.19.1-the-town-of-lix.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.20.1",
+        "title": "The battle with the Sandworm",
+        "file": "4.20.1-the-battle-with-the-sandworm.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.20.2",
+        "title": "The Desert of Shifting Sands and Gohn, the Town of Ruin",
+        "file": "4.20.2-the-desert-of-shifting-sands-and-gohn-the-town-of-ruin.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.21.1",
+        "title": "Ancient Ronka Ruins under Crescent Island",
+        "file": "4.21.1-ancient-ronka-ruins-under-crescent-island.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.21.2",
+        "title": "Airship Exploitation; Prototype",
+        "file": "4.21.2-airship-exploitation-prototype.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.22.1",
+        "title": "The Ancient Ruins and the battle with Adamantoise",
+        "file": "4.22.1-the-ancient-ruins-and-the-battle-with-adamantoise.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.23.1",
+        "title": "The cannons of the Flying Ronka Civilization",
+        "file": "4.23.1-the-cannons-of-the-flying-ronka-civilization.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.23.2",
+        "title": "The Flying Ronka Ruins",
+        "file": "4.23.2-the-flying-ronka-ruins.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.23.3",
+        "title": "The battle with Archeoaevis",
+        "file": "4.23.3-the-battle-with-archeoaevis.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.24.1",
+        "title": "Karnak Meteorite; the fight with Titan",
+        "file": "4.24.1-karnak-meteorite-the-fight-with-titan.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.24.2",
+        "title": "Walse Meteorite; the fight with the Purobolos",
+        "file": "4.24.2-walse-meteorite-the-fight-with-the-purobolos.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.24.3",
+        "title": "Gohn Meteorite; the fight with the Manticore",
+        "file": "4.24.3-gohn-meteorite-the-fight-with-the-manticore.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.25.1",
+        "title": "Right and Ready",
+        "file": "4.25.1-right-and-ready.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.26.1",
+        "title": "Alien World; Pao Island",
+        "file": "4.26.1-alien-world-pao-island.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.27.1",
+        "title": "Galuf to the rescue; the first fight with Gilgamesh",
+        "file": "4.27.1-galuf-to-the-rescue-the-first-fight-with-gilgamesh.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.27.2",
+        "title": "Escape to the Big Bridge",
+        "file": "4.27.2-escape-to-the-big-bridge.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.27.3",
+        "title": "The Big Bridge; the second fight with Gilgamesh",
+        "file": "4.27.3-the-big-bridge-the-second-fight-with-gilgamesh.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.28.1",
+        "title": "The lands of Gloceana",
+        "file": "4.28.1-the-lands-of-gloceana.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.28.2",
+        "title": "Regole",
+        "file": "4.28.2-regole.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.29.1",
+        "title": "The sealed castle of Kuza",
+        "file": "4.29.1-the-sealed-castle-of-kuza.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.30.1",
+        "title": "The power is yours; saving the planet one Moogle at the time",
+        "file": "4.30.1-the-power-is-yours-saving-the-planet-one-moogle-at-the-time.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.30.2",
+        "title": "The Legacy of Mr. Moogle; Defiance",
+        "file": "4.30.2-the-legacy-of-mr-moogle-defiance.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.30.3",
+        "title": "The Moogle Village",
+        "file": "4.30.3-the-moogle-village.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.31.1",
+        "title": "Castle Bal",
+        "file": "4.31.1-castle-bal.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.31.2",
+        "title": "En route to Quelb",
+        "file": "4.31.2-en-route-to-quelb.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.31.3",
+        "title": "The town of Quelb and Lord Kelger Vlondett",
+        "file": "4.31.3-the-town-of-quelb-and-lord-kelger-vlondett.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.31.4",
+        "title": "Drakenvale",
+        "file": "4.31.4-drakenvale.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.31.5",
+        "title": "The fight with Dragon Pod",
+        "file": "4.31.5-the-fight-with-dragon-pod.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.32.1",
+        "title": "Ghido the Sage and Xezat Matias Surgate",
+        "file": "4.32.1-ghido-the-sage-and-xezat-matias-surgate.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.32.2",
+        "title": "Surgate Fleet; the third fight with Gilgamesh",
+        "file": "4.32.2-surgate-fleet-the-third-fight-with-gilgamesh.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.32.3",
+        "title": "Xezat of Ice; the barrier tower",
+        "file": "4.32.3-xezat-of-ice-the-barrier-tower.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.32.4",
+        "title": "The fight with Atomos",
+        "file": "4.32.4-the-fight-with-atomos.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.33.1",
+        "title": "The town of Moore",
+        "file": "4.33.1-the-town-of-moore.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.34.1",
+        "title": "The fight with Catoblepas",
+        "file": "4.34.1-the-fight-with-catoblepas.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.35.1",
+        "title": "Our brilliant leader: the great Sage Ghido",
+        "file": "4.35.1-our-brilliant-leader-the-great-sage-ghido.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.35.2",
+        "title": "The Great Forest of Moore",
+        "file": "4.35.2-the-great-forest-of-moore.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.35.3",
+        "title": "The fight against the Guardians",
+        "file": "4.35.3-the-fight-against-the-guardians.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.36.1",
+        "title": "The fight with the Gil Turtle; get rich or die tryin'",
+        "file": "4.36.1-the-fight-with-the-gil-turtle-get-rich-or-die-tryin.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.37.1",
+        "title": "Castle Exdeath 1; ascension and the fight with Carbuncle",
+        "file": "4.37.1-castle-exdeath-1-ascension-and-the-fight-with-carbuncle.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.37.2",
+        "title": "The fourth fight with Gilgamesh",
+        "file": "4.37.2-the-fourth-fight-with-gilgamesh.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.37.3",
+        "title": "The fight with the dark warlock Exdeath",
+        "file": "4.37.3-the-fight-with-the-dark-warlock-exdeath.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.38.1",
+        "title": "A second prelude; the fight with Antlion",
+        "file": "4.38.1-a-second-prelude-the-fight-with-antlion.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.39.1",
+        "title": "Mission statement",
+        "file": "4.39.1-mission-statement.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.39.2",
+        "title": "Preparation for the Pyramid in the Desert of Shifting Sands",
+        "file": "4.39.2-preparation-for-the-pyramid-in-the-desert-of-shifting-sands.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.40.1",
+        "title": "The Pyramid of Moore; the Earth tablet",
+        "file": "4.40.1-the-pyramid-of-moore-the-earth-tablet.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.40.2",
+        "title": "The fight with Melusine",
+        "file": "4.40.2-the-fight-with-melusine.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.41.1",
+        "title": "Airship Exploitation: Planet R",
+        "file": "4.41.1-airship-exploitation-planet-r.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.41.2",
+        "title": "Airship Exploitation: They see me Odin', they hatin'",
+        "file": "4.41.2-airship-exploitation-they-see-me-odin-they-hatin.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.41.3",
+        "title": "Overworld Encounters: Planet R",
+        "file": "4.41.3-overworld-encounters-planet-r.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.42.1",
+        "title": "The Phantom Village",
+        "file": "4.42.1-the-phantom-village.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.43.1",
+        "title": "The Island Shrine; the Wind tablet",
+        "file": "4.43.1-the-island-shrine-the-wind-tablet.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.44.1",
+        "title": "Fork Tower; the fight against Minotaur and Omniscient",
+        "file": "4.44.1-fork-tower-the-fight-against-minotaur-and-omniscient.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.45.1",
+        "title": "The sunken Tower of Walse; Famed Mimic Gogo and the 'final' shard",
+        "file": "4.45.1-the-sunken-tower-of-walse-famed-mimic-gogo-and-the-final-shard.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.46.1",
+        "title": "The Great Sea Trench; the Fire tablet",
+        "file": "4.46.1-the-great-sea-trench-the-fire-tablet.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.47.1",
+        "title": "Istory Falls; the Water tablet",
+        "file": "4.47.1-istory-falls-the-water-tablet.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.47.2",
+        "title": "Istory Falls; the battle with Leviathan",
+        "file": "4.47.2-istory-falls-the-battle-with-leviathan.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.48.1",
+        "title": "The Secret Shards",
+        "file": "4.48.1-the-secret-shards.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.49.1",
+        "title": "Taking the Black Chocobo; the battle with Bahamut",
+        "file": "4.49.1-taking-the-black-chocobo-the-battle-with-bahamut.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.49.2",
+        "title": "Taking the Black Chocobo; the Phoenix Tower",
+        "file": "4.49.2-taking-the-black-chocobo-the-phoenix-tower.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.50.1",
+        "title": "Wrapping Things Up; How to Kill Fiends and Mutilate People",
+        "file": "4.50.1-wrapping-things-up-how-to-kill-fiends-and-mutilate-people.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.51.1",
+        "title": "Interdimensional Rift; the Desert",
+        "file": "4.51.1-interdimensional-rift-the-desert.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.51.2",
+        "title": "Interdimensional Rift; the Ruins",
+        "file": "4.51.2-interdimensional-rift-the-ruins.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.51.3",
+        "title": "Interdimensional Rift; the Forest",
+        "file": "4.51.3-interdimensional-rift-the-forest.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.51.4",
+        "title": "Interdimensional Rift; the Cave",
+        "file": "4.51.4-interdimensional-rift-the-cave.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.51.5",
+        "title": "Interdimensional Rift; the Library",
+        "file": "4.51.5-interdimensional-rift-the-library.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.51.6",
+        "title": "Interdimensional Rift; the Tower",
+        "file": "4.51.6-interdimensional-rift-the-tower.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.51.7",
+        "title": "Interdimensional Rift; the Dimension Castle",
+        "file": "4.51.7-interdimensional-rift-the-dimension-castle.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.51.8",
+        "title": "Interdimensional Rift; the Last Floor",
+        "file": "4.51.8-interdimensional-rift-the-last-floor.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.52.1",
+        "title": "Facing the Void",
+        "file": "4.52.1-facing-the-void.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.53.1",
+        "title": "The Undeathables; Famed Mimic Gogo",
+        "file": "4.53.1-the-undeathables-famed-mimic-gogo.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.53.2",
+        "title": "The Undeathables; Magic Pot",
+        "file": "4.53.2-the-undeathables-magic-pot.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.53.3",
+        "title": "The Undeathables; Omega",
+        "file": "4.53.3-the-undeathables-omega.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.53.4",
+        "title": "The Undeathables; Shinryu",
+        "file": "4.53.4-the-undeathables-shinryu.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.54.1",
+        "title": "The Sealed Temple; Unlocking",
+        "file": "4.54.1-the-sealed-temple-unlocking.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.54.2",
+        "title": "The Sealed Temple; Arena",
+        "file": "4.54.2-the-sealed-temple-arena.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.54.3",
+        "title": "The Sealed Temple; The Lethe Court",
+        "file": "4.54.3-the-sealed-temple-the-lethe-court.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.55.1",
+        "title": "The Dark Arts",
+        "file": "4.55.1-the-dark-arts.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.56.1",
+        "title": "The Undeathables; Omega Mk. II",
+        "file": "4.56.1-the-undeathables-omega-mk-ii.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.56.2",
+        "title": "The Undeathables; Neo Shinryu",
+        "file": "4.56.2-the-undeathables-neo-shinryu.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "4.57.1",
+        "title": "The Cloister of the Dead",
+        "file": "4.57.1-the-cloister-of-the-dead.md",
+        "depth": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "num": "5.0",
+    "title": "Menus and Game Options: As boring as a concrete floor in math class",
+    "file": "5.0-menus-and-game-options-as-boring-as-a-concrete-floor-in-math-class.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "6.0",
+    "title": "Jobs JOB-LINK",
+    "file": "6.0-jobs-job-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "6.1",
+    "title": "Knight KNIGHT-LINK",
+    "file": "6.1-knight-knight-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "6.2",
+    "title": "Monk MONK-LINK",
+    "file": "6.2-monk-monk-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "6.3",
+    "title": "Thief THIEF-LINK",
+    "file": "6.3-thief-thief-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "6.4",
+    "title": "Dragoon DRAGOON-LINK",
+    "file": "6.4-dragoon-dragoon-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "6.5",
+    "title": "Ninja NINJA-LINK",
+    "file": "6.5-ninja-ninja-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "6.6",
+    "title": "Samurai SAMURAI-LINK",
+    "file": "6.6-samurai-samurai-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "6.7",
+    "title": "Berserker BERSERKER-LINK",
+    "file": "6.7-berserker-berserker-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "6.8",
+    "title": "Ranger RANGER-LINK",
+    "file": "6.8-ranger-ranger-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "6.9",
+    "title": "Mystic Knight MYSTIC-LINK",
+    "file": "6.9-mystic-knight-mystic-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "6.10",
+    "title": "White Mage WHITEM-LINK",
+    "file": "6.10-white-mage-whitem-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "6.11",
+    "title": "Black Mage BLACKM-LINK",
+    "file": "6.11-black-mage-blackm-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "6.12",
+    "title": "Time Mage TIMEM-LINK",
+    "file": "6.12-time-mage-timem-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "6.13",
+    "title": "Summoner SUMMONER-LINK",
+    "file": "6.13-summoner-summoner-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "6.14",
+    "title": "Blue Mage BLUEM-LINK",
+    "file": "6.14-blue-mage-bluem-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "6.15",
+    "title": "Red Mage REDMAGE-LINK",
+    "file": "6.15-red-mage-redmage-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "6.16",
+    "title": "Beastmaster BEASTM-LINK",
+    "file": "6.16-beastmaster-beastm-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "6.17",
+    "title": "Chemist CHEMIST-LINK",
+    "file": "6.17-chemist-chemist-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "6.18",
+    "title": "Geomancer GEOMANCER-LINK",
+    "file": "6.18-geomancer-geomancer-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "6.19",
+    "title": "Bard BARD-LINK",
+    "file": "6.19-bard-bard-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "6.20",
+    "title": "Dancer DANCER-LINK",
+    "file": "6.20-dancer-dancer-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "6.21",
+    "title": "Necromancer NECROMANCER-LINK",
+    "file": "6.21-necromancer-necromancer-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "6.22",
+    "title": "Oracle ORACLE-LINK",
+    "file": "6.22-oracle-oracle-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "6.23",
+    "title": "Cannoneer CANNONEER-LINK",
+    "file": "6.23-cannoneer-cannoneer-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "6.24",
+    "title": "Gladiator GLADIATOR-LINK",
+    "file": "6.24-gladiator-gladiator-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "6.25",
+    "title": "Mime MIME-LINK",
+    "file": "6.25-mime-mime-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "6.26",
+    "title": "Freelancer FREELANCER-LINK",
+    "file": "6.26-freelancer-freelancer-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "7.0",
+    "title": "Action abilities",
+    "file": "7.0-action-abilities.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "7.1",
+    "title": "!Throw THROW-LINK",
+    "file": "7.1-throw-throw-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "7.2",
+    "title": "!Animals ANIMALS-LINK",
+    "file": "7.2-animals-animals-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "7.3",
+    "title": "!Spellblade SPELLBLADE-LINK",
+    "file": "7.3-spellblade-spellblade-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "7.4",
+    "title": "!White WHITE-LINK",
+    "file": "7.4-white-white-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "7.5",
+    "title": "!Black BLACK-LINK",
+    "file": "7.5-black-black-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "7.6",
+    "title": "!Time TIME-LINK",
+    "file": "7.6-time-time-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "7.7",
+    "title": "!Summon SUMMON-LINK",
+    "file": "7.7-summon-summon-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "7.8",
+    "title": "!Blue BLUE-LINK",
+    "file": "7.8-blue-blue-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "7.9",
+    "title": "!Catch CATCH-LINK",
+    "file": "7.9-catch-catch-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "7.10",
+    "title": "!Release",
+    "file": "7.10-release.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "7.11",
+    "title": "!Drink DRINK-LINK",
+    "file": "7.11-drink-drink-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "7.12",
+    "title": "!Mix MIX-LINK",
+    "file": "7.12-mix-mix-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "7.13",
+    "title": "!Gaia GAIA-LINK",
+    "file": "7.13-gaia-gaia-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "7.14",
+    "title": "!Sing SING-LINK",
+    "file": "7.14-sing-sing-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "7.15",
+    "title": "!Dance DANCE-LINK",
+    "file": "7.15-dance-dance-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "7.16",
+    "title": "!Oath OATH-LINK",
+    "file": "7.16-oath-oath-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "7.17",
+    "title": "!Dark Arts DARKARTS-LINK",
+    "file": "7.17-dark-arts-darkarts-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "7.18",
+    "title": "!Condemn CONDEMN-LINK",
+    "file": "7.18-condemn-condemn-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "7.19",
+    "title": "!Predict PREDICT-LINK",
+    "file": "7.19-predict-predict-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "7.20",
+    "title": "!Finisher FINISHER-LINK",
+    "file": "7.20-finisher-finisher-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "7.21",
+    "title": "!Open Fire OPENFIRE-LINK",
+    "file": "7.21-open-fire-openfire-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "7.22",
+    "title": "!Combine COMBINE-LINK",
+    "file": "7.22-combine-combine-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "8.0",
+    "title": "Game mechanics; real quick, I promise",
+    "file": "8.0-game-mechanics-real-quick-i-promise.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "8.1",
+    "title": "Status ailments",
+    "file": "8.1-status-ailments.md",
+    "depth": 1,
+    "children": [
+      {
+        "num": "8.1.1",
+        "title": "Near Fatal",
+        "file": "8.1.1-near-fatal.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.1.2",
+        "title": "Darkness",
+        "file": "8.1.2-darkness.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.1.3",
+        "title": "Poison",
+        "file": "8.1.3-poison.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.1.4",
+        "title": "Mini",
+        "file": "8.1.4-mini.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.1.5",
+        "title": "Toad",
+        "file": "8.1.5-toad.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.1.6",
+        "title": "Silence",
+        "file": "8.1.6-silence.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.1.7",
+        "title": "Confuse",
+        "file": "8.1.7-confuse.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.1.8",
+        "title": "Paralyze",
+        "file": "8.1.8-paralyze.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.1.9",
+        "title": "Sleep",
+        "file": "8.1.9-sleep.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.1.10",
+        "title": "Old",
+        "file": "8.1.10-old.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.1.11",
+        "title": "Berserk",
+        "file": "8.1.11-berserk.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.1.12",
+        "title": "Image",
+        "file": "8.1.12-image.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.1.13",
+        "title": "Float",
+        "file": "8.1.13-float.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.1.14",
+        "title": "Regen",
+        "file": "8.1.14-regen.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.1.15",
+        "title": "Slow",
+        "file": "8.1.15-slow.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.1.16",
+        "title": "Haste",
+        "file": "8.1.16-haste.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.1.17",
+        "title": "Stop",
+        "file": "8.1.17-stop.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.1.18",
+        "title": "Shell",
+        "file": "8.1.18-shell.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.1.19",
+        "title": "Protect",
+        "file": "8.1.19-protect.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.1.20",
+        "title": "Reflect",
+        "file": "8.1.20-reflect.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.1.21",
+        "title": "Sap",
+        "file": "8.1.21-sap.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.1.22",
+        "title": "Zombie",
+        "file": "8.1.22-zombie.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.1.23",
+        "title": "Petrify",
+        "file": "8.1.23-petrify.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.1.24",
+        "title": "Death",
+        "file": "8.1.24-death.md",
+        "depth": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "num": "8.2",
+    "title": "Natures",
+    "file": "8.2-natures.md",
+    "depth": 1,
+    "children": [
+      {
+        "num": "8.2.1",
+        "title": "Undead",
+        "file": "8.2.1-undead.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.2.2",
+        "title": "Heavy",
+        "file": "8.2.2-heavy.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.2.3",
+        "title": "Magic Beast",
+        "file": "8.2.3-magic-beast.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.2.4",
+        "title": "Dragon, Humanoid, Desert and Aevis",
+        "file": "8.2.4-dragon-humanoid-desert-and-aevis.md",
+        "depth": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "num": "8.3",
+    "title": "Special items",
+    "file": "8.3-special-items.md",
+    "depth": 1,
+    "children": [
+      {
+        "num": "8.3.1",
+        "title": "The Magic Lamp",
+        "file": "8.3.1-the-magic-lamp.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.3.2",
+        "title": "The Wonder Wand",
+        "file": "8.3.2-the-wonder-wand.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.3.3",
+        "title": "Special Weapon Properties",
+        "file": "8.3.3-special-weapon-properties.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.3.4",
+        "title": "Special Armor Properties",
+        "file": "8.3.4-special-armor-properties.md",
+        "depth": 2,
+        "children": []
+      },
+      {
+        "num": "8.3.5",
+        "title": "Special Accessory Properties",
+        "file": "8.3.5-special-accessory-properties.md",
+        "depth": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "num": "8.4",
+    "title": "Attack types",
+    "file": "8.4-attack-types.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "8.5",
+    "title": "ATB, Agility and Equipment Weight",
+    "file": "8.5-atb-agility-and-equipment-weight.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "8.6",
+    "title": "Statistics",
+    "file": "8.6-statistics.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "8.7",
+    "title": "Critical Hits CRITICAL-LINK",
+    "file": "8.7-critical-hits-critical-link.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "8.8",
+    "title": "Defense and Magic Defense",
+    "file": "8.8-defense-and-magic-defense.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "9.0",
+    "title": "iOS/Android Release additions and notes",
+    "file": "9.1-90-iosandroid-release-additions-and-notes.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "9.1",
+    "title": "9.0. iOS/Android Release additions and notes",
+    "file": "9.1-90-iosandroid-release-additions-and-notes.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "9.2",
+    "title": "Achievements",
+    "file": "9.2-achievements.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "10.0",
+    "title": "Characters",
+    "file": "10.0-characters.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "10.1",
+    "title": "Bartz Klauser",
+    "file": "10.1-bartz-klauser.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "10.2",
+    "title": "Lenna Charlotte Tycoon",
+    "file": "10.2-lenna-charlotte-tycoon.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "10.3",
+    "title": "Sarisa \"Faris\" Scherwil Tycoon",
+    "file": "10.3-sarisa-faris-scherwil-tycoon.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "10.4",
+    "title": "Krile Mayer Baldesion",
+    "file": "10.4-krile-mayer-baldesion.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "10.5",
+    "title": "Galuf Halm Baldesion",
+    "file": "10.5-galuf-halm-baldesion.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "10.6",
+    "title": "Dorgann Klauser",
+    "file": "10.6-dorgann-klauser.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "10.7",
+    "title": "Kelger Vlondett",
+    "file": "10.7-kelger-vlondett.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "10.8",
+    "title": "Xezat Matias Surgate",
+    "file": "10.8-xezat-matias-surgate.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "10.9",
+    "title": "Exdeath",
+    "file": "10.9-exdeath.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "10.10",
+    "title": "Gilgamesh",
+    "file": "10.10-gilgamesh.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "10.11",
+    "title": "Alexander Highwind Tycoon",
+    "file": "10.11-alexander-highwind-tycoon.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "10.12",
+    "title": "Cid Previa",
+    "file": "10.12-cid-previa.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "10.13",
+    "title": "Mid Previa",
+    "file": "10.13-mid-previa.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "10.14",
+    "title": "Ghido",
+    "file": "10.14-ghido.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "10.15",
+    "title": "Boko",
+    "file": "11.1-1015-boko.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "11.0",
+    "title": "Checklists for you Completionists",
+    "file": "11.1-1015-boko.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "11.1",
+    "title": "10.15. Boko",
+    "file": "11.1-1015-boko.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "11.2",
+    "title": "Spell Checklist",
+    "file": "11.2-spell-checklist.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "11.3",
+    "title": "Treasure Checklist",
+    "file": "11.3-treasure-checklist.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "11.4",
+    "title": "Item Checklist",
+    "file": "11.4-item-checklist.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "12.0",
+    "title": "Credits; People I love because they've done things I wanted them to do",
+    "file": "12.0-credits-people-i-love-because-theyve-done-things-i-wanted-them-to-do.md",
+    "depth": 1,
+    "children": []
+  }
+]

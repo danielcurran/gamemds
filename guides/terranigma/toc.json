@@ -1,0 +1,401 @@
+[
+  {
+    "num": "0.1",
+    "title": "Achievement Checklist",
+    "file": "achievements.md",
+    "depth": 1,
+    "children": []
+  },
+  {
+    "num": "1",
+    "title": "Version Updates",
+    "file": "1-version-updates.md",
+    "depth": 0,
+    "children": []
+  },
+  {
+    "num": "2",
+    "title": "FAQ",
+    "file": "2-faq.md",
+    "depth": 0,
+    "children": []
+  },
+  {
+    "num": "3",
+    "title": "Controls",
+    "file": "3.1-3-controls.md",
+    "depth": 0,
+    "children": [
+      {
+        "num": "3.1",
+        "title": "3. Controls",
+        "file": "3.1-3-controls.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.3",
+        "title": "Statistics",
+        "file": "3.3-statistics.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.4",
+        "title": "Ailments",
+        "file": "3.4-ailments.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.5",
+        "title": "Combat system",
+        "file": "3.5-combat-system.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "3.6",
+        "title": "Environmental Elements",
+        "file": "3.6-environmental-elements.md",
+        "depth": 1,
+        "children": []
+      }
+    ]
+  },
+  {
+    "num": "4",
+    "title": "Main Characters",
+    "file": "4-main-characters.md",
+    "depth": 0,
+    "children": []
+  },
+  {
+    "num": "5",
+    "title": "Other Important People",
+    "file": "5-other-important-people.md",
+    "depth": 0,
+    "children": []
+  },
+  {
+    "num": "6",
+    "title": "Story",
+    "file": "6-story.md",
+    "depth": 0,
+    "children": []
+  },
+  {
+    "num": "7",
+    "title": "Walkthrough",
+    "file": "7-walkthrough.md",
+    "depth": 0,
+    "children": [
+      {
+        "num": "7.1",
+        "title": "The Outset",
+        "file": "7.1.1-71-the-outset.md",
+        "depth": 1,
+        "children": [
+          {
+            "num": "7.1.1",
+            "title": "7.1. The Outset",
+            "file": "7.1.1-71-the-outset.md",
+            "depth": 2,
+            "children": []
+          },
+          {
+            "num": "7.1.2",
+            "title": "The trials of the 5 towers",
+            "file": "7.1.2-the-trials-of-the-5-towers.md",
+            "depth": 2,
+            "children": []
+          },
+          {
+            "num": "7.1.3",
+            "title": "Resurrection of Mu & Polynese Optional",
+            "file": "7.1.3-resurrection-of-mu-polynese-optional.md",
+            "depth": 2,
+            "children": []
+          },
+          {
+            "num": "7.1.4",
+            "title": "Ascend to Earth",
+            "file": "7.1.4-ascend-to-earth.md",
+            "depth": 2,
+            "children": []
+          }
+        ]
+      },
+      {
+        "num": "7.2",
+        "title": "Resurrection of the World",
+        "file": "7.2.1-72-resurrection-of-the-world.md",
+        "depth": 1,
+        "children": [
+          {
+            "num": "7.2.1",
+            "title": "7.2. Resurrection of the World",
+            "file": "7.2.1-72-resurrection-of-the-world.md",
+            "depth": 2,
+            "children": []
+          },
+          {
+            "num": "7.2.2",
+            "title": "Revival of birds at the Grecliff",
+            "file": "7.2.2-revival-of-birds-at-the-grecliff.md",
+            "depth": 2,
+            "children": []
+          },
+          {
+            "num": "7.2.3",
+            "title": "Zue's prayer to the rain",
+            "file": "7.2.3-zues-prayer-to-the-rain.md",
+            "depth": 2,
+            "children": []
+          },
+          {
+            "num": "7.2.4",
+            "title": "Leim's voyage through a canyon",
+            "file": "7.2.4-leims-voyage-through-a-canyon.md",
+            "depth": 2,
+            "children": []
+          },
+          {
+            "num": "7.2.5",
+            "title": "The essence of humans buried in Eklamata",
+            "file": "7.2.5-the-essence-of-humans-buried-in-eklamata.md",
+            "depth": 2,
+            "children": []
+          }
+        ]
+      },
+      {
+        "num": "7.3",
+        "title": "Resurrection of the Genius",
+        "file": "7.3.1-73-resurrection-of-the-genius.md",
+        "depth": 1,
+        "children": [
+          {
+            "num": "7.3.1",
+            "title": "7.3. Resurrection of the Genius",
+            "file": "7.3.1-73-resurrection-of-the-genius.md",
+            "depth": 2,
+            "children": []
+          },
+          {
+            "num": "7.3.2",
+            "title": "Cure Loire's mute princess",
+            "file": "7.3.2-cure-loires-mute-princess.md",
+            "depth": 2,
+            "children": []
+          },
+          {
+            "num": "7.3.3",
+            "title": "The future of Loire Optional",
+            "file": "7.3.3-the-future-of-loire-optional.md",
+            "depth": 2,
+            "children": []
+          },
+          {
+            "num": "7.3.4",
+            "title": "The mourning queen of Sylvain",
+            "file": "7.3.4-the-mourning-queen-of-sylvain.md",
+            "depth": 2,
+            "children": []
+          },
+          {
+            "num": "7.3.5",
+            "title": "A boat trip to the new continent",
+            "file": "7.3.5-a-boat-trip-to-the-new-continent.md",
+            "depth": 2,
+            "children": []
+          },
+          {
+            "num": "7.3.7",
+            "title": "Liotto's carnival & Mermaid tower",
+            "file": "7.3.7-liottos-carnival-mermaid-tower.md",
+            "depth": 2,
+            "children": []
+          },
+          {
+            "num": "7.3.8",
+            "title": "Exploring the entire world by boat Optional",
+            "file": "7.3.8-exploring-the-entire-world-by-boat-optional.md",
+            "depth": 2,
+            "children": []
+          },
+          {
+            "num": "7.3.9",
+            "title": "Lon trading in Dragoon castle",
+            "file": "7.3.9-lon-trading-in-dragoon-castle.md",
+            "depth": 2,
+            "children": []
+          },
+          {
+            "num": "7.3.10",
+            "title": "Dr. Beruga's laboratory",
+            "file": "7.3.10-dr-berugas-laboratory.md",
+            "depth": 2,
+            "children": []
+          },
+          {
+            "num": "7.3.11",
+            "title": "Find and present the 5 Starstones",
+            "file": "7.3.11-find-and-present-the-5-starstones.md",
+            "depth": 2,
+            "children": []
+          }
+        ]
+      },
+      {
+        "num": "7.4",
+        "title": "Resurrection of the Hero",
+        "file": "7.4.1-74-resurrection-of-the-hero.md",
+        "depth": 1,
+        "children": [
+          {
+            "num": "7.4.1",
+            "title": "7.4. Resurrection of the Hero",
+            "file": "7.4.1-74-resurrection-of-the-hero.md",
+            "depth": 2,
+            "children": []
+          },
+          {
+            "num": "7.4.2",
+            "title": "The fully expanded world Optional",
+            "file": "7.4.2-the-fully-expanded-world-optional.md",
+            "depth": 2,
+            "children": []
+          },
+          {
+            "num": "7.4.3",
+            "title": "Stop Beruga once and for all",
+            "file": "7.4.3-stop-beruga-once-and-for-all.md",
+            "depth": 2,
+            "children": []
+          },
+          {
+            "num": "7.4.4",
+            "title": "Final. Return to Crysta in the underworld",
+            "file": "7.4.4-final-return-to-crysta-in-the-underworld.md",
+            "depth": 2,
+            "children": []
+          }
+        ]
+      },
+      {
+        "num": "8.1",
+        "title": "Magirock Locations",
+        "file": "8.1-magirock-locations.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "9.1",
+        "title": "Chart Tables",
+        "file": "9.2-91-chart-tables.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "9.2",
+        "title": "9.1. Chart Tables",
+        "file": "9.2-91-chart-tables.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "9.3",
+        "title": "Weapons",
+        "file": "9.3-weapons.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "9.4",
+        "title": "Armors",
+        "file": "9.4-armors.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "9.5",
+        "title": "Magic",
+        "file": "9.5-magic.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "9.6",
+        "title": "Monster",
+        "file": "9.6-monster.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "9.7",
+        "title": "Shop Lists",
+        "file": "9.7-shop-lists.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "10.1",
+        "title": "Town Expansions",
+        "file": "10.1-town-expansions.md",
+        "depth": 1,
+        "children": []
+      },
+      {
+        "num": "11.1",
+        "title": "Extra",
+        "file": "11.1.1-111-extra.md",
+        "depth": 1,
+        "children": [
+          {
+            "num": "11.1.1",
+            "title": "11.1. Extra",
+            "file": "11.1.1-111-extra.md",
+            "depth": 2,
+            "children": []
+          },
+          {
+            "num": "11.1.2",
+            "title": "Stuff",
+            "file": "11.1.2-stuff.md",
+            "depth": 2,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "num": "12",
+    "title": "Credits",
+    "file": "12-credits.md",
+    "depth": 0,
+    "children": []
+  },
+  {
+    "num": "13",
+    "title": "Copyrights",
+    "file": "13-copyrights.md",
+    "depth": 0,
+    "children": []
+  },
+  {
+    "num": "14",
+    "title": "E-mail, Questions and Contributions",
+    "file": "14-e-mail-questions-and-contributions.md",
+    "depth": 0,
+    "children": []
+  },
+  {
+    "num": "15",
+    "title": "Unfinished business",
+    "file": "15-unfinished-business.md",
+    "depth": 0,
+    "children": []
+  }
+]
